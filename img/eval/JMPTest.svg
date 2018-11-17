@@ -1,0 +1,2332 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="3072" height="1639" viewBox="0 6 3072 1639">
+  <g stroke="#000000" fill="#000000" font-family="Segoe UI" font-size="18">
+    <g>
+      <image x="0" y="16" width="13" height="12" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAMCAYAAAC5tzfZAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAABcSURBVChTnZHRCcAwCESzphs5k8tZrnBig9q0PCTG8325/AepPSe1M2bmquroYzgBQUTuwj+CDgp8MYuwIgtH0i68SpUwSp3AOXZiGTDYl1mlhDsg6OrTnZ74ugDwWlvyfitO0wAAAABJRU5ErkJggg=="/>
+      <g fill="#ECECEC">
+        <path stroke="none" d="M13.5,8.5 L13.5,47.5 L3072.5,47.5 L3072.5,8.5 z" fill-rule="evenodd"/>
+      </g>
+      <g stroke="#C0C0C0">
+        <path fill="none" d="M13.5,8.5 L13.5,47.5 L3072.5,47.5 L3072.5,8.5 z"/>
+      </g>
+      <g stroke="#AAAAAA">
+        <path fill="none" d="M20,22 L29,22 C29.71,22 30.38,22.38 30.73,23 C30.91,23.3 31,23.65 31,24 L31,31 C31,31.71 30.62,32.38 30,32.73 C29.7,32.91 29.35,33 29,33 L20,33 C19.29,33 18.62,32.62 18.27,32 C18.09,31.7 18,31.35 18,31 L18,24 C18,23.29 18.38,22.62 19,22.27 C19.3,22.09 19.65,22 20,22 z"/>
+        <image x="19" y="23" width="9" height="7" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAHCAYAAADam2dgAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADkSURBVChTY/j58yfbt2/fOEH469evXMj4+/fvHD9+/GBnAHGe5OVx3c3O5rqRlcV1FYgvAvE5IP8cUPxCSQkXw93Cwr7HDAz/bwPxZSA+C8THgXgfEG8D4oNAeYbjx49b7ElImH8FKHAGiI8C8X4g3g7EK4HiJ06cMGe4dOmS7vr16wMWh4auOsrI+A+kYAeQnhkWtnLdunWBly9f1mF4/vy5xJkzZ4xXrFgRPic6esk2Fpbf06Oilq5cuTLs9OnTJiB5BpDrX758KXbx4kW9nTt3um9YsiQBSLuB+CDxHz9+sAMAqO2OO8W2EgkAAAAASUVORK5CYII="/>
+      </g>
+      <g font-size="22" font-weight="bold">
+        <text stroke="none" x="33.5" y="27.5" dy="11">Graph Builder</text>
+      </g>
+      <g>
+        <clipPath id="clip1">
+          <path d="M-99999.5,47.5 L-99999.5,100000.5 L100000.5,100000.5 L100000.5,47.5 z"/>
+        </clipPath>
+        <g clip-path="url(#clip1)">
+          <g fill="#DDDDDD">
+            <path stroke="none" d="M102.5,123.5 L102.5,1499.5 L3049.5,1499.5 L3049.5,123.5 z" fill-rule="evenodd"/>
+          </g>
+          <g>
+            <clipPath id="clip2" clip-path="url(#clip1)">
+              <path d="M12.5,48.5 L12.5,86.5 L3049.5,86.5 L3049.5,48.5 z"/>
+            </clipPath>
+            <g clip-path="url(#clip2)">
+              <g>
+                <clipPath id="clip3" clip-path="url(#clip2)">
+                  <path d="M1232.5,48.5 L1232.5,87.5 L1828.5,87.5 L1828.5,48.5 z"/>
+                </clipPath>
+                <g clip-path="url(#clip3)">
+                  <g fill="#000000" font-size="22" font-weight="bold">
+                    <text stroke="none" x="1275.5" y="74.5">Not Found (max) &amp; 8 more vs. Search Type</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g fill="#E9E8DF">
+            <path stroke="none" d="M102.5,88.5 L102.5,123.5 L592.5,123.5 L592.5,88.5 z" fill-rule="evenodd"/>
+          </g>
+          <text stroke="none" x="347.5" y="106" dy="9" text-anchor="middle">confidence_is desc</text>
+          <g stroke="#DBD9CA">
+            <path fill="none" d="M102.5,88.5 L102.5,123.5 L592.5,123.5 L592.5,88.5 z"/>
+          </g>
+          <g fill="#E9E8DF">
+            <path stroke="none" d="M593.5,88.5 L593.5,123.5 L1084.5,123.5 L1084.5,88.5 z" fill-rule="evenodd"/>
+          </g>
+          <text stroke="none" x="839" y="106" dy="9" text-anchor="middle">confidence_is desc, pubdate desc</text>
+          <g stroke="#DBD9CA">
+            <path fill="none" d="M593.5,88.5 L593.5,123.5 L1084.5,123.5 L1084.5,88.5 z"/>
+          </g>
+          <g fill="#DDDDDD">
+            <path stroke="none" d="M592.5,88.5 L592.5,123.5 L593.5,123.5 L593.5,88.5 z" fill-rule="evenodd"/>
+          </g>
+          <g fill="#E9E8DF">
+            <path stroke="none" d="M1085.5,88.5 L1085.5,123.5 L1575.5,123.5 L1575.5,88.5 z" fill-rule="evenodd"/>
+          </g>
+          <text stroke="none" x="1330.5" y="106" dy="9" text-anchor="middle">product(pubdate,confidence_is) desc</text>
+          <g stroke="#DBD9CA">
+            <path fill="none" d="M1085.5,88.5 L1085.5,123.5 L1575.5,123.5 L1575.5,88.5 z"/>
+          </g>
+          <g fill="#DDDDDD">
+            <path stroke="none" d="M1084.5,88.5 L1084.5,123.5 L1085.5,123.5 L1085.5,88.5 z" fill-rule="evenodd"/>
+          </g>
+          <g fill="#E9E8DF">
+            <path stroke="none" d="M1576.5,88.5 L1576.5,123.5 L2066.5,123.5 L2066.5,88.5 z" fill-rule="evenodd"/>
+          </g>
+          <text stroke="none" x="1821.5" y="106" dy="9" text-anchor="middle">product(query($q),confidence_is) desc</text>
+          <g stroke="#DBD9CA">
+            <path fill="none" d="M1576.5,88.5 L1576.5,123.5 L2066.5,123.5 L2066.5,88.5 z"/>
+          </g>
+          <g fill="#DDDDDD">
+            <path stroke="none" d="M1575.5,88.5 L1575.5,123.5 L1576.5,123.5 L1576.5,88.5 z" fill-rule="evenodd"/>
+          </g>
+          <g fill="#E9E8DF">
+            <path stroke="none" d="M2067.5,88.5 L2067.5,123.5 L2558.5,123.5 L2558.5,88.5 z" fill-rule="evenodd"/>
+          </g>
+          <text stroke="none" x="2313" y="106" dy="9" text-anchor="middle">score desc</text>
+          <g stroke="#DBD9CA">
+            <path fill="none" d="M2067.5,88.5 L2067.5,123.5 L2558.5,123.5 L2558.5,88.5 z"/>
+          </g>
+          <g fill="#DDDDDD">
+            <path stroke="none" d="M2066.5,88.5 L2066.5,123.5 L2067.5,123.5 L2067.5,88.5 z" fill-rule="evenodd"/>
+          </g>
+          <g fill="#E9E8DF">
+            <path stroke="none" d="M2559.5,88.5 L2559.5,123.5 L3049.5,123.5 L3049.5,88.5 z" fill-rule="evenodd"/>
+          </g>
+          <text stroke="none" x="2804.5" y="106" dy="9" text-anchor="middle">score desc, confidence_is desc, pubdate desc</text>
+          <g stroke="#DBD9CA">
+            <path fill="none" d="M2559.5,88.5 L2559.5,123.5 L3049.5,123.5 L3049.5,88.5 z"/>
+          </g>
+          <g fill="#DDDDDD">
+            <path stroke="none" d="M2558.5,88.5 L2558.5,123.5 L2559.5,123.5 L2559.5,88.5 z" fill-rule="evenodd"/>
+          </g>
+          <g>
+            <clipPath id="clip4" clip-path="url(#clip1)">
+              <path d="M102.5,1608.5 L102.5,1644.5 L3049.5,1644.5 L3049.5,1608.5 z"/>
+            </clipPath>
+            <g clip-path="url(#clip4)">
+              <g>
+                <clipPath id="clip5" clip-path="url(#clip4)">
+                  <path d="M1503.5,1608.5 L1503.5,1646.5 L1647.5,1646.5 L1647.5,1608.5 z"/>
+                </clipPath>
+                <g clip-path="url(#clip5)">
+                  <g fill="#000000" font-size="20">
+                    <text stroke="none" x="1512.5" y="1632.5">Search Type</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g>
+            <clipPath id="clip6" clip-path="url(#clip1)">
+              <path d="M-873.5,1499.5 L-873.5,1608.5 L810.5,1608.5 L810.5,1499.5 z"/>
+            </clipPath>
+            <g clip-path="url(#clip6)">
+              <g stroke="#A5A5A5">
+                <path fill="none" d="M104.5,1500.5 L104.5,1502.5"/>
+                <path fill="none" d="M104.5,1502.5 L223.5,1502.5"/>
+                <path fill="none" d="M223.5,1502.5 L223.5,1500.5"/>
+                <path fill="none" d="M227.5,1500.5 L227.5,1502.5"/>
+                <path fill="none" d="M227.5,1502.5 L345.5,1502.5"/>
+                <path fill="none" d="M345.5,1502.5 L345.5,1500.5"/>
+                <path fill="none" d="M349.5,1500.5 L349.5,1502.5"/>
+                <path fill="none" d="M349.5,1502.5 L468.5,1502.5"/>
+                <path fill="none" d="M468.5,1502.5 L468.5,1500.5"/>
+                <path fill="none" d="M472.5,1500.5 L472.5,1502.5"/>
+                <path fill="none" d="M472.5,1502.5 L590.5,1502.5"/>
+                <path fill="none" d="M590.5,1502.5 L590.5,1500.5"/>
+              </g>
+              <g stroke="#A5A5A5" font-size="14">
+                <g transform="translate(161.5,1501.5)">
+                  <g transform="rotate(-45)">
+                    <text stroke="none" dy="15.4" text-anchor="end">~1</text>
+                  </g>
+                </g>
+                <g transform="translate(284.5,1501.5)">
+                  <g transform="rotate(-45)">
+                    <text stroke="none" dy="15.4" text-anchor="end">~2</text>
+                  </g>
+                </g>
+                <g transform="translate(406.5,1501.5)">
+                  <g transform="rotate(-45)">
+                    <text stroke="none" dy="15.4" text-anchor="end">Exact match</text>
+                  </g>
+                </g>
+                <g transform="translate(529.5,1501.5)">
+                  <g transform="rotate(-45)">
+                    <text stroke="none" dy="15.4" text-anchor="end">expand</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g>
+            <clipPath id="clip7" clip-path="url(#clip1)">
+              <path d="M102.5,1499.5 L102.5,1608.5 L592.5,1608.5 L592.5,1499.5 z"/>
+            </clipPath>
+            <g clip-path="url(#clip7)"/>
+          </g>
+          <g>
+            <clipPath id="clip8" clip-path="url(#clip1)">
+              <path d="M12.5,123.5 L12.5,1499.5 L48.5,1499.5 L48.5,123.5 z"/>
+            </clipPath>
+            <g clip-path="url(#clip8)">
+              <g fill="#000000" font-size="20">
+                <g transform="translate(12.5,811.5)">
+                  <g transform="rotate(-90)">
+                    <text stroke="none" dy="22" text-anchor="middle">Not Found (max) &amp; 8 more</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g>
+            <clipPath id="clip9" clip-path="url(#clip1)">
+              <path d="M48.5,113.5 L48.5,1509.5 L102.5,1509.5 L102.5,113.5 z"/>
+            </clipPath>
+            <g clip-path="url(#clip9)">
+              <g stroke="#A5A5A5">
+                <path fill="none" d="M99.5,1480.5 L102.5,1480.5"/>
+                <path fill="none" d="M99.5,1461.5 L102.5,1461.5"/>
+                <path fill="none" d="M99.5,1442.5 L102.5,1442.5"/>
+                <path fill="none" d="M99.5,1423.5 L102.5,1423.5"/>
+                <path fill="none" d="M99.5,1403.5 L102.5,1403.5"/>
+                <path fill="none" d="M99.5,1365.5 L102.5,1365.5"/>
+                <path fill="none" d="M99.5,1346.5 L102.5,1346.5"/>
+                <path fill="none" d="M99.5,1327.5 L102.5,1327.5"/>
+                <path fill="none" d="M99.5,1308.5 L102.5,1308.5"/>
+                <path fill="none" d="M99.5,1289.5 L102.5,1289.5"/>
+                <path fill="none" d="M99.5,1251.5 L102.5,1251.5"/>
+                <path fill="none" d="M99.5,1231.5 L102.5,1231.5"/>
+                <path fill="none" d="M99.5,1212.5 L102.5,1212.5"/>
+                <path fill="none" d="M99.5,1193.5 L102.5,1193.5"/>
+                <path fill="none" d="M99.5,1174.5 L102.5,1174.5"/>
+                <path fill="none" d="M99.5,1136.5 L102.5,1136.5"/>
+                <path fill="none" d="M99.5,1117.5 L102.5,1117.5"/>
+                <path fill="none" d="M99.5,1098.5 L102.5,1098.5"/>
+                <path fill="none" d="M99.5,1079.5 L102.5,1079.5"/>
+                <path fill="none" d="M99.5,1059.5 L102.5,1059.5"/>
+                <path fill="none" d="M99.5,1021.5 L102.5,1021.5"/>
+                <path fill="none" d="M99.5,1002.5 L102.5,1002.5"/>
+                <path fill="none" d="M99.5,983.5 L102.5,983.5"/>
+                <path fill="none" d="M99.5,964.5 L102.5,964.5"/>
+                <path fill="none" d="M99.5,945.5 L102.5,945.5"/>
+                <path fill="none" d="M99.5,907.5 L102.5,907.5"/>
+                <path fill="none" d="M99.5,887.5 L102.5,887.5"/>
+                <path fill="none" d="M99.5,868.5 L102.5,868.5"/>
+                <path fill="none" d="M99.5,849.5 L102.5,849.5"/>
+                <path fill="none" d="M99.5,830.5 L102.5,830.5"/>
+                <path fill="none" d="M99.5,792.5 L102.5,792.5"/>
+                <path fill="none" d="M99.5,773.5 L102.5,773.5"/>
+                <path fill="none" d="M99.5,754.5 L102.5,754.5"/>
+                <path fill="none" d="M99.5,735.5 L102.5,735.5"/>
+                <path fill="none" d="M99.5,715.5 L102.5,715.5"/>
+                <path fill="none" d="M99.5,677.5 L102.5,677.5"/>
+                <path fill="none" d="M99.5,658.5 L102.5,658.5"/>
+                <path fill="none" d="M99.5,639.5 L102.5,639.5"/>
+                <path fill="none" d="M99.5,620.5 L102.5,620.5"/>
+                <path fill="none" d="M99.5,601.5 L102.5,601.5"/>
+                <path fill="none" d="M99.5,563.5 L102.5,563.5"/>
+                <path fill="none" d="M99.5,543.5 L102.5,543.5"/>
+                <path fill="none" d="M99.5,524.5 L102.5,524.5"/>
+                <path fill="none" d="M99.5,505.5 L102.5,505.5"/>
+                <path fill="none" d="M99.5,486.5 L102.5,486.5"/>
+                <path fill="none" d="M99.5,448.5 L102.5,448.5"/>
+                <path fill="none" d="M99.5,429.5 L102.5,429.5"/>
+                <path fill="none" d="M99.5,410.5 L102.5,410.5"/>
+                <path fill="none" d="M99.5,391.5 L102.5,391.5"/>
+                <path fill="none" d="M99.5,371.5 L102.5,371.5"/>
+                <path fill="none" d="M99.5,333.5 L102.5,333.5"/>
+                <path fill="none" d="M99.5,314.5 L102.5,314.5"/>
+                <path fill="none" d="M99.5,295.5 L102.5,295.5"/>
+                <path fill="none" d="M99.5,276.5 L102.5,276.5"/>
+                <path fill="none" d="M99.5,257.5 L102.5,257.5"/>
+                <path fill="none" d="M99.5,219.5 L102.5,219.5"/>
+                <path fill="none" d="M99.5,199.5 L102.5,199.5"/>
+                <path fill="none" d="M99.5,180.5 L102.5,180.5"/>
+                <path fill="none" d="M99.5,161.5 L102.5,161.5"/>
+                <path fill="none" d="M99.5,142.5 L102.5,142.5"/>
+                <path fill="none" d="M96.5,1499.5 L102.5,1499.5"/>
+                <path fill="none" d="M96.5,1384.5 L102.5,1384.5"/>
+                <path fill="none" d="M96.5,1270.5 L102.5,1270.5"/>
+                <path fill="none" d="M96.5,1155.5 L102.5,1155.5"/>
+                <path fill="none" d="M96.5,1040.5 L102.5,1040.5"/>
+                <path fill="none" d="M96.5,926.5 L102.5,926.5"/>
+                <path fill="none" d="M96.5,811.5 L102.5,811.5"/>
+                <path fill="none" d="M96.5,696.5 L102.5,696.5"/>
+                <path fill="none" d="M96.5,582.5 L102.5,582.5"/>
+                <path fill="none" d="M96.5,467.5 L102.5,467.5"/>
+                <path fill="none" d="M96.5,352.5 L102.5,352.5"/>
+                <path fill="none" d="M96.5,238.5 L102.5,238.5"/>
+                <path fill="none" d="M96.5,123.5 L102.5,123.5"/>
+              </g>
+              <g stroke="#A5A5A5" font-size="14">
+                <text stroke="none" x="94.5" y="1499.5" dy="7" text-anchor="end">0</text>
+                <text stroke="none" x="94.5" y="1384.5" dy="7" text-anchor="end">100</text>
+                <text stroke="none" x="94.5" y="1270.5" dy="7" text-anchor="end">200</text>
+                <text stroke="none" x="94.5" y="1155.5" dy="7" text-anchor="end">300</text>
+                <text stroke="none" x="94.5" y="1040.5" dy="7" text-anchor="end">400</text>
+                <text stroke="none" x="94.5" y="926.5" dy="7" text-anchor="end">500</text>
+                <text stroke="none" x="94.5" y="811.5" dy="7" text-anchor="end">600</text>
+                <text stroke="none" x="94.5" y="696.5" dy="7" text-anchor="end">700</text>
+                <text stroke="none" x="94.5" y="582.5" dy="7" text-anchor="end">800</text>
+                <text stroke="none" x="94.5" y="467.5" dy="7" text-anchor="end">900</text>
+                <text stroke="none" x="94.5" y="352.5" dy="7" text-anchor="end">1000</text>
+                <text stroke="none" x="94.5" y="238.5" dy="7" text-anchor="end">1100</text>
+                <text stroke="none" x="94.5" y="123.5" dy="7" text-anchor="end">1200</text>
+              </g>
+            </g>
+          </g>
+          <g>
+            <clipPath id="clip10" clip-path="url(#clip1)">
+              <path d="M48.5,123.5 L48.5,1499.5 L102.5,1499.5 L102.5,123.5 z"/>
+            </clipPath>
+            <g clip-path="url(#clip10)"/>
+          </g>
+          <g fill="#FFFFFF">
+            <path stroke="none" d="M102.5,123.5 L102.5,1499.5 L592.5,1499.5 L592.5,123.5 z" fill-rule="evenodd"/>
+          </g>
+          <g>
+            <g>
+              <clipPath id="clip11" clip-path="url(#clip1)">
+                <path d="M102.5,122.5 L102.5,1499.5 L593.5,1499.5 L593.5,122.5 z"/>
+              </clipPath>
+              <g clip-path="url(#clip11)">
+                <g stroke="#F0F0F0">
+                  <path fill="none" d="M102.5,1595.5 L592.5,1595.5"/>
+                  <path fill="none" d="M102.5,1575.5 L592.5,1575.5"/>
+                  <path fill="none" d="M102.5,1556.5 L592.5,1556.5"/>
+                  <path fill="none" d="M102.5,1537.5 L592.5,1537.5"/>
+                  <path fill="none" d="M102.5,1518.5 L592.5,1518.5"/>
+                  <path fill="none" d="M102.5,1480.5 L592.5,1480.5"/>
+                  <path fill="none" d="M102.5,1461.5 L592.5,1461.5"/>
+                  <path fill="none" d="M102.5,1442.5 L592.5,1442.5"/>
+                  <path fill="none" d="M102.5,1423.5 L592.5,1423.5"/>
+                  <path fill="none" d="M102.5,1403.5 L592.5,1403.5"/>
+                  <path fill="none" d="M102.5,1365.5 L592.5,1365.5"/>
+                  <path fill="none" d="M102.5,1346.5 L592.5,1346.5"/>
+                  <path fill="none" d="M102.5,1327.5 L592.5,1327.5"/>
+                  <path fill="none" d="M102.5,1308.5 L592.5,1308.5"/>
+                  <path fill="none" d="M102.5,1289.5 L592.5,1289.5"/>
+                  <path fill="none" d="M102.5,1251.5 L592.5,1251.5"/>
+                  <path fill="none" d="M102.5,1231.5 L592.5,1231.5"/>
+                  <path fill="none" d="M102.5,1212.5 L592.5,1212.5"/>
+                  <path fill="none" d="M102.5,1193.5 L592.5,1193.5"/>
+                  <path fill="none" d="M102.5,1174.5 L592.5,1174.5"/>
+                  <path fill="none" d="M102.5,1136.5 L592.5,1136.5"/>
+                  <path fill="none" d="M102.5,1117.5 L592.5,1117.5"/>
+                  <path fill="none" d="M102.5,1098.5 L592.5,1098.5"/>
+                  <path fill="none" d="M102.5,1079.5 L592.5,1079.5"/>
+                  <path fill="none" d="M102.5,1059.5 L592.5,1059.5"/>
+                  <path fill="none" d="M102.5,1021.5 L592.5,1021.5"/>
+                  <path fill="none" d="M102.5,1002.5 L592.5,1002.5"/>
+                  <path fill="none" d="M102.5,983.5 L592.5,983.5"/>
+                  <path fill="none" d="M102.5,964.5 L592.5,964.5"/>
+                  <path fill="none" d="M102.5,945.5 L592.5,945.5"/>
+                  <path fill="none" d="M102.5,907.5 L592.5,907.5"/>
+                  <path fill="none" d="M102.5,887.5 L592.5,887.5"/>
+                  <path fill="none" d="M102.5,868.5 L592.5,868.5"/>
+                  <path fill="none" d="M102.5,849.5 L592.5,849.5"/>
+                  <path fill="none" d="M102.5,830.5 L592.5,830.5"/>
+                  <path fill="none" d="M102.5,792.5 L592.5,792.5"/>
+                  <path fill="none" d="M102.5,773.5 L592.5,773.5"/>
+                  <path fill="none" d="M102.5,754.5 L592.5,754.5"/>
+                  <path fill="none" d="M102.5,735.5 L592.5,735.5"/>
+                  <path fill="none" d="M102.5,715.5 L592.5,715.5"/>
+                  <path fill="none" d="M102.5,677.5 L592.5,677.5"/>
+                  <path fill="none" d="M102.5,658.5 L592.5,658.5"/>
+                  <path fill="none" d="M102.5,639.5 L592.5,639.5"/>
+                  <path fill="none" d="M102.5,620.5 L592.5,620.5"/>
+                  <path fill="none" d="M102.5,601.5 L592.5,601.5"/>
+                  <path fill="none" d="M102.5,563.5 L592.5,563.5"/>
+                  <path fill="none" d="M102.5,543.5 L592.5,543.5"/>
+                  <path fill="none" d="M102.5,524.5 L592.5,524.5"/>
+                  <path fill="none" d="M102.5,505.5 L592.5,505.5"/>
+                  <path fill="none" d="M102.5,486.5 L592.5,486.5"/>
+                  <path fill="none" d="M102.5,448.5 L592.5,448.5"/>
+                  <path fill="none" d="M102.5,429.5 L592.5,429.5"/>
+                  <path fill="none" d="M102.5,410.5 L592.5,410.5"/>
+                  <path fill="none" d="M102.5,391.5 L592.5,391.5"/>
+                  <path fill="none" d="M102.5,371.5 L592.5,371.5"/>
+                  <path fill="none" d="M102.5,333.5 L592.5,333.5"/>
+                  <path fill="none" d="M102.5,314.5 L592.5,314.5"/>
+                  <path fill="none" d="M102.5,295.5 L592.5,295.5"/>
+                  <path fill="none" d="M102.5,276.5 L592.5,276.5"/>
+                  <path fill="none" d="M102.5,257.5 L592.5,257.5"/>
+                  <path fill="none" d="M102.5,219.5 L592.5,219.5"/>
+                  <path fill="none" d="M102.5,199.5 L592.5,199.5"/>
+                  <path fill="none" d="M102.5,180.5 L592.5,180.5"/>
+                  <path fill="none" d="M102.5,161.5 L592.5,161.5"/>
+                  <path fill="none" d="M102.5,142.5 L592.5,142.5"/>
+                  <path fill="none" d="M102.5,104.5 L592.5,104.5"/>
+                  <path fill="none" d="M102.5,85.5 L592.5,85.5"/>
+                  <path fill="none" d="M102.5,66.5 L592.5,66.5"/>
+                  <path fill="none" d="M102.5,47.5 L592.5,47.5"/>
+                  <path fill="none" d="M102.5,27.5 L592.5,27.5"/>
+                </g>
+                <g stroke="#D7D7D7">
+                  <path fill="none" d="M102.5,1614.5 L592.5,1614.5"/>
+                  <path fill="none" d="M102.5,1499.5 L592.5,1499.5"/>
+                  <path fill="none" d="M102.5,1384.5 L592.5,1384.5"/>
+                  <path fill="none" d="M102.5,1270.5 L592.5,1270.5"/>
+                  <path fill="none" d="M102.5,1155.5 L592.5,1155.5"/>
+                  <path fill="none" d="M102.5,1040.5 L592.5,1040.5"/>
+                  <path fill="none" d="M102.5,926.5 L592.5,926.5"/>
+                  <path fill="none" d="M102.5,811.5 L592.5,811.5"/>
+                  <path fill="none" d="M102.5,696.5 L592.5,696.5"/>
+                  <path fill="none" d="M102.5,582.5 L592.5,582.5"/>
+                  <path fill="none" d="M102.5,467.5 L592.5,467.5"/>
+                  <path fill="none" d="M102.5,352.5 L592.5,352.5"/>
+                  <path fill="none" d="M102.5,238.5 L592.5,238.5"/>
+                  <path fill="none" d="M102.5,123.5 L592.5,123.5"/>
+                </g>
+                <g>
+                  <g stroke="none" fill="#406FDF">
+                    <g>
+                      <defs>
+                        <pattern id="pattern1" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY3DIv98AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkrzfAADdQkPzGK2exAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern1)" d="M114.75,1499.5 L114.75,1107.34 L125.64,1107.34 L125.64,1499.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#406FDF" fill="#406FDF">
+                    <path fill="none" d="M114.75,1499.5 L114.75,1107.34 L125.64,1107.34 L125.64,1499.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#D54857">
+                    <path stroke="none" d="M125.64,1499.5 L125.64,1416.94 L136.53,1416.94 L136.53,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#39B143">
+                    <path stroke="none" d="M136.53,1499.5 L136.53,1275.06 L147.42,1275.06 L147.42,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#A12CDC">
+                    <path stroke="none" d="M147.42,1499.5 L147.42,1393.83 L158.31,1393.83 L158.31,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#CF7926">
+                    <path stroke="none" d="M158.31,1499.5 L158.31,340.22 L169.19,340.22 L169.19,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#21BD91">
+                    <path stroke="none" d="M169.19,1499.5 L169.19,1218.57 L180.08,1218.57 L180.08,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C925CD">
+                    <path stroke="none" d="M180.08,1499.5 L180.08,767.77 L190.97,767.77 L190.97,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C8C127">
+                    <path stroke="none" d="M190.97,1499.5 L190.97,1187.57 L201.86,1187.57 L201.86,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#1FB6B6">
+                    <path stroke="none" d="M201.86,1499.5 L201.86,1411.75 L212.75,1411.75 L212.75,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#406FDF">
+                    <g>
+                      <defs>
+                        <pattern id="pattern2" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY3DIv98AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkrzfAADdQkPzGK2exAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern2)" d="M237.25,1499.5 L237.25,1118.81 L248.14,1118.81 L248.14,1499.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#406FDF" fill="#406FDF">
+                    <path fill="none" d="M237.25,1499.5 L237.25,1118.81 L248.14,1118.81 L248.14,1499.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#D54857">
+                    <path stroke="none" d="M248.14,1499.5 L248.14,1418.09 L259.03,1418.09 L259.03,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#39B143">
+                    <path stroke="none" d="M259.03,1499.5 L259.03,1280.64 L269.92,1280.64 L269.92,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#A12CDC">
+                    <path stroke="none" d="M269.92,1499.5 L269.92,1397.86 L280.81,1397.86 L280.81,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#CF7926">
+                    <path stroke="none" d="M280.81,1499.5 L280.81,328.75 L291.69,328.75 L291.69,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#21BD91">
+                    <path stroke="none" d="M291.69,1499.5 L291.69,1217.42 L302.58,1217.42 L302.58,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C925CD">
+                    <path stroke="none" d="M302.58,1499.5 L302.58,762.19 L313.47,762.19 L313.47,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C8C127">
+                    <path stroke="none" d="M313.47,1499.5 L313.47,1183.51 L324.36,1183.51 L324.36,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#1FB6B6">
+                    <path stroke="none" d="M324.36,1499.5 L324.36,1411.08 L335.25,1411.08 L335.25,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#406FDF">
+                    <g>
+                      <defs>
+                        <pattern id="pattern3" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY3DIv98AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkrzfAADdQkPzGK2exAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern3)" d="M359.75,1499.5 L359.75,1091.29 L370.64,1091.29 L370.64,1499.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#406FDF" fill="#406FDF">
+                    <path fill="none" d="M359.75,1499.5 L359.75,1091.29 L370.64,1091.29 L370.64,1499.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#D54857">
+                    <path stroke="none" d="M370.64,1499.5 L370.64,1411.21 L381.53,1411.21 L381.53,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#39B143">
+                    <path stroke="none" d="M381.53,1499.5 L381.53,1259.77 L392.42,1259.77 L392.42,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#A12CDC">
+                    <path stroke="none" d="M392.42,1499.5 L392.42,1389.52 L403.31,1389.52 L403.31,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#CF7926">
+                    <path stroke="none" d="M403.31,1499.5 L403.31,355.13 L414.19,355.13 L414.19,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#21BD91">
+                    <path stroke="none" d="M414.19,1499.5 L414.19,1224.3 L425.08,1224.3 L425.08,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C925CD">
+                    <path stroke="none" d="M425.08,1499.5 L425.08,783.06 L435.97,783.06 L435.97,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C8C127">
+                    <path stroke="none" d="M435.97,1499.5 L435.97,1192.25 L446.86,1192.25 L446.86,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#1FB6B6">
+                    <path stroke="none" d="M446.86,1499.5 L446.86,1413.58 L457.75,1413.58 L457.75,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#406FDF">
+                    <g>
+                      <defs>
+                        <pattern id="pattern4" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY3DIv98AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkrzfAADdQkPzGK2exAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern4)" d="M482.25,1499.5 L482.25,1243.79 L493.14,1243.79 L493.14,1499.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#406FDF" fill="#406FDF">
+                    <path fill="none" d="M482.25,1499.5 L482.25,1243.79 L493.14,1243.79 L493.14,1499.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#D54857">
+                    <path stroke="none" d="M493.14,1499.5 L493.14,1439.87 L504.03,1439.87 L504.03,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#39B143">
+                    <path stroke="none" d="M504.03,1499.5 L504.03,1356.01 L514.92,1356.01 L514.92,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#A12CDC">
+                    <path stroke="none" d="M514.92,1499.5 L514.92,1430.79 L525.81,1430.79 L525.81,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#CF7926">
+                    <path stroke="none" d="M525.81,1499.5 L525.81,204.91 L536.69,204.91 L536.69,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#21BD91">
+                    <path stroke="none" d="M536.69,1499.5 L536.69,1195.63 L547.58,1195.63 L547.58,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C925CD">
+                    <path stroke="none" d="M547.58,1499.5 L547.58,686.82 L558.47,686.82 L558.47,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C8C127">
+                    <path stroke="none" d="M558.47,1499.5 L558.47,1150.4 L569.36,1150.4 L569.36,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#1FB6B6">
+                    <path stroke="none" d="M569.36,1499.5 L569.36,1402.04 L580.25,1402.04 L580.25,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g>
+                    <text stroke="none" x="120.5" y="1109.5" dy="-1.8" text-anchor="middle">342</text>
+                    <text stroke="none" x="131.5" y="1418.5" dy="-1.8" text-anchor="middle">72</text>
+                    <text stroke="none" x="141.5" y="1277.5" dy="-1.8" text-anchor="middle">196</text>
+                    <text stroke="none" x="152.5" y="1395.5" dy="-1.8" text-anchor="middle">92,2</text>
+                    <text stroke="none" x="163.5" y="342.5" dy="-1.8" text-anchor="middle">1011</text>
+                    <text stroke="none" x="174.5" y="1220.5" dy="-1.8" text-anchor="middle">245</text>
+                    <text stroke="none" x="185.5" y="769.5" dy="-1.8" text-anchor="middle">638</text>
+                    <text stroke="none" x="196.5" y="1189.5" dy="-1.8" text-anchor="middle">272</text>
+                    <text stroke="none" x="207.5" y="1413.5" dy="-1.8" text-anchor="middle">76,5</text>
+                    <text stroke="none" x="242.5" y="1120.5" dy="-1.8" text-anchor="middle">332</text>
+                    <text stroke="none" x="253.5" y="1420.5" dy="-1.8" text-anchor="middle">71</text>
+                    <text stroke="none" x="264.5" y="1282.5" dy="-1.8" text-anchor="middle">191</text>
+                    <text stroke="none" x="275.5" y="1399.5" dy="-1.8" text-anchor="middle">88,6</text>
+                    <text stroke="none" x="286.5" y="330.5" dy="-1.8" text-anchor="middle">1021</text>
+                    <text stroke="none" x="297.5" y="1219.5" dy="-1.8" text-anchor="middle">246</text>
+                    <text stroke="none" x="308.5" y="764.5" dy="-1.8" text-anchor="middle">643</text>
+                    <text stroke="none" x="318.5" y="1185.5" dy="-1.8" text-anchor="middle">276</text>
+                    <text stroke="none" x="329.5" y="1413.5" dy="-1.8" text-anchor="middle">77,1</text>
+                    <text stroke="none" x="365.5" y="1093.5" dy="-1.8" text-anchor="middle">356</text>
+                    <text stroke="none" x="376.5" y="1413.5" dy="-1.8" text-anchor="middle">77</text>
+                    <text stroke="none" x="386.5" y="1261.5" dy="-1.8" text-anchor="middle">209</text>
+                    <text stroke="none" x="397.5" y="1391.5" dy="-1.8" text-anchor="middle">95,9</text>
+                    <text stroke="none" x="408.5" y="357.5" dy="-1.8" text-anchor="middle">998</text>
+                    <text stroke="none" x="419.5" y="1226.5" dy="-1.8" text-anchor="middle">240</text>
+                    <text stroke="none" x="430.5" y="785.5" dy="-1.8" text-anchor="middle">625</text>
+                    <text stroke="none" x="441.5" y="1194.5" dy="-1.8" text-anchor="middle">268</text>
+                    <text stroke="none" x="452.5" y="1415.5" dy="-1.8" text-anchor="middle">74,9</text>
+                    <text stroke="none" x="487.5" y="1245.5" dy="-1.8" text-anchor="middle">223</text>
+                    <text stroke="none" x="498.5" y="1441.5" dy="-1.8" text-anchor="middle">52</text>
+                    <text stroke="none" x="509.5" y="1358.5" dy="-1.8" text-anchor="middle">125</text>
+                    <text stroke="none" x="520.5" y="1432.5" dy="-1.8" text-anchor="middle">59,9</text>
+                    <text stroke="none" x="531.5" y="206.5" dy="-1.8" text-anchor="middle">1129</text>
+                    <text stroke="none" x="542.5" y="1197.5" dy="-1.8" text-anchor="middle">265</text>
+                    <text stroke="none" x="553.5" y="688.5" dy="-1.8" text-anchor="middle">709</text>
+                    <text stroke="none" x="563.5" y="1152.5" dy="-1.8" text-anchor="middle">304</text>
+                    <text stroke="none" x="574.5" y="1404.5" dy="-1.8" text-anchor="middle">85</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g stroke="#A5A5A5">
+            <path fill="none" d="M102.5,1499.5 L102.5,123.5 M592.5,1499.5 L102.5,1499.5"/>
+          </g>
+          <g>
+            <clipPath id="clip12" clip-path="url(#clip1)">
+              <path d="M-384.5,1499.5 L-384.5,1608.5 L1302.5,1608.5 L1302.5,1499.5 z"/>
+            </clipPath>
+            <g clip-path="url(#clip12)">
+              <g stroke="#A5A5A5">
+                <path fill="none" d="M595.5,1500.5 L595.5,1502.5"/>
+                <path fill="none" d="M595.5,1502.5 L714.5,1502.5"/>
+                <path fill="none" d="M714.5,1502.5 L714.5,1500.5"/>
+                <path fill="none" d="M718.5,1500.5 L718.5,1502.5"/>
+                <path fill="none" d="M718.5,1502.5 L837.5,1502.5"/>
+                <path fill="none" d="M837.5,1502.5 L837.5,1500.5"/>
+                <path fill="none" d="M841.5,1500.5 L841.5,1502.5"/>
+                <path fill="none" d="M841.5,1502.5 L959.5,1502.5"/>
+                <path fill="none" d="M959.5,1502.5 L959.5,1500.5"/>
+                <path fill="none" d="M963.5,1500.5 L963.5,1502.5"/>
+                <path fill="none" d="M963.5,1502.5 L1082.5,1502.5"/>
+                <path fill="none" d="M1082.5,1502.5 L1082.5,1500.5"/>
+              </g>
+              <g stroke="#A5A5A5" font-size="14">
+                <g transform="translate(652.5,1501.5)">
+                  <g transform="rotate(-45)">
+                    <text stroke="none" dy="15.4" text-anchor="end">~1</text>
+                  </g>
+                </g>
+                <g transform="translate(775.5,1501.5)">
+                  <g transform="rotate(-45)">
+                    <text stroke="none" dy="15.4" text-anchor="end">~2</text>
+                  </g>
+                </g>
+                <g transform="translate(898.5,1501.5)">
+                  <g transform="rotate(-45)">
+                    <text stroke="none" dy="15.4" text-anchor="end">Exact match</text>
+                  </g>
+                </g>
+                <g transform="translate(1020.5,1501.5)">
+                  <g transform="rotate(-45)">
+                    <text stroke="none" dy="15.4" text-anchor="end">expand</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g>
+            <clipPath id="clip13" clip-path="url(#clip1)">
+              <path d="M593.5,1499.5 L593.5,1608.5 L1084.5,1608.5 L1084.5,1499.5 z"/>
+            </clipPath>
+            <g clip-path="url(#clip13)"/>
+          </g>
+          <g fill="#FFFFFF">
+            <path stroke="none" d="M593.5,123.5 L593.5,1499.5 L1084.5,1499.5 L1084.5,123.5 z" fill-rule="evenodd"/>
+          </g>
+          <g>
+            <g>
+              <clipPath id="clip14" clip-path="url(#clip1)">
+                <path d="M592.5,122.5 L592.5,1499.5 L1085.5,1499.5 L1085.5,122.5 z"/>
+              </clipPath>
+              <g clip-path="url(#clip14)">
+                <g stroke="#F0F0F0">
+                  <path fill="none" d="M593.5,1595.5 L1084.5,1595.5"/>
+                  <path fill="none" d="M593.5,1575.5 L1084.5,1575.5"/>
+                  <path fill="none" d="M593.5,1556.5 L1084.5,1556.5"/>
+                  <path fill="none" d="M593.5,1537.5 L1084.5,1537.5"/>
+                  <path fill="none" d="M593.5,1518.5 L1084.5,1518.5"/>
+                  <path fill="none" d="M593.5,1480.5 L1084.5,1480.5"/>
+                  <path fill="none" d="M593.5,1461.5 L1084.5,1461.5"/>
+                  <path fill="none" d="M593.5,1442.5 L1084.5,1442.5"/>
+                  <path fill="none" d="M593.5,1423.5 L1084.5,1423.5"/>
+                  <path fill="none" d="M593.5,1403.5 L1084.5,1403.5"/>
+                  <path fill="none" d="M593.5,1365.5 L1084.5,1365.5"/>
+                  <path fill="none" d="M593.5,1346.5 L1084.5,1346.5"/>
+                  <path fill="none" d="M593.5,1327.5 L1084.5,1327.5"/>
+                  <path fill="none" d="M593.5,1308.5 L1084.5,1308.5"/>
+                  <path fill="none" d="M593.5,1289.5 L1084.5,1289.5"/>
+                  <path fill="none" d="M593.5,1251.5 L1084.5,1251.5"/>
+                  <path fill="none" d="M593.5,1231.5 L1084.5,1231.5"/>
+                  <path fill="none" d="M593.5,1212.5 L1084.5,1212.5"/>
+                  <path fill="none" d="M593.5,1193.5 L1084.5,1193.5"/>
+                  <path fill="none" d="M593.5,1174.5 L1084.5,1174.5"/>
+                  <path fill="none" d="M593.5,1136.5 L1084.5,1136.5"/>
+                  <path fill="none" d="M593.5,1117.5 L1084.5,1117.5"/>
+                  <path fill="none" d="M593.5,1098.5 L1084.5,1098.5"/>
+                  <path fill="none" d="M593.5,1079.5 L1084.5,1079.5"/>
+                  <path fill="none" d="M593.5,1059.5 L1084.5,1059.5"/>
+                  <path fill="none" d="M593.5,1021.5 L1084.5,1021.5"/>
+                  <path fill="none" d="M593.5,1002.5 L1084.5,1002.5"/>
+                  <path fill="none" d="M593.5,983.5 L1084.5,983.5"/>
+                  <path fill="none" d="M593.5,964.5 L1084.5,964.5"/>
+                  <path fill="none" d="M593.5,945.5 L1084.5,945.5"/>
+                  <path fill="none" d="M593.5,907.5 L1084.5,907.5"/>
+                  <path fill="none" d="M593.5,887.5 L1084.5,887.5"/>
+                  <path fill="none" d="M593.5,868.5 L1084.5,868.5"/>
+                  <path fill="none" d="M593.5,849.5 L1084.5,849.5"/>
+                  <path fill="none" d="M593.5,830.5 L1084.5,830.5"/>
+                  <path fill="none" d="M593.5,792.5 L1084.5,792.5"/>
+                  <path fill="none" d="M593.5,773.5 L1084.5,773.5"/>
+                  <path fill="none" d="M593.5,754.5 L1084.5,754.5"/>
+                  <path fill="none" d="M593.5,735.5 L1084.5,735.5"/>
+                  <path fill="none" d="M593.5,715.5 L1084.5,715.5"/>
+                  <path fill="none" d="M593.5,677.5 L1084.5,677.5"/>
+                  <path fill="none" d="M593.5,658.5 L1084.5,658.5"/>
+                  <path fill="none" d="M593.5,639.5 L1084.5,639.5"/>
+                  <path fill="none" d="M593.5,620.5 L1084.5,620.5"/>
+                  <path fill="none" d="M593.5,601.5 L1084.5,601.5"/>
+                  <path fill="none" d="M593.5,563.5 L1084.5,563.5"/>
+                  <path fill="none" d="M593.5,543.5 L1084.5,543.5"/>
+                  <path fill="none" d="M593.5,524.5 L1084.5,524.5"/>
+                  <path fill="none" d="M593.5,505.5 L1084.5,505.5"/>
+                  <path fill="none" d="M593.5,486.5 L1084.5,486.5"/>
+                  <path fill="none" d="M593.5,448.5 L1084.5,448.5"/>
+                  <path fill="none" d="M593.5,429.5 L1084.5,429.5"/>
+                  <path fill="none" d="M593.5,410.5 L1084.5,410.5"/>
+                  <path fill="none" d="M593.5,391.5 L1084.5,391.5"/>
+                  <path fill="none" d="M593.5,371.5 L1084.5,371.5"/>
+                  <path fill="none" d="M593.5,333.5 L1084.5,333.5"/>
+                  <path fill="none" d="M593.5,314.5 L1084.5,314.5"/>
+                  <path fill="none" d="M593.5,295.5 L1084.5,295.5"/>
+                  <path fill="none" d="M593.5,276.5 L1084.5,276.5"/>
+                  <path fill="none" d="M593.5,257.5 L1084.5,257.5"/>
+                  <path fill="none" d="M593.5,219.5 L1084.5,219.5"/>
+                  <path fill="none" d="M593.5,199.5 L1084.5,199.5"/>
+                  <path fill="none" d="M593.5,180.5 L1084.5,180.5"/>
+                  <path fill="none" d="M593.5,161.5 L1084.5,161.5"/>
+                  <path fill="none" d="M593.5,142.5 L1084.5,142.5"/>
+                  <path fill="none" d="M593.5,104.5 L1084.5,104.5"/>
+                  <path fill="none" d="M593.5,85.5 L1084.5,85.5"/>
+                  <path fill="none" d="M593.5,66.5 L1084.5,66.5"/>
+                  <path fill="none" d="M593.5,47.5 L1084.5,47.5"/>
+                  <path fill="none" d="M593.5,27.5 L1084.5,27.5"/>
+                </g>
+                <g stroke="#D7D7D7">
+                  <path fill="none" d="M593.5,1614.5 L1084.5,1614.5"/>
+                  <path fill="none" d="M593.5,1499.5 L1084.5,1499.5"/>
+                  <path fill="none" d="M593.5,1384.5 L1084.5,1384.5"/>
+                  <path fill="none" d="M593.5,1270.5 L1084.5,1270.5"/>
+                  <path fill="none" d="M593.5,1155.5 L1084.5,1155.5"/>
+                  <path fill="none" d="M593.5,1040.5 L1084.5,1040.5"/>
+                  <path fill="none" d="M593.5,926.5 L1084.5,926.5"/>
+                  <path fill="none" d="M593.5,811.5 L1084.5,811.5"/>
+                  <path fill="none" d="M593.5,696.5 L1084.5,696.5"/>
+                  <path fill="none" d="M593.5,582.5 L1084.5,582.5"/>
+                  <path fill="none" d="M593.5,467.5 L1084.5,467.5"/>
+                  <path fill="none" d="M593.5,352.5 L1084.5,352.5"/>
+                  <path fill="none" d="M593.5,238.5 L1084.5,238.5"/>
+                  <path fill="none" d="M593.5,123.5 L1084.5,123.5"/>
+                </g>
+                <g>
+                  <g stroke="none" fill="#406FDF">
+                    <g>
+                      <defs>
+                        <pattern id="pattern5" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY3DIv98AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkrzfAADdQkPzGK2exAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern5)" d="M605.78,1499.5 L605.78,1107.34 L616.69,1107.34 L616.69,1499.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#406FDF" fill="#406FDF">
+                    <path fill="none" d="M605.78,1499.5 L605.78,1107.34 L616.69,1107.34 L616.69,1499.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#D54857">
+                    <path stroke="none" d="M616.69,1499.5 L616.69,1416.94 L627.6,1416.94 L627.6,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#39B143">
+                    <path stroke="none" d="M627.6,1499.5 L627.6,1275.06 L638.51,1275.06 L638.51,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#A12CDC">
+                    <path stroke="none" d="M638.51,1499.5 L638.51,1393.83 L649.42,1393.83 L649.42,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#CF7926">
+                    <path stroke="none" d="M649.42,1499.5 L649.42,340.22 L660.33,340.22 L660.33,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#21BD91">
+                    <path stroke="none" d="M660.33,1499.5 L660.33,1218.57 L671.24,1218.57 L671.24,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C925CD">
+                    <path stroke="none" d="M671.24,1499.5 L671.24,767.77 L682.15,767.77 L682.15,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C8C127">
+                    <path stroke="none" d="M682.15,1499.5 L682.15,1187.57 L693.06,1187.57 L693.06,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#1FB6B6">
+                    <path stroke="none" d="M693.06,1499.5 L693.06,1411.75 L703.98,1411.75 L703.98,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#406FDF">
+                    <g>
+                      <defs>
+                        <pattern id="pattern6" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY3DIv98AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkrzfAADdQkPzGK2exAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern6)" d="M728.53,1499.5 L728.53,1118.81 L739.44,1118.81 L739.44,1499.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#406FDF" fill="#406FDF">
+                    <path fill="none" d="M728.53,1499.5 L728.53,1118.81 L739.44,1118.81 L739.44,1499.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#D54857">
+                    <path stroke="none" d="M739.44,1499.5 L739.44,1418.09 L750.35,1418.09 L750.35,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#39B143">
+                    <path stroke="none" d="M750.35,1499.5 L750.35,1280.64 L761.26,1280.64 L761.26,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#A12CDC">
+                    <path stroke="none" d="M761.26,1499.5 L761.26,1397.86 L772.17,1397.86 L772.17,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#CF7926">
+                    <path stroke="none" d="M772.17,1499.5 L772.17,328.75 L783.08,328.75 L783.08,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#21BD91">
+                    <path stroke="none" d="M783.08,1499.5 L783.08,1217.42 L793.99,1217.42 L793.99,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C925CD">
+                    <path stroke="none" d="M793.99,1499.5 L793.99,762.19 L804.9,762.19 L804.9,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C8C127">
+                    <path stroke="none" d="M804.9,1499.5 L804.9,1183.51 L815.81,1183.51 L815.81,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#1FB6B6">
+                    <path stroke="none" d="M815.81,1499.5 L815.81,1411.08 L826.73,1411.08 L826.73,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#406FDF">
+                    <g>
+                      <defs>
+                        <pattern id="pattern7" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY3DIv98AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkrzfAADdQkPzGK2exAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern7)" d="M851.28,1499.5 L851.28,1091.29 L862.19,1091.29 L862.19,1499.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#406FDF" fill="#406FDF">
+                    <path fill="none" d="M851.28,1499.5 L851.28,1091.29 L862.19,1091.29 L862.19,1499.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#D54857">
+                    <path stroke="none" d="M862.19,1499.5 L862.19,1411.21 L873.1,1411.21 L873.1,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#39B143">
+                    <path stroke="none" d="M873.1,1499.5 L873.1,1259.77 L884.01,1259.77 L884.01,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#A12CDC">
+                    <path stroke="none" d="M884.01,1499.5 L884.01,1389.52 L894.92,1389.52 L894.92,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#CF7926">
+                    <path stroke="none" d="M894.92,1499.5 L894.92,355.13 L905.83,355.13 L905.83,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#21BD91">
+                    <path stroke="none" d="M905.83,1499.5 L905.83,1224.3 L916.74,1224.3 L916.74,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C925CD">
+                    <path stroke="none" d="M916.74,1499.5 L916.74,783.06 L927.65,783.06 L927.65,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C8C127">
+                    <path stroke="none" d="M927.65,1499.5 L927.65,1192.25 L938.56,1192.25 L938.56,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#1FB6B6">
+                    <path stroke="none" d="M938.56,1499.5 L938.56,1413.58 L949.48,1413.58 L949.48,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#406FDF">
+                    <g>
+                      <defs>
+                        <pattern id="pattern8" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY3DIv98AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkrzfAADdQkPzGK2exAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern8)" d="M974.03,1499.5 L974.03,1243.79 L984.94,1243.79 L984.94,1499.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#406FDF" fill="#406FDF">
+                    <path fill="none" d="M974.03,1499.5 L974.03,1243.79 L984.94,1243.79 L984.94,1499.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#D54857">
+                    <path stroke="none" d="M984.94,1499.5 L984.94,1439.87 L995.85,1439.87 L995.85,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#39B143">
+                    <path stroke="none" d="M995.85,1499.5 L995.85,1356.01 L1006.76,1356.01 L1006.76,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#A12CDC">
+                    <path stroke="none" d="M1006.76,1499.5 L1006.76,1430.79 L1017.67,1430.79 L1017.67,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#CF7926">
+                    <path stroke="none" d="M1017.67,1499.5 L1017.67,204.91 L1028.58,204.91 L1028.58,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#21BD91">
+                    <path stroke="none" d="M1028.58,1499.5 L1028.58,1195.63 L1039.49,1195.63 L1039.49,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C925CD">
+                    <path stroke="none" d="M1039.49,1499.5 L1039.49,686.82 L1050.4,686.82 L1050.4,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C8C127">
+                    <path stroke="none" d="M1050.4,1499.5 L1050.4,1150.4 L1061.31,1150.4 L1061.31,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#1FB6B6">
+                    <path stroke="none" d="M1061.31,1499.5 L1061.31,1402.04 L1072.22,1402.04 L1072.22,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g>
+                    <text stroke="none" x="611.5" y="1109.5" dy="-1.8" text-anchor="middle">342</text>
+                    <text stroke="none" x="622.5" y="1418.5" dy="-1.8" text-anchor="middle">72</text>
+                    <text stroke="none" x="633.5" y="1277.5" dy="-1.8" text-anchor="middle">196</text>
+                    <text stroke="none" x="643.5" y="1395.5" dy="-1.8" text-anchor="middle">92,2</text>
+                    <text stroke="none" x="654.5" y="342.5" dy="-1.8" text-anchor="middle">1011</text>
+                    <text stroke="none" x="665.5" y="1220.5" dy="-1.8" text-anchor="middle">245</text>
+                    <text stroke="none" x="676.5" y="769.5" dy="-1.8" text-anchor="middle">638</text>
+                    <text stroke="none" x="687.5" y="1189.5" dy="-1.8" text-anchor="middle">272</text>
+                    <text stroke="none" x="698.5" y="1413.5" dy="-1.8" text-anchor="middle">76,5</text>
+                    <text stroke="none" x="733.5" y="1120.5" dy="-1.8" text-anchor="middle">332</text>
+                    <text stroke="none" x="744.5" y="1420.5" dy="-1.8" text-anchor="middle">71</text>
+                    <text stroke="none" x="755.5" y="1282.5" dy="-1.8" text-anchor="middle">191</text>
+                    <text stroke="none" x="766.5" y="1399.5" dy="-1.8" text-anchor="middle">88,6</text>
+                    <text stroke="none" x="777.5" y="330.5" dy="-1.8" text-anchor="middle">1021</text>
+                    <text stroke="none" x="788.5" y="1219.5" dy="-1.8" text-anchor="middle">246</text>
+                    <text stroke="none" x="799.5" y="764.5" dy="-1.8" text-anchor="middle">643</text>
+                    <text stroke="none" x="810.5" y="1185.5" dy="-1.8" text-anchor="middle">276</text>
+                    <text stroke="none" x="821.5" y="1413.5" dy="-1.8" text-anchor="middle">77,1</text>
+                    <text stroke="none" x="856.5" y="1093.5" dy="-1.8" text-anchor="middle">356</text>
+                    <text stroke="none" x="867.5" y="1413.5" dy="-1.8" text-anchor="middle">77</text>
+                    <text stroke="none" x="878.5" y="1261.5" dy="-1.8" text-anchor="middle">209</text>
+                    <text stroke="none" x="889.5" y="1391.5" dy="-1.8" text-anchor="middle">95,9</text>
+                    <text stroke="none" x="900.5" y="357.5" dy="-1.8" text-anchor="middle">998</text>
+                    <text stroke="none" x="911.5" y="1226.5" dy="-1.8" text-anchor="middle">240</text>
+                    <text stroke="none" x="922.5" y="785.5" dy="-1.8" text-anchor="middle">625</text>
+                    <text stroke="none" x="933.5" y="1194.5" dy="-1.8" text-anchor="middle">268</text>
+                    <text stroke="none" x="944.5" y="1415.5" dy="-1.8" text-anchor="middle">74,9</text>
+                    <text stroke="none" x="979.5" y="1245.5" dy="-1.8" text-anchor="middle">223</text>
+                    <text stroke="none" x="990.5" y="1441.5" dy="-1.8" text-anchor="middle">52</text>
+                    <text stroke="none" x="1001.5" y="1358.5" dy="-1.8" text-anchor="middle">125</text>
+                    <text stroke="none" x="1012.5" y="1432.5" dy="-1.8" text-anchor="middle">59,9</text>
+                    <text stroke="none" x="1023.5" y="206.5" dy="-1.8" text-anchor="middle">1129</text>
+                    <text stroke="none" x="1034.5" y="1197.5" dy="-1.8" text-anchor="middle">265</text>
+                    <text stroke="none" x="1044.5" y="688.5" dy="-1.8" text-anchor="middle">709</text>
+                    <text stroke="none" x="1055.5" y="1152.5" dy="-1.8" text-anchor="middle">304</text>
+                    <text stroke="none" x="1066.5" y="1404.5" dy="-1.8" text-anchor="middle">85</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g stroke="#A5A5A5">
+            <path fill="none" d="M1084.5,1499.5 L593.5,1499.5"/>
+          </g>
+          <g>
+            <clipPath id="clip15" clip-path="url(#clip1)">
+              <path d="M109.5,1499.5 L109.5,1608.5 L1793.5,1608.5 L1793.5,1499.5 z"/>
+            </clipPath>
+            <g clip-path="url(#clip15)">
+              <g stroke="#A5A5A5">
+                <path fill="none" d="M1087.5,1500.5 L1087.5,1502.5"/>
+                <path fill="none" d="M1087.5,1502.5 L1206.5,1502.5"/>
+                <path fill="none" d="M1206.5,1502.5 L1206.5,1500.5"/>
+                <path fill="none" d="M1210.5,1500.5 L1210.5,1502.5"/>
+                <path fill="none" d="M1210.5,1502.5 L1328.5,1502.5"/>
+                <path fill="none" d="M1328.5,1502.5 L1328.5,1500.5"/>
+                <path fill="none" d="M1332.5,1500.5 L1332.5,1502.5"/>
+                <path fill="none" d="M1332.5,1502.5 L1451.5,1502.5"/>
+                <path fill="none" d="M1451.5,1502.5 L1451.5,1500.5"/>
+                <path fill="none" d="M1455.5,1500.5 L1455.5,1502.5"/>
+                <path fill="none" d="M1455.5,1502.5 L1573.5,1502.5"/>
+                <path fill="none" d="M1573.5,1502.5 L1573.5,1500.5"/>
+              </g>
+              <g stroke="#A5A5A5" font-size="14">
+                <g transform="translate(1144.5,1501.5)">
+                  <g transform="rotate(-45)">
+                    <text stroke="none" dy="15.4" text-anchor="end">~1</text>
+                  </g>
+                </g>
+                <g transform="translate(1267.5,1501.5)">
+                  <g transform="rotate(-45)">
+                    <text stroke="none" dy="15.4" text-anchor="end">~2</text>
+                  </g>
+                </g>
+                <g transform="translate(1389.5,1501.5)">
+                  <g transform="rotate(-45)">
+                    <text stroke="none" dy="15.4" text-anchor="end">Exact match</text>
+                  </g>
+                </g>
+                <g transform="translate(1512.5,1501.5)">
+                  <g transform="rotate(-45)">
+                    <text stroke="none" dy="15.4" text-anchor="end">expand</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g>
+            <clipPath id="clip16" clip-path="url(#clip1)">
+              <path d="M1085.5,1499.5 L1085.5,1608.5 L1575.5,1608.5 L1575.5,1499.5 z"/>
+            </clipPath>
+            <g clip-path="url(#clip16)"/>
+          </g>
+          <g fill="#FFFFFF">
+            <path stroke="none" d="M1085.5,123.5 L1085.5,1499.5 L1575.5,1499.5 L1575.5,123.5 z" fill-rule="evenodd"/>
+          </g>
+          <g>
+            <g>
+              <clipPath id="clip17" clip-path="url(#clip1)">
+                <path d="M1084.5,122.5 L1084.5,1499.5 L1576.5,1499.5 L1576.5,122.5 z"/>
+              </clipPath>
+              <g clip-path="url(#clip17)">
+                <g stroke="#F0F0F0">
+                  <path fill="none" d="M1085.5,1595.5 L1575.5,1595.5"/>
+                  <path fill="none" d="M1085.5,1575.5 L1575.5,1575.5"/>
+                  <path fill="none" d="M1085.5,1556.5 L1575.5,1556.5"/>
+                  <path fill="none" d="M1085.5,1537.5 L1575.5,1537.5"/>
+                  <path fill="none" d="M1085.5,1518.5 L1575.5,1518.5"/>
+                  <path fill="none" d="M1085.5,1480.5 L1575.5,1480.5"/>
+                  <path fill="none" d="M1085.5,1461.5 L1575.5,1461.5"/>
+                  <path fill="none" d="M1085.5,1442.5 L1575.5,1442.5"/>
+                  <path fill="none" d="M1085.5,1423.5 L1575.5,1423.5"/>
+                  <path fill="none" d="M1085.5,1403.5 L1575.5,1403.5"/>
+                  <path fill="none" d="M1085.5,1365.5 L1575.5,1365.5"/>
+                  <path fill="none" d="M1085.5,1346.5 L1575.5,1346.5"/>
+                  <path fill="none" d="M1085.5,1327.5 L1575.5,1327.5"/>
+                  <path fill="none" d="M1085.5,1308.5 L1575.5,1308.5"/>
+                  <path fill="none" d="M1085.5,1289.5 L1575.5,1289.5"/>
+                  <path fill="none" d="M1085.5,1251.5 L1575.5,1251.5"/>
+                  <path fill="none" d="M1085.5,1231.5 L1575.5,1231.5"/>
+                  <path fill="none" d="M1085.5,1212.5 L1575.5,1212.5"/>
+                  <path fill="none" d="M1085.5,1193.5 L1575.5,1193.5"/>
+                  <path fill="none" d="M1085.5,1174.5 L1575.5,1174.5"/>
+                  <path fill="none" d="M1085.5,1136.5 L1575.5,1136.5"/>
+                  <path fill="none" d="M1085.5,1117.5 L1575.5,1117.5"/>
+                  <path fill="none" d="M1085.5,1098.5 L1575.5,1098.5"/>
+                  <path fill="none" d="M1085.5,1079.5 L1575.5,1079.5"/>
+                  <path fill="none" d="M1085.5,1059.5 L1575.5,1059.5"/>
+                  <path fill="none" d="M1085.5,1021.5 L1575.5,1021.5"/>
+                  <path fill="none" d="M1085.5,1002.5 L1575.5,1002.5"/>
+                  <path fill="none" d="M1085.5,983.5 L1575.5,983.5"/>
+                  <path fill="none" d="M1085.5,964.5 L1575.5,964.5"/>
+                  <path fill="none" d="M1085.5,945.5 L1575.5,945.5"/>
+                  <path fill="none" d="M1085.5,907.5 L1575.5,907.5"/>
+                  <path fill="none" d="M1085.5,887.5 L1575.5,887.5"/>
+                  <path fill="none" d="M1085.5,868.5 L1575.5,868.5"/>
+                  <path fill="none" d="M1085.5,849.5 L1575.5,849.5"/>
+                  <path fill="none" d="M1085.5,830.5 L1575.5,830.5"/>
+                  <path fill="none" d="M1085.5,792.5 L1575.5,792.5"/>
+                  <path fill="none" d="M1085.5,773.5 L1575.5,773.5"/>
+                  <path fill="none" d="M1085.5,754.5 L1575.5,754.5"/>
+                  <path fill="none" d="M1085.5,735.5 L1575.5,735.5"/>
+                  <path fill="none" d="M1085.5,715.5 L1575.5,715.5"/>
+                  <path fill="none" d="M1085.5,677.5 L1575.5,677.5"/>
+                  <path fill="none" d="M1085.5,658.5 L1575.5,658.5"/>
+                  <path fill="none" d="M1085.5,639.5 L1575.5,639.5"/>
+                  <path fill="none" d="M1085.5,620.5 L1575.5,620.5"/>
+                  <path fill="none" d="M1085.5,601.5 L1575.5,601.5"/>
+                  <path fill="none" d="M1085.5,563.5 L1575.5,563.5"/>
+                  <path fill="none" d="M1085.5,543.5 L1575.5,543.5"/>
+                  <path fill="none" d="M1085.5,524.5 L1575.5,524.5"/>
+                  <path fill="none" d="M1085.5,505.5 L1575.5,505.5"/>
+                  <path fill="none" d="M1085.5,486.5 L1575.5,486.5"/>
+                  <path fill="none" d="M1085.5,448.5 L1575.5,448.5"/>
+                  <path fill="none" d="M1085.5,429.5 L1575.5,429.5"/>
+                  <path fill="none" d="M1085.5,410.5 L1575.5,410.5"/>
+                  <path fill="none" d="M1085.5,391.5 L1575.5,391.5"/>
+                  <path fill="none" d="M1085.5,371.5 L1575.5,371.5"/>
+                  <path fill="none" d="M1085.5,333.5 L1575.5,333.5"/>
+                  <path fill="none" d="M1085.5,314.5 L1575.5,314.5"/>
+                  <path fill="none" d="M1085.5,295.5 L1575.5,295.5"/>
+                  <path fill="none" d="M1085.5,276.5 L1575.5,276.5"/>
+                  <path fill="none" d="M1085.5,257.5 L1575.5,257.5"/>
+                  <path fill="none" d="M1085.5,219.5 L1575.5,219.5"/>
+                  <path fill="none" d="M1085.5,199.5 L1575.5,199.5"/>
+                  <path fill="none" d="M1085.5,180.5 L1575.5,180.5"/>
+                  <path fill="none" d="M1085.5,161.5 L1575.5,161.5"/>
+                  <path fill="none" d="M1085.5,142.5 L1575.5,142.5"/>
+                  <path fill="none" d="M1085.5,104.5 L1575.5,104.5"/>
+                  <path fill="none" d="M1085.5,85.5 L1575.5,85.5"/>
+                  <path fill="none" d="M1085.5,66.5 L1575.5,66.5"/>
+                  <path fill="none" d="M1085.5,47.5 L1575.5,47.5"/>
+                  <path fill="none" d="M1085.5,27.5 L1575.5,27.5"/>
+                </g>
+                <g stroke="#D7D7D7">
+                  <path fill="none" d="M1085.5,1614.5 L1575.5,1614.5"/>
+                  <path fill="none" d="M1085.5,1499.5 L1575.5,1499.5"/>
+                  <path fill="none" d="M1085.5,1384.5 L1575.5,1384.5"/>
+                  <path fill="none" d="M1085.5,1270.5 L1575.5,1270.5"/>
+                  <path fill="none" d="M1085.5,1155.5 L1575.5,1155.5"/>
+                  <path fill="none" d="M1085.5,1040.5 L1575.5,1040.5"/>
+                  <path fill="none" d="M1085.5,926.5 L1575.5,926.5"/>
+                  <path fill="none" d="M1085.5,811.5 L1575.5,811.5"/>
+                  <path fill="none" d="M1085.5,696.5 L1575.5,696.5"/>
+                  <path fill="none" d="M1085.5,582.5 L1575.5,582.5"/>
+                  <path fill="none" d="M1085.5,467.5 L1575.5,467.5"/>
+                  <path fill="none" d="M1085.5,352.5 L1575.5,352.5"/>
+                  <path fill="none" d="M1085.5,238.5 L1575.5,238.5"/>
+                  <path fill="none" d="M1085.5,123.5 L1575.5,123.5"/>
+                </g>
+                <g>
+                  <g stroke="none" fill="#406FDF">
+                    <g>
+                      <defs>
+                        <pattern id="pattern9" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY3DIv98AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkrzfAADdQkPzGK2exAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern9)" d="M1097.75,1499.5 L1097.75,1105.05 L1108.64,1105.05 L1108.64,1499.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#406FDF" fill="#406FDF">
+                    <path fill="none" d="M1097.75,1499.5 L1097.75,1105.05 L1108.64,1105.05 L1108.64,1499.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#D54857">
+                    <path stroke="none" d="M1108.64,1499.5 L1108.64,1416.94 L1119.53,1416.94 L1119.53,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#39B143">
+                    <path stroke="none" d="M1119.53,1499.5 L1119.53,1274.07 L1130.42,1274.07 L1130.42,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#A12CDC">
+                    <path stroke="none" d="M1130.42,1499.5 L1130.42,1392.04 L1141.31,1392.04 L1141.31,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#CF7926">
+                    <path stroke="none" d="M1141.31,1499.5 L1141.31,342.51 L1152.19,342.51 L1152.19,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#21BD91">
+                    <path stroke="none" d="M1152.19,1499.5 L1152.19,1218.57 L1163.08,1218.57 L1163.08,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C925CD">
+                    <path stroke="none" d="M1163.08,1499.5 L1163.08,768.77 L1173.97,768.77 L1173.97,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C8C127">
+                    <path stroke="none" d="M1173.97,1499.5 L1173.97,1189.46 L1184.86,1189.46 L1184.86,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#1FB6B6">
+                    <path stroke="none" d="M1184.86,1499.5 L1184.86,1411.87 L1195.75,1411.87 L1195.75,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#406FDF">
+                    <g>
+                      <defs>
+                        <pattern id="pattern10" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY3DIv98AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkrzfAADdQkPzGK2exAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern10)" d="M1220.25,1499.5 L1220.25,1116.51 L1231.14,1116.51 L1231.14,1499.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#406FDF" fill="#406FDF">
+                    <path fill="none" d="M1220.25,1499.5 L1220.25,1116.51 L1231.14,1116.51 L1231.14,1499.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#D54857">
+                    <path stroke="none" d="M1231.14,1499.5 L1231.14,1418.09 L1242.03,1418.09 L1242.03,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#39B143">
+                    <path stroke="none" d="M1242.03,1499.5 L1242.03,1279.65 L1252.92,1279.65 L1252.92,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#A12CDC">
+                    <path stroke="none" d="M1252.92,1499.5 L1252.92,1396.08 L1263.81,1396.08 L1263.81,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#CF7926">
+                    <path stroke="none" d="M1263.81,1499.5 L1263.81,331.05 L1274.69,331.05 L1274.69,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#21BD91">
+                    <path stroke="none" d="M1274.69,1499.5 L1274.69,1217.42 L1285.58,1217.42 L1285.58,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C925CD">
+                    <path stroke="none" d="M1285.58,1499.5 L1285.58,763.19 L1296.47,763.19 L1296.47,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C8C127">
+                    <path stroke="none" d="M1296.47,1499.5 L1296.47,1185.4 L1307.36,1185.4 L1307.36,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#1FB6B6">
+                    <path stroke="none" d="M1307.36,1499.5 L1307.36,1411.2 L1318.25,1411.2 L1318.25,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#406FDF">
+                    <g>
+                      <defs>
+                        <pattern id="pattern11" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY3DIv98AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkrzfAADdQkPzGK2exAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern11)" d="M1342.75,1499.5 L1342.75,1085.55 L1353.64,1085.55 L1353.64,1499.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#406FDF" fill="#406FDF">
+                    <path fill="none" d="M1342.75,1499.5 L1342.75,1085.55 L1353.64,1085.55 L1353.64,1499.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#D54857">
+                    <path stroke="none" d="M1353.64,1499.5 L1353.64,1411.21 L1364.53,1411.21 L1364.53,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#39B143">
+                    <path stroke="none" d="M1364.53,1499.5 L1364.53,1258.24 L1375.42,1258.24 L1375.42,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#A12CDC">
+                    <path stroke="none" d="M1375.42,1499.5 L1375.42,1387.47 L1386.31,1387.47 L1386.31,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#CF7926">
+                    <path stroke="none" d="M1386.31,1499.5 L1386.31,359.71 L1397.19,359.71 L1397.19,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#21BD91">
+                    <path stroke="none" d="M1397.19,1499.5 L1397.19,1224.3 L1408.08,1224.3 L1408.08,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C925CD">
+                    <path stroke="none" d="M1408.08,1499.5 L1408.08,784.59 L1418.97,784.59 L1418.97,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C8C127">
+                    <path stroke="none" d="M1418.97,1499.5 L1418.97,1194.24 L1429.86,1194.24 L1429.86,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#1FB6B6">
+                    <path stroke="none" d="M1429.86,1499.5 L1429.86,1413.76 L1440.75,1413.76 L1440.75,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#406FDF">
+                    <g>
+                      <defs>
+                        <pattern id="pattern12" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY3DIv98AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkrzfAADdQkPzGK2exAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern12)" d="M1465.25,1499.5 L1465.25,1239.21 L1476.14,1239.21 L1476.14,1499.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#406FDF" fill="#406FDF">
+                    <path fill="none" d="M1465.25,1499.5 L1465.25,1239.21 L1476.14,1239.21 L1476.14,1499.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#D54857">
+                    <path stroke="none" d="M1476.14,1499.5 L1476.14,1439.87 L1487.03,1439.87 L1487.03,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#39B143">
+                    <path stroke="none" d="M1487.03,1499.5 L1487.03,1354.56 L1497.92,1354.56 L1497.92,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#A12CDC">
+                    <path stroke="none" d="M1497.92,1499.5 L1497.92,1428.4 L1508.81,1428.4 L1508.81,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#CF7926">
+                    <path stroke="none" d="M1508.81,1499.5 L1508.81,208.35 L1519.69,208.35 L1519.69,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#21BD91">
+                    <path stroke="none" d="M1519.69,1499.5 L1519.69,1195.63 L1530.58,1195.63 L1530.58,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C925CD">
+                    <path stroke="none" d="M1530.58,1499.5 L1530.58,688.27 L1541.47,688.27 L1541.47,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C8C127">
+                    <path stroke="none" d="M1541.47,1499.5 L1541.47,1152.82 L1552.36,1152.82 L1552.36,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#1FB6B6">
+                    <path stroke="none" d="M1552.36,1499.5 L1552.36,1402.22 L1563.25,1402.22 L1563.25,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g>
+                    <text stroke="none" x="1103.5" y="1107.5" dy="-1.8" text-anchor="middle">344</text>
+                    <text stroke="none" x="1114.5" y="1418.5" dy="-1.8" text-anchor="middle">72</text>
+                    <text stroke="none" x="1124.5" y="1276.5" dy="-1.8" text-anchor="middle">197</text>
+                    <text stroke="none" x="1135.5" y="1394.5" dy="-1.8" text-anchor="middle">93,7</text>
+                    <text stroke="none" x="1146.5" y="344.5" dy="-1.8" text-anchor="middle">1009</text>
+                    <text stroke="none" x="1157.5" y="1220.5" dy="-1.8" text-anchor="middle">245</text>
+                    <text stroke="none" x="1168.5" y="770.5" dy="-1.8" text-anchor="middle">637</text>
+                    <text stroke="none" x="1179.5" y="1191.5" dy="-1.8" text-anchor="middle">270</text>
+                    <text stroke="none" x="1190.5" y="1413.5" dy="-1.8" text-anchor="middle">76,4</text>
+                    <text stroke="none" x="1225.5" y="1118.5" dy="-1.8" text-anchor="middle">334</text>
+                    <text stroke="none" x="1236.5" y="1420.5" dy="-1.8" text-anchor="middle">71</text>
+                    <text stroke="none" x="1247.5" y="1281.5" dy="-1.8" text-anchor="middle">192</text>
+                    <text stroke="none" x="1258.5" y="1398.5" dy="-1.8" text-anchor="middle">90,2</text>
+                    <text stroke="none" x="1269.5" y="333.5" dy="-1.8" text-anchor="middle">1019</text>
+                    <text stroke="none" x="1280.5" y="1219.5" dy="-1.8" text-anchor="middle">246</text>
+                    <text stroke="none" x="1291.5" y="765.5" dy="-1.8" text-anchor="middle">642</text>
+                    <text stroke="none" x="1301.5" y="1187.5" dy="-1.8" text-anchor="middle">274</text>
+                    <text stroke="none" x="1312.5" y="1413.5" dy="-1.8" text-anchor="middle">77</text>
+                    <text stroke="none" x="1348.5" y="1087.5" dy="-1.8" text-anchor="middle">361</text>
+                    <text stroke="none" x="1359.5" y="1413.5" dy="-1.8" text-anchor="middle">77</text>
+                    <text stroke="none" x="1369.5" y="1260.5" dy="-1.8" text-anchor="middle">210</text>
+                    <text stroke="none" x="1380.5" y="1389.5" dy="-1.8" text-anchor="middle">97,7</text>
+                    <text stroke="none" x="1391.5" y="361.5" dy="-1.8" text-anchor="middle">994</text>
+                    <text stroke="none" x="1402.5" y="1226.5" dy="-1.8" text-anchor="middle">240</text>
+                    <text stroke="none" x="1413.5" y="786.5" dy="-1.8" text-anchor="middle">623</text>
+                    <text stroke="none" x="1424.5" y="1196.5" dy="-1.8" text-anchor="middle">266</text>
+                    <text stroke="none" x="1435.5" y="1415.5" dy="-1.8" text-anchor="middle">74,8</text>
+                    <text stroke="none" x="1470.5" y="1241.5" dy="-1.8" text-anchor="middle">227</text>
+                    <text stroke="none" x="1481.5" y="1441.5" dy="-1.8" text-anchor="middle">52</text>
+                    <text stroke="none" x="1492.5" y="1356.5" dy="-1.8" text-anchor="middle">126</text>
+                    <text stroke="none" x="1503.5" y="1430.5" dy="-1.8" text-anchor="middle">62</text>
+                    <text stroke="none" x="1514.5" y="210.5" dy="-1.8" text-anchor="middle">1126</text>
+                    <text stroke="none" x="1525.5" y="1197.5" dy="-1.8" text-anchor="middle">265</text>
+                    <text stroke="none" x="1536.5" y="690.5" dy="-1.8" text-anchor="middle">707</text>
+                    <text stroke="none" x="1546.5" y="1154.5" dy="-1.8" text-anchor="middle">302</text>
+                    <text stroke="none" x="1557.5" y="1404.5" dy="-1.8" text-anchor="middle">84,8</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g stroke="#A5A5A5">
+            <path fill="none" d="M1575.5,1499.5 L1085.5,1499.5"/>
+          </g>
+          <g>
+            <clipPath id="clip18" clip-path="url(#clip1)">
+              <path d="M600.5,1499.5 L600.5,1608.5 L2284.5,1608.5 L2284.5,1499.5 z"/>
+            </clipPath>
+            <g clip-path="url(#clip18)">
+              <g stroke="#A5A5A5">
+                <path fill="none" d="M1578.5,1500.5 L1578.5,1502.5"/>
+                <path fill="none" d="M1578.5,1502.5 L1697.5,1502.5"/>
+                <path fill="none" d="M1697.5,1502.5 L1697.5,1500.5"/>
+                <path fill="none" d="M1701.5,1500.5 L1701.5,1502.5"/>
+                <path fill="none" d="M1701.5,1502.5 L1819.5,1502.5"/>
+                <path fill="none" d="M1819.5,1502.5 L1819.5,1500.5"/>
+                <path fill="none" d="M1823.5,1500.5 L1823.5,1502.5"/>
+                <path fill="none" d="M1823.5,1502.5 L1942.5,1502.5"/>
+                <path fill="none" d="M1942.5,1502.5 L1942.5,1500.5"/>
+                <path fill="none" d="M1946.5,1500.5 L1946.5,1502.5"/>
+                <path fill="none" d="M1946.5,1502.5 L2064.5,1502.5"/>
+                <path fill="none" d="M2064.5,1502.5 L2064.5,1500.5"/>
+              </g>
+              <g stroke="#A5A5A5" font-size="14">
+                <g transform="translate(1635.5,1501.5)">
+                  <g transform="rotate(-45)">
+                    <text stroke="none" dy="15.4" text-anchor="end">~1</text>
+                  </g>
+                </g>
+                <g transform="translate(1758.5,1501.5)">
+                  <g transform="rotate(-45)">
+                    <text stroke="none" dy="15.4" text-anchor="end">~2</text>
+                  </g>
+                </g>
+                <g transform="translate(1880.5,1501.5)">
+                  <g transform="rotate(-45)">
+                    <text stroke="none" dy="15.4" text-anchor="end">Exact match</text>
+                  </g>
+                </g>
+                <g transform="translate(2003.5,1501.5)">
+                  <g transform="rotate(-45)">
+                    <text stroke="none" dy="15.4" text-anchor="end">expand</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g>
+            <clipPath id="clip19" clip-path="url(#clip1)">
+              <path d="M1576.5,1499.5 L1576.5,1608.5 L2066.5,1608.5 L2066.5,1499.5 z"/>
+            </clipPath>
+            <g clip-path="url(#clip19)"/>
+          </g>
+          <g fill="#FFFFFF">
+            <path stroke="none" d="M1576.5,123.5 L1576.5,1499.5 L2066.5,1499.5 L2066.5,123.5 z" fill-rule="evenodd"/>
+          </g>
+          <g>
+            <g>
+              <clipPath id="clip20" clip-path="url(#clip1)">
+                <path d="M1575.5,122.5 L1575.5,1499.5 L2067.5,1499.5 L2067.5,122.5 z"/>
+              </clipPath>
+              <g clip-path="url(#clip20)">
+                <g stroke="#F0F0F0">
+                  <path fill="none" d="M1576.5,1595.5 L2066.5,1595.5"/>
+                  <path fill="none" d="M1576.5,1575.5 L2066.5,1575.5"/>
+                  <path fill="none" d="M1576.5,1556.5 L2066.5,1556.5"/>
+                  <path fill="none" d="M1576.5,1537.5 L2066.5,1537.5"/>
+                  <path fill="none" d="M1576.5,1518.5 L2066.5,1518.5"/>
+                  <path fill="none" d="M1576.5,1480.5 L2066.5,1480.5"/>
+                  <path fill="none" d="M1576.5,1461.5 L2066.5,1461.5"/>
+                  <path fill="none" d="M1576.5,1442.5 L2066.5,1442.5"/>
+                  <path fill="none" d="M1576.5,1423.5 L2066.5,1423.5"/>
+                  <path fill="none" d="M1576.5,1403.5 L2066.5,1403.5"/>
+                  <path fill="none" d="M1576.5,1365.5 L2066.5,1365.5"/>
+                  <path fill="none" d="M1576.5,1346.5 L2066.5,1346.5"/>
+                  <path fill="none" d="M1576.5,1327.5 L2066.5,1327.5"/>
+                  <path fill="none" d="M1576.5,1308.5 L2066.5,1308.5"/>
+                  <path fill="none" d="M1576.5,1289.5 L2066.5,1289.5"/>
+                  <path fill="none" d="M1576.5,1251.5 L2066.5,1251.5"/>
+                  <path fill="none" d="M1576.5,1231.5 L2066.5,1231.5"/>
+                  <path fill="none" d="M1576.5,1212.5 L2066.5,1212.5"/>
+                  <path fill="none" d="M1576.5,1193.5 L2066.5,1193.5"/>
+                  <path fill="none" d="M1576.5,1174.5 L2066.5,1174.5"/>
+                  <path fill="none" d="M1576.5,1136.5 L2066.5,1136.5"/>
+                  <path fill="none" d="M1576.5,1117.5 L2066.5,1117.5"/>
+                  <path fill="none" d="M1576.5,1098.5 L2066.5,1098.5"/>
+                  <path fill="none" d="M1576.5,1079.5 L2066.5,1079.5"/>
+                  <path fill="none" d="M1576.5,1059.5 L2066.5,1059.5"/>
+                  <path fill="none" d="M1576.5,1021.5 L2066.5,1021.5"/>
+                  <path fill="none" d="M1576.5,1002.5 L2066.5,1002.5"/>
+                  <path fill="none" d="M1576.5,983.5 L2066.5,983.5"/>
+                  <path fill="none" d="M1576.5,964.5 L2066.5,964.5"/>
+                  <path fill="none" d="M1576.5,945.5 L2066.5,945.5"/>
+                  <path fill="none" d="M1576.5,907.5 L2066.5,907.5"/>
+                  <path fill="none" d="M1576.5,887.5 L2066.5,887.5"/>
+                  <path fill="none" d="M1576.5,868.5 L2066.5,868.5"/>
+                  <path fill="none" d="M1576.5,849.5 L2066.5,849.5"/>
+                  <path fill="none" d="M1576.5,830.5 L2066.5,830.5"/>
+                  <path fill="none" d="M1576.5,792.5 L2066.5,792.5"/>
+                  <path fill="none" d="M1576.5,773.5 L2066.5,773.5"/>
+                  <path fill="none" d="M1576.5,754.5 L2066.5,754.5"/>
+                  <path fill="none" d="M1576.5,735.5 L2066.5,735.5"/>
+                  <path fill="none" d="M1576.5,715.5 L2066.5,715.5"/>
+                  <path fill="none" d="M1576.5,677.5 L2066.5,677.5"/>
+                  <path fill="none" d="M1576.5,658.5 L2066.5,658.5"/>
+                  <path fill="none" d="M1576.5,639.5 L2066.5,639.5"/>
+                  <path fill="none" d="M1576.5,620.5 L2066.5,620.5"/>
+                  <path fill="none" d="M1576.5,601.5 L2066.5,601.5"/>
+                  <path fill="none" d="M1576.5,563.5 L2066.5,563.5"/>
+                  <path fill="none" d="M1576.5,543.5 L2066.5,543.5"/>
+                  <path fill="none" d="M1576.5,524.5 L2066.5,524.5"/>
+                  <path fill="none" d="M1576.5,505.5 L2066.5,505.5"/>
+                  <path fill="none" d="M1576.5,486.5 L2066.5,486.5"/>
+                  <path fill="none" d="M1576.5,448.5 L2066.5,448.5"/>
+                  <path fill="none" d="M1576.5,429.5 L2066.5,429.5"/>
+                  <path fill="none" d="M1576.5,410.5 L2066.5,410.5"/>
+                  <path fill="none" d="M1576.5,391.5 L2066.5,391.5"/>
+                  <path fill="none" d="M1576.5,371.5 L2066.5,371.5"/>
+                  <path fill="none" d="M1576.5,333.5 L2066.5,333.5"/>
+                  <path fill="none" d="M1576.5,314.5 L2066.5,314.5"/>
+                  <path fill="none" d="M1576.5,295.5 L2066.5,295.5"/>
+                  <path fill="none" d="M1576.5,276.5 L2066.5,276.5"/>
+                  <path fill="none" d="M1576.5,257.5 L2066.5,257.5"/>
+                  <path fill="none" d="M1576.5,219.5 L2066.5,219.5"/>
+                  <path fill="none" d="M1576.5,199.5 L2066.5,199.5"/>
+                  <path fill="none" d="M1576.5,180.5 L2066.5,180.5"/>
+                  <path fill="none" d="M1576.5,161.5 L2066.5,161.5"/>
+                  <path fill="none" d="M1576.5,142.5 L2066.5,142.5"/>
+                  <path fill="none" d="M1576.5,104.5 L2066.5,104.5"/>
+                  <path fill="none" d="M1576.5,85.5 L2066.5,85.5"/>
+                  <path fill="none" d="M1576.5,66.5 L2066.5,66.5"/>
+                  <path fill="none" d="M1576.5,47.5 L2066.5,47.5"/>
+                  <path fill="none" d="M1576.5,27.5 L2066.5,27.5"/>
+                </g>
+                <g stroke="#D7D7D7">
+                  <path fill="none" d="M1576.5,1614.5 L2066.5,1614.5"/>
+                  <path fill="none" d="M1576.5,1499.5 L2066.5,1499.5"/>
+                  <path fill="none" d="M1576.5,1384.5 L2066.5,1384.5"/>
+                  <path fill="none" d="M1576.5,1270.5 L2066.5,1270.5"/>
+                  <path fill="none" d="M1576.5,1155.5 L2066.5,1155.5"/>
+                  <path fill="none" d="M1576.5,1040.5 L2066.5,1040.5"/>
+                  <path fill="none" d="M1576.5,926.5 L2066.5,926.5"/>
+                  <path fill="none" d="M1576.5,811.5 L2066.5,811.5"/>
+                  <path fill="none" d="M1576.5,696.5 L2066.5,696.5"/>
+                  <path fill="none" d="M1576.5,582.5 L2066.5,582.5"/>
+                  <path fill="none" d="M1576.5,467.5 L2066.5,467.5"/>
+                  <path fill="none" d="M1576.5,352.5 L2066.5,352.5"/>
+                  <path fill="none" d="M1576.5,238.5 L2066.5,238.5"/>
+                  <path fill="none" d="M1576.5,123.5 L2066.5,123.5"/>
+                </g>
+                <g>
+                  <g stroke="none" fill="#406FDF">
+                    <g>
+                      <defs>
+                        <pattern id="pattern13" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY3DIv98AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkrzfAADdQkPzGK2exAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern13)" d="M1588.75,1499.5 L1588.75,1117.66 L1599.64,1117.66 L1599.64,1499.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#406FDF" fill="#406FDF">
+                    <path fill="none" d="M1588.75,1499.5 L1588.75,1117.66 L1599.64,1117.66 L1599.64,1499.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#D54857">
+                    <path stroke="none" d="M1599.64,1499.5 L1599.64,1416.94 L1610.53,1416.94 L1610.53,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#39B143">
+                    <path stroke="none" d="M1610.53,1499.5 L1610.53,1275.75 L1621.42,1275.75 L1621.42,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#A12CDC">
+                    <path stroke="none" d="M1621.42,1499.5 L1621.42,1394.34 L1632.31,1394.34 L1632.31,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#CF7926">
+                    <path stroke="none" d="M1632.31,1499.5 L1632.31,329.9 L1643.19,329.9 L1643.19,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#21BD91">
+                    <path stroke="none" d="M1643.19,1499.5 L1643.19,1218.57 L1654.08,1218.57 L1654.08,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C925CD">
+                    <path stroke="none" d="M1654.08,1499.5 L1654.08,767.09 L1664.97,767.09 L1664.97,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C8C127">
+                    <path stroke="none" d="M1664.97,1499.5 L1664.97,1187.48 L1675.86,1187.48 L1675.86,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#1FB6B6">
+                    <path stroke="none" d="M1675.86,1499.5 L1675.86,1411.67 L1686.75,1411.67 L1686.75,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#406FDF">
+                    <g>
+                      <defs>
+                        <pattern id="pattern14" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY3DIv98AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkrzfAADdQkPzGK2exAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern14)" d="M1711.25,1499.5 L1711.25,1125.69 L1722.14,1125.69 L1722.14,1499.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#406FDF" fill="#406FDF">
+                    <path fill="none" d="M1711.25,1499.5 L1711.25,1125.69 L1722.14,1125.69 L1722.14,1499.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#D54857">
+                    <path stroke="none" d="M1722.14,1499.5 L1722.14,1418.09 L1733.03,1418.09 L1733.03,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#39B143">
+                    <path stroke="none" d="M1733.03,1499.5 L1733.03,1280.72 L1743.92,1280.72 L1743.92,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#A12CDC">
+                    <path stroke="none" d="M1743.92,1499.5 L1743.92,1397.52 L1754.81,1397.52 L1754.81,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#CF7926">
+                    <path stroke="none" d="M1754.81,1499.5 L1754.81,320.73 L1765.69,320.73 L1765.69,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#21BD91">
+                    <path stroke="none" d="M1765.69,1499.5 L1765.69,1217.42 L1776.58,1217.42 L1776.58,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C925CD">
+                    <path stroke="none" d="M1776.58,1499.5 L1776.58,762.12 L1787.47,762.12 L1787.47,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C8C127">
+                    <path stroke="none" d="M1787.47,1499.5 L1787.47,1184.28 L1798.36,1184.28 L1798.36,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#1FB6B6">
+                    <path stroke="none" d="M1798.36,1499.5 L1798.36,1411.07 L1809.25,1411.07 L1809.25,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#406FDF">
+                    <g>
+                      <defs>
+                        <pattern id="pattern15" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY3DIv98AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkrzfAADdQkPzGK2exAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern15)" d="M1833.75,1499.5 L1833.75,1084.41 L1844.64,1084.41 L1844.64,1499.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#406FDF" fill="#406FDF">
+                    <path fill="none" d="M1833.75,1499.5 L1833.75,1084.41 L1844.64,1084.41 L1844.64,1499.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#D54857">
+                    <path stroke="none" d="M1844.64,1499.5 L1844.64,1411.21 L1855.53,1411.21 L1855.53,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#39B143">
+                    <path stroke="none" d="M1855.53,1499.5 L1855.53,1257.63 L1866.42,1257.63 L1866.42,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#A12CDC">
+                    <path stroke="none" d="M1866.42,1499.5 L1866.42,1386.69 L1877.31,1386.69 L1877.31,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#CF7926">
+                    <path stroke="none" d="M1877.31,1499.5 L1877.31,363.15 L1888.19,363.15 L1888.19,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#21BD91">
+                    <path stroke="none" d="M1888.19,1499.5 L1888.19,1224.3 L1899.08,1224.3 L1899.08,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C925CD">
+                    <path stroke="none" d="M1899.08,1499.5 L1899.08,785.2 L1909.97,785.2 L1909.97,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C8C127">
+                    <path stroke="none" d="M1909.97,1499.5 L1909.97,1195.02 L1920.86,1195.02 L1920.86,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#1FB6B6">
+                    <path stroke="none" d="M1920.86,1499.5 L1920.86,1413.84 L1931.75,1413.84 L1931.75,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#406FDF">
+                    <g>
+                      <defs>
+                        <pattern id="pattern16" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY3DIv98AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkrzfAADdQkPzGK2exAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern16)" d="M1956.25,1499.5 L1956.25,1232.33 L1967.14,1232.33 L1967.14,1499.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#406FDF" fill="#406FDF">
+                    <path fill="none" d="M1956.25,1499.5 L1956.25,1232.33 L1967.14,1232.33 L1967.14,1499.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#D54857">
+                    <path stroke="none" d="M1967.14,1499.5 L1967.14,1439.87 L1978.03,1439.87 L1978.03,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#39B143">
+                    <path stroke="none" d="M1978.03,1499.5 L1978.03,1352.27 L1988.92,1352.27 L1988.92,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#A12CDC">
+                    <path stroke="none" d="M1988.92,1499.5 L1988.92,1426.12 L1999.81,1426.12 L1999.81,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#CF7926">
+                    <path stroke="none" d="M1999.81,1499.5 L1999.81,214.09 L2010.69,214.09 L2010.69,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#21BD91">
+                    <path stroke="none" d="M2010.69,1499.5 L2010.69,1195.63 L2021.58,1195.63 L2021.58,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C925CD">
+                    <path stroke="none" d="M2021.58,1499.5 L2021.58,690.56 L2032.47,690.56 L2032.47,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C8C127">
+                    <path stroke="none" d="M2032.47,1499.5 L2032.47,1155.11 L2043.36,1155.11 L2043.36,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#1FB6B6">
+                    <path stroke="none" d="M2043.36,1499.5 L2043.36,1402.49 L2054.25,1402.49 L2054.25,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g>
+                    <text stroke="none" x="1594.5" y="1119.5" dy="-1.8" text-anchor="middle">333</text>
+                    <text stroke="none" x="1605.5" y="1418.5" dy="-1.8" text-anchor="middle">72</text>
+                    <text stroke="none" x="1615.5" y="1277.5" dy="-1.8" text-anchor="middle">195</text>
+                    <text stroke="none" x="1626.5" y="1396.5" dy="-1.8" text-anchor="middle">91,7</text>
+                    <text stroke="none" x="1637.5" y="331.5" dy="-1.8" text-anchor="middle">1020</text>
+                    <text stroke="none" x="1648.5" y="1220.5" dy="-1.8" text-anchor="middle">245</text>
+                    <text stroke="none" x="1659.5" y="769.5" dy="-1.8" text-anchor="middle">639</text>
+                    <text stroke="none" x="1670.5" y="1189.5" dy="-1.8" text-anchor="middle">272</text>
+                    <text stroke="none" x="1681.5" y="1413.5" dy="-1.8" text-anchor="middle">76,6</text>
+                    <text stroke="none" x="1716.5" y="1127.5" dy="-1.8" text-anchor="middle">326</text>
+                    <text stroke="none" x="1727.5" y="1420.5" dy="-1.8" text-anchor="middle">71</text>
+                    <text stroke="none" x="1738.5" y="1282.5" dy="-1.8" text-anchor="middle">191</text>
+                    <text stroke="none" x="1749.5" y="1399.5" dy="-1.8" text-anchor="middle">88,9</text>
+                    <text stroke="none" x="1760.5" y="322.5" dy="-1.8" text-anchor="middle">1028</text>
+                    <text stroke="none" x="1771.5" y="1219.5" dy="-1.8" text-anchor="middle">246</text>
+                    <text stroke="none" x="1782.5" y="764.5" dy="-1.8" text-anchor="middle">643</text>
+                    <text stroke="none" x="1792.5" y="1186.5" dy="-1.8" text-anchor="middle">275</text>
+                    <text stroke="none" x="1803.5" y="1413.5" dy="-1.8" text-anchor="middle">77,1</text>
+                    <text stroke="none" x="1839.5" y="1086.5" dy="-1.8" text-anchor="middle">362</text>
+                    <text stroke="none" x="1850.5" y="1413.5" dy="-1.8" text-anchor="middle">77</text>
+                    <text stroke="none" x="1860.5" y="1259.5" dy="-1.8" text-anchor="middle">211</text>
+                    <text stroke="none" x="1871.5" y="1388.5" dy="-1.8" text-anchor="middle">98,4</text>
+                    <text stroke="none" x="1882.5" y="365.5" dy="-1.8" text-anchor="middle">991</text>
+                    <text stroke="none" x="1893.5" y="1226.5" dy="-1.8" text-anchor="middle">240</text>
+                    <text stroke="none" x="1904.5" y="787.5" dy="-1.8" text-anchor="middle">623</text>
+                    <text stroke="none" x="1915.5" y="1197.5" dy="-1.8" text-anchor="middle">266</text>
+                    <text stroke="none" x="1926.5" y="1415.5" dy="-1.8" text-anchor="middle">74,7</text>
+                    <text stroke="none" x="1961.5" y="1234.5" dy="-1.8" text-anchor="middle">233</text>
+                    <text stroke="none" x="1972.5" y="1441.5" dy="-1.8" text-anchor="middle">52</text>
+                    <text stroke="none" x="1983.5" y="1354.5" dy="-1.8" text-anchor="middle">128</text>
+                    <text stroke="none" x="1994.5" y="1428.5" dy="-1.8" text-anchor="middle">64</text>
+                    <text stroke="none" x="2005.5" y="216.5" dy="-1.8" text-anchor="middle">1121</text>
+                    <text stroke="none" x="2016.5" y="1197.5" dy="-1.8" text-anchor="middle">265</text>
+                    <text stroke="none" x="2027.5" y="692.5" dy="-1.8" text-anchor="middle">705</text>
+                    <text stroke="none" x="2037.5" y="1157.5" dy="-1.8" text-anchor="middle">300</text>
+                    <text stroke="none" x="2048.5" y="1404.5" dy="-1.8" text-anchor="middle">84,6</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g stroke="#A5A5A5">
+            <path fill="none" d="M2066.5,1499.5 L1576.5,1499.5"/>
+          </g>
+          <g>
+            <clipPath id="clip21" clip-path="url(#clip1)">
+              <path d="M1089.5,1499.5 L1089.5,1608.5 L2776.5,1608.5 L2776.5,1499.5 z"/>
+            </clipPath>
+            <g clip-path="url(#clip21)">
+              <g stroke="#A5A5A5">
+                <path fill="none" d="M2069.5,1500.5 L2069.5,1502.5"/>
+                <path fill="none" d="M2069.5,1502.5 L2188.5,1502.5"/>
+                <path fill="none" d="M2188.5,1502.5 L2188.5,1500.5"/>
+                <path fill="none" d="M2192.5,1500.5 L2192.5,1502.5"/>
+                <path fill="none" d="M2192.5,1502.5 L2311.5,1502.5"/>
+                <path fill="none" d="M2311.5,1502.5 L2311.5,1500.5"/>
+                <path fill="none" d="M2315.5,1500.5 L2315.5,1502.5"/>
+                <path fill="none" d="M2315.5,1502.5 L2433.5,1502.5"/>
+                <path fill="none" d="M2433.5,1502.5 L2433.5,1500.5"/>
+                <path fill="none" d="M2437.5,1500.5 L2437.5,1502.5"/>
+                <path fill="none" d="M2437.5,1502.5 L2556.5,1502.5"/>
+                <path fill="none" d="M2556.5,1502.5 L2556.5,1500.5"/>
+              </g>
+              <g stroke="#A5A5A5" font-size="14">
+                <g transform="translate(2126.5,1501.5)">
+                  <g transform="rotate(-45)">
+                    <text stroke="none" dy="15.4" text-anchor="end">~1</text>
+                  </g>
+                </g>
+                <g transform="translate(2249.5,1501.5)">
+                  <g transform="rotate(-45)">
+                    <text stroke="none" dy="15.4" text-anchor="end">~2</text>
+                  </g>
+                </g>
+                <g transform="translate(2372.5,1501.5)">
+                  <g transform="rotate(-45)">
+                    <text stroke="none" dy="15.4" text-anchor="end">Exact match</text>
+                  </g>
+                </g>
+                <g transform="translate(2494.5,1501.5)">
+                  <g transform="rotate(-45)">
+                    <text stroke="none" dy="15.4" text-anchor="end">expand</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g>
+            <clipPath id="clip22" clip-path="url(#clip1)">
+              <path d="M2067.5,1499.5 L2067.5,1608.5 L2558.5,1608.5 L2558.5,1499.5 z"/>
+            </clipPath>
+            <g clip-path="url(#clip22)"/>
+          </g>
+          <g fill="#FFFFFF">
+            <path stroke="none" d="M2067.5,123.5 L2067.5,1499.5 L2558.5,1499.5 L2558.5,123.5 z" fill-rule="evenodd"/>
+          </g>
+          <g>
+            <g>
+              <clipPath id="clip23" clip-path="url(#clip1)">
+                <path d="M2066.5,122.5 L2066.5,1499.5 L2559.5,1499.5 L2559.5,122.5 z"/>
+              </clipPath>
+              <g clip-path="url(#clip23)">
+                <g stroke="#F0F0F0">
+                  <path fill="none" d="M2067.5,1595.5 L2558.5,1595.5"/>
+                  <path fill="none" d="M2067.5,1575.5 L2558.5,1575.5"/>
+                  <path fill="none" d="M2067.5,1556.5 L2558.5,1556.5"/>
+                  <path fill="none" d="M2067.5,1537.5 L2558.5,1537.5"/>
+                  <path fill="none" d="M2067.5,1518.5 L2558.5,1518.5"/>
+                  <path fill="none" d="M2067.5,1480.5 L2558.5,1480.5"/>
+                  <path fill="none" d="M2067.5,1461.5 L2558.5,1461.5"/>
+                  <path fill="none" d="M2067.5,1442.5 L2558.5,1442.5"/>
+                  <path fill="none" d="M2067.5,1423.5 L2558.5,1423.5"/>
+                  <path fill="none" d="M2067.5,1403.5 L2558.5,1403.5"/>
+                  <path fill="none" d="M2067.5,1365.5 L2558.5,1365.5"/>
+                  <path fill="none" d="M2067.5,1346.5 L2558.5,1346.5"/>
+                  <path fill="none" d="M2067.5,1327.5 L2558.5,1327.5"/>
+                  <path fill="none" d="M2067.5,1308.5 L2558.5,1308.5"/>
+                  <path fill="none" d="M2067.5,1289.5 L2558.5,1289.5"/>
+                  <path fill="none" d="M2067.5,1251.5 L2558.5,1251.5"/>
+                  <path fill="none" d="M2067.5,1231.5 L2558.5,1231.5"/>
+                  <path fill="none" d="M2067.5,1212.5 L2558.5,1212.5"/>
+                  <path fill="none" d="M2067.5,1193.5 L2558.5,1193.5"/>
+                  <path fill="none" d="M2067.5,1174.5 L2558.5,1174.5"/>
+                  <path fill="none" d="M2067.5,1136.5 L2558.5,1136.5"/>
+                  <path fill="none" d="M2067.5,1117.5 L2558.5,1117.5"/>
+                  <path fill="none" d="M2067.5,1098.5 L2558.5,1098.5"/>
+                  <path fill="none" d="M2067.5,1079.5 L2558.5,1079.5"/>
+                  <path fill="none" d="M2067.5,1059.5 L2558.5,1059.5"/>
+                  <path fill="none" d="M2067.5,1021.5 L2558.5,1021.5"/>
+                  <path fill="none" d="M2067.5,1002.5 L2558.5,1002.5"/>
+                  <path fill="none" d="M2067.5,983.5 L2558.5,983.5"/>
+                  <path fill="none" d="M2067.5,964.5 L2558.5,964.5"/>
+                  <path fill="none" d="M2067.5,945.5 L2558.5,945.5"/>
+                  <path fill="none" d="M2067.5,907.5 L2558.5,907.5"/>
+                  <path fill="none" d="M2067.5,887.5 L2558.5,887.5"/>
+                  <path fill="none" d="M2067.5,868.5 L2558.5,868.5"/>
+                  <path fill="none" d="M2067.5,849.5 L2558.5,849.5"/>
+                  <path fill="none" d="M2067.5,830.5 L2558.5,830.5"/>
+                  <path fill="none" d="M2067.5,792.5 L2558.5,792.5"/>
+                  <path fill="none" d="M2067.5,773.5 L2558.5,773.5"/>
+                  <path fill="none" d="M2067.5,754.5 L2558.5,754.5"/>
+                  <path fill="none" d="M2067.5,735.5 L2558.5,735.5"/>
+                  <path fill="none" d="M2067.5,715.5 L2558.5,715.5"/>
+                  <path fill="none" d="M2067.5,677.5 L2558.5,677.5"/>
+                  <path fill="none" d="M2067.5,658.5 L2558.5,658.5"/>
+                  <path fill="none" d="M2067.5,639.5 L2558.5,639.5"/>
+                  <path fill="none" d="M2067.5,620.5 L2558.5,620.5"/>
+                  <path fill="none" d="M2067.5,601.5 L2558.5,601.5"/>
+                  <path fill="none" d="M2067.5,563.5 L2558.5,563.5"/>
+                  <path fill="none" d="M2067.5,543.5 L2558.5,543.5"/>
+                  <path fill="none" d="M2067.5,524.5 L2558.5,524.5"/>
+                  <path fill="none" d="M2067.5,505.5 L2558.5,505.5"/>
+                  <path fill="none" d="M2067.5,486.5 L2558.5,486.5"/>
+                  <path fill="none" d="M2067.5,448.5 L2558.5,448.5"/>
+                  <path fill="none" d="M2067.5,429.5 L2558.5,429.5"/>
+                  <path fill="none" d="M2067.5,410.5 L2558.5,410.5"/>
+                  <path fill="none" d="M2067.5,391.5 L2558.5,391.5"/>
+                  <path fill="none" d="M2067.5,371.5 L2558.5,371.5"/>
+                  <path fill="none" d="M2067.5,333.5 L2558.5,333.5"/>
+                  <path fill="none" d="M2067.5,314.5 L2558.5,314.5"/>
+                  <path fill="none" d="M2067.5,295.5 L2558.5,295.5"/>
+                  <path fill="none" d="M2067.5,276.5 L2558.5,276.5"/>
+                  <path fill="none" d="M2067.5,257.5 L2558.5,257.5"/>
+                  <path fill="none" d="M2067.5,219.5 L2558.5,219.5"/>
+                  <path fill="none" d="M2067.5,199.5 L2558.5,199.5"/>
+                  <path fill="none" d="M2067.5,180.5 L2558.5,180.5"/>
+                  <path fill="none" d="M2067.5,161.5 L2558.5,161.5"/>
+                  <path fill="none" d="M2067.5,142.5 L2558.5,142.5"/>
+                  <path fill="none" d="M2067.5,104.5 L2558.5,104.5"/>
+                  <path fill="none" d="M2067.5,85.5 L2558.5,85.5"/>
+                  <path fill="none" d="M2067.5,66.5 L2558.5,66.5"/>
+                  <path fill="none" d="M2067.5,47.5 L2558.5,47.5"/>
+                  <path fill="none" d="M2067.5,27.5 L2558.5,27.5"/>
+                </g>
+                <g stroke="#D7D7D7">
+                  <path fill="none" d="M2067.5,1614.5 L2558.5,1614.5"/>
+                  <path fill="none" d="M2067.5,1499.5 L2558.5,1499.5"/>
+                  <path fill="none" d="M2067.5,1384.5 L2558.5,1384.5"/>
+                  <path fill="none" d="M2067.5,1270.5 L2558.5,1270.5"/>
+                  <path fill="none" d="M2067.5,1155.5 L2558.5,1155.5"/>
+                  <path fill="none" d="M2067.5,1040.5 L2558.5,1040.5"/>
+                  <path fill="none" d="M2067.5,926.5 L2558.5,926.5"/>
+                  <path fill="none" d="M2067.5,811.5 L2558.5,811.5"/>
+                  <path fill="none" d="M2067.5,696.5 L2558.5,696.5"/>
+                  <path fill="none" d="M2067.5,582.5 L2558.5,582.5"/>
+                  <path fill="none" d="M2067.5,467.5 L2558.5,467.5"/>
+                  <path fill="none" d="M2067.5,352.5 L2558.5,352.5"/>
+                  <path fill="none" d="M2067.5,238.5 L2558.5,238.5"/>
+                  <path fill="none" d="M2067.5,123.5 L2558.5,123.5"/>
+                </g>
+                <g>
+                  <g stroke="none" fill="#406FDF">
+                    <g>
+                      <defs>
+                        <pattern id="pattern17" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY3DIv98AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkrzfAADdQkPzGK2exAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern17)" d="M2079.78,1499.5 L2079.78,989.23 L2090.69,989.23 L2090.69,1499.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#406FDF" fill="#406FDF">
+                    <path fill="none" d="M2079.78,1499.5 L2079.78,989.23 L2090.69,989.23 L2090.69,1499.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#D54857">
+                    <path stroke="none" d="M2090.69,1499.5 L2090.69,1415.79 L2101.6,1415.79 L2101.6,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#39B143">
+                    <path stroke="none" d="M2101.6,1499.5 L2101.6,1230.03 L2112.51,1230.03 L2112.51,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#A12CDC">
+                    <path stroke="none" d="M2112.51,1499.5 L2112.51,1351.32 L2123.42,1351.32 L2123.42,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#CF7926">
+                    <path stroke="none" d="M2123.42,1499.5 L2123.42,459.47 L2134.33,459.47 L2134.33,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#21BD91">
+                    <path stroke="none" d="M2134.33,1499.5 L2134.33,1219.71 L2145.24,1219.71 L2145.24,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C925CD">
+                    <path stroke="none" d="M2145.24,1499.5 L2145.24,812.8 L2156.15,812.8 L2156.15,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C8C127">
+                    <path stroke="none" d="M2156.15,1499.5 L2156.15,1228.51 L2167.06,1228.51 L2167.06,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#1FB6B6">
+                    <path stroke="none" d="M2167.06,1499.5 L2167.06,1417.15 L2177.98,1417.15 L2177.98,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#406FDF">
+                    <g>
+                      <defs>
+                        <pattern id="pattern18" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY3DIv98AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkrzfAADdQkPzGK2exAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern18)" d="M2202.53,1499.5 L2202.53,968.59 L2213.44,968.59 L2213.44,1499.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#406FDF" fill="#406FDF">
+                    <path fill="none" d="M2202.53,1499.5 L2202.53,968.59 L2213.44,968.59 L2213.44,1499.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#D54857">
+                    <path stroke="none" d="M2213.44,1499.5 L2213.44,1416.94 L2224.35,1416.94 L2224.35,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#39B143">
+                    <path stroke="none" d="M2224.35,1499.5 L2224.35,1227.28 L2235.26,1227.28 L2235.26,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#A12CDC">
+                    <path stroke="none" d="M2235.26,1499.5 L2235.26,1344.07 L2246.17,1344.07 L2246.17,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#CF7926">
+                    <path stroke="none" d="M2246.17,1499.5 L2246.17,478.97 L2257.08,478.97 L2257.08,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#21BD91">
+                    <path stroke="none" d="M2257.08,1499.5 L2257.08,1218.57 L2267.99,1218.57 L2267.99,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C925CD">
+                    <path stroke="none" d="M2267.99,1499.5 L2267.99,815.55 L2278.9,815.55 L2278.9,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C8C127">
+                    <path stroke="none" d="M2278.9,1499.5 L2278.9,1234.65 L2289.81,1234.65 L2289.81,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#1FB6B6">
+                    <path stroke="none" d="M2289.81,1499.5 L2289.81,1417.48 L2300.73,1417.48 L2300.73,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#406FDF">
+                    <g>
+                      <defs>
+                        <pattern id="pattern19" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY3DIv98AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkrzfAADdQkPzGK2exAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern19)" d="M2325.28,1499.5 L2325.28,1017.9 L2336.19,1017.9 L2336.19,1499.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#406FDF" fill="#406FDF">
+                    <path fill="none" d="M2325.28,1499.5 L2325.28,1017.9 L2336.19,1017.9 L2336.19,1499.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#D54857">
+                    <path stroke="none" d="M2336.19,1499.5 L2336.19,1411.21 L2347.1,1411.21 L2347.1,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#39B143">
+                    <path stroke="none" d="M2347.1,1499.5 L2347.1,1232.17 L2358.01,1232.17 L2358.01,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#A12CDC">
+                    <path stroke="none" d="M2358.01,1499.5 L2358.01,1363.38 L2368.92,1363.38 L2368.92,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#CF7926">
+                    <path stroke="none" d="M2368.92,1499.5 L2368.92,429.66 L2379.83,429.66 L2379.83,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#21BD91">
+                    <path stroke="none" d="M2379.83,1499.5 L2379.83,1224.3 L2390.74,1224.3 L2390.74,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C925CD">
+                    <path stroke="none" d="M2390.74,1499.5 L2390.74,810.66 L2401.65,810.66 L2401.65,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C8C127">
+                    <path stroke="none" d="M2401.65,1499.5 L2401.65,1217.69 L2412.56,1217.69 L2412.56,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#1FB6B6">
+                    <path stroke="none" d="M2412.56,1499.5 L2412.56,1416.89 L2423.48,1416.89 L2423.48,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#406FDF">
+                    <g>
+                      <defs>
+                        <pattern id="pattern20" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY3DIv98AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkrzfAADdQkPzGK2exAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern20)" d="M2448.03,1499.5 L2448.03,1050.01 L2458.94,1050.01 L2458.94,1499.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#406FDF" fill="#406FDF">
+                    <path fill="none" d="M2448.03,1499.5 L2448.03,1050.01 L2458.94,1050.01 L2458.94,1499.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#D54857">
+                    <path stroke="none" d="M2458.94,1499.5 L2458.94,1439.87 L2469.85,1439.87 L2469.85,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#39B143">
+                    <path stroke="none" d="M2469.85,1499.5 L2469.85,1288.28 L2480.76,1288.28 L2480.76,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#A12CDC">
+                    <path stroke="none" d="M2480.76,1499.5 L2480.76,1366.72 L2491.67,1366.72 L2491.67,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#CF7926">
+                    <path stroke="none" d="M2491.67,1499.5 L2491.67,396.41 L2502.58,396.41 L2502.58,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#21BD91">
+                    <path stroke="none" d="M2502.58,1499.5 L2502.58,1195.63 L2513.49,1195.63 L2513.49,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C925CD">
+                    <path stroke="none" d="M2513.49,1499.5 L2513.49,754.55 L2524.4,754.55 L2524.4,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C8C127">
+                    <path stroke="none" d="M2524.4,1499.5 L2524.4,1209.37 L2535.31,1209.37 L2535.31,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#1FB6B6">
+                    <path stroke="none" d="M2535.31,1499.5 L2535.31,1410.16 L2546.23,1410.16 L2546.23,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g>
+                    <text stroke="none" x="2085.5" y="991.5" dy="-1.8" text-anchor="middle">445</text>
+                    <text stroke="none" x="2096.5" y="1417.5" dy="-1.8" text-anchor="middle">73</text>
+                    <text stroke="none" x="2107.5" y="1232.5" dy="-1.8" text-anchor="middle">235</text>
+                    <text stroke="none" x="2117.5" y="1353.5" dy="-1.8" text-anchor="middle">129</text>
+                    <text stroke="none" x="2128.5" y="461.5" dy="-1.8" text-anchor="middle">907</text>
+                    <text stroke="none" x="2139.5" y="1221.5" dy="-1.8" text-anchor="middle">244</text>
+                    <text stroke="none" x="2150.5" y="814.5" dy="-1.8" text-anchor="middle">599</text>
+                    <text stroke="none" x="2161.5" y="1230.5" dy="-1.8" text-anchor="middle">236</text>
+                    <text stroke="none" x="2172.5" y="1419.5" dy="-1.8" text-anchor="middle">71,8</text>
+                    <text stroke="none" x="2207.5" y="970.5" dy="-1.8" text-anchor="middle">463</text>
+                    <text stroke="none" x="2218.5" y="1418.5" dy="-1.8" text-anchor="middle">72</text>
+                    <text stroke="none" x="2229.5" y="1229.5" dy="-1.8" text-anchor="middle">237</text>
+                    <text stroke="none" x="2240.5" y="1346.5" dy="-1.8" text-anchor="middle">136</text>
+                    <text stroke="none" x="2251.5" y="480.5" dy="-1.8" text-anchor="middle">890</text>
+                    <text stroke="none" x="2262.5" y="1220.5" dy="-1.8" text-anchor="middle">245</text>
+                    <text stroke="none" x="2273.5" y="817.5" dy="-1.8" text-anchor="middle">596</text>
+                    <text stroke="none" x="2284.5" y="1236.5" dy="-1.8" text-anchor="middle">231</text>
+                    <text stroke="none" x="2295.5" y="1419.5" dy="-1.8" text-anchor="middle">71,5</text>
+                    <text stroke="none" x="2330.5" y="1019.5" dy="-1.8" text-anchor="middle">420</text>
+                    <text stroke="none" x="2341.5" y="1413.5" dy="-1.8" text-anchor="middle">77</text>
+                    <text stroke="none" x="2352.5" y="1234.5" dy="-1.8" text-anchor="middle">233</text>
+                    <text stroke="none" x="2363.5" y="1365.5" dy="-1.8" text-anchor="middle">119</text>
+                    <text stroke="none" x="2374.5" y="431.5" dy="-1.8" text-anchor="middle">933</text>
+                    <text stroke="none" x="2385.5" y="1226.5" dy="-1.8" text-anchor="middle">240</text>
+                    <text stroke="none" x="2396.5" y="812.5" dy="-1.8" text-anchor="middle">601</text>
+                    <text stroke="none" x="2407.5" y="1219.5" dy="-1.8" text-anchor="middle">246</text>
+                    <text stroke="none" x="2418.5" y="1418.5" dy="-1.8" text-anchor="middle">72</text>
+                    <text stroke="none" x="2453.5" y="1052.5" dy="-1.8" text-anchor="middle">392</text>
+                    <text stroke="none" x="2464.5" y="1441.5" dy="-1.8" text-anchor="middle">52</text>
+                    <text stroke="none" x="2475.5" y="1290.5" dy="-1.8" text-anchor="middle">184</text>
+                    <text stroke="none" x="2486.5" y="1368.5" dy="-1.8" text-anchor="middle">116</text>
+                    <text stroke="none" x="2497.5" y="398.5" dy="-1.8" text-anchor="middle">962</text>
+                    <text stroke="none" x="2508.5" y="1197.5" dy="-1.8" text-anchor="middle">265</text>
+                    <text stroke="none" x="2518.5" y="756.5" dy="-1.8" text-anchor="middle">650</text>
+                    <text stroke="none" x="2529.5" y="1211.5" dy="-1.8" text-anchor="middle">253</text>
+                    <text stroke="none" x="2540.5" y="1412.5" dy="-1.8" text-anchor="middle">77,9</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g stroke="#A5A5A5">
+            <path fill="none" d="M2558.5,1499.5 L2067.5,1499.5"/>
+          </g>
+          <g>
+            <clipPath id="clip24" clip-path="url(#clip1)">
+              <path d="M1583.5,1499.5 L1583.5,1608.5 L3267.5,1608.5 L3267.5,1499.5 z"/>
+            </clipPath>
+            <g clip-path="url(#clip24)">
+              <g stroke="#A5A5A5">
+                <path fill="none" d="M2561.5,1500.5 L2561.5,1502.5"/>
+                <path fill="none" d="M2561.5,1502.5 L2680.5,1502.5"/>
+                <path fill="none" d="M2680.5,1502.5 L2680.5,1500.5"/>
+                <path fill="none" d="M2684.5,1500.5 L2684.5,1502.5"/>
+                <path fill="none" d="M2684.5,1502.5 L2802.5,1502.5"/>
+                <path fill="none" d="M2802.5,1502.5 L2802.5,1500.5"/>
+                <path fill="none" d="M2806.5,1500.5 L2806.5,1502.5"/>
+                <path fill="none" d="M2806.5,1502.5 L2925.5,1502.5"/>
+                <path fill="none" d="M2925.5,1502.5 L2925.5,1500.5"/>
+                <path fill="none" d="M2929.5,1500.5 L2929.5,1502.5"/>
+                <path fill="none" d="M2929.5,1502.5 L3047.5,1502.5"/>
+                <path fill="none" d="M3047.5,1502.5 L3047.5,1500.5"/>
+              </g>
+              <g stroke="#A5A5A5" font-size="14">
+                <g transform="translate(2618.5,1501.5)">
+                  <g transform="rotate(-45)">
+                    <text stroke="none" dy="15.4" text-anchor="end">~1</text>
+                  </g>
+                </g>
+                <g transform="translate(2741.5,1501.5)">
+                  <g transform="rotate(-45)">
+                    <text stroke="none" dy="15.4" text-anchor="end">~2</text>
+                  </g>
+                </g>
+                <g transform="translate(2863.5,1501.5)">
+                  <g transform="rotate(-45)">
+                    <text stroke="none" dy="15.4" text-anchor="end">Exact match</text>
+                  </g>
+                </g>
+                <g transform="translate(2986.5,1501.5)">
+                  <g transform="rotate(-45)">
+                    <text stroke="none" dy="15.4" text-anchor="end">expand</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g>
+            <clipPath id="clip25" clip-path="url(#clip1)">
+              <path d="M2559.5,1499.5 L2559.5,1608.5 L3049.5,1608.5 L3049.5,1499.5 z"/>
+            </clipPath>
+            <g clip-path="url(#clip25)"/>
+          </g>
+          <g fill="#FFFFFF">
+            <path stroke="none" d="M2559.5,123.5 L2559.5,1499.5 L3049.5,1499.5 L3049.5,123.5 z" fill-rule="evenodd"/>
+          </g>
+          <g>
+            <g>
+              <clipPath id="clip26" clip-path="url(#clip1)">
+                <path d="M2558.5,122.5 L2558.5,1499.5 L3049.5,1499.5 L3049.5,122.5 z"/>
+              </clipPath>
+              <g clip-path="url(#clip26)">
+                <g stroke="#F0F0F0">
+                  <path fill="none" d="M2559.5,1595.5 L3049.5,1595.5"/>
+                  <path fill="none" d="M2559.5,1575.5 L3049.5,1575.5"/>
+                  <path fill="none" d="M2559.5,1556.5 L3049.5,1556.5"/>
+                  <path fill="none" d="M2559.5,1537.5 L3049.5,1537.5"/>
+                  <path fill="none" d="M2559.5,1518.5 L3049.5,1518.5"/>
+                  <path fill="none" d="M2559.5,1480.5 L3049.5,1480.5"/>
+                  <path fill="none" d="M2559.5,1461.5 L3049.5,1461.5"/>
+                  <path fill="none" d="M2559.5,1442.5 L3049.5,1442.5"/>
+                  <path fill="none" d="M2559.5,1423.5 L3049.5,1423.5"/>
+                  <path fill="none" d="M2559.5,1403.5 L3049.5,1403.5"/>
+                  <path fill="none" d="M2559.5,1365.5 L3049.5,1365.5"/>
+                  <path fill="none" d="M2559.5,1346.5 L3049.5,1346.5"/>
+                  <path fill="none" d="M2559.5,1327.5 L3049.5,1327.5"/>
+                  <path fill="none" d="M2559.5,1308.5 L3049.5,1308.5"/>
+                  <path fill="none" d="M2559.5,1289.5 L3049.5,1289.5"/>
+                  <path fill="none" d="M2559.5,1251.5 L3049.5,1251.5"/>
+                  <path fill="none" d="M2559.5,1231.5 L3049.5,1231.5"/>
+                  <path fill="none" d="M2559.5,1212.5 L3049.5,1212.5"/>
+                  <path fill="none" d="M2559.5,1193.5 L3049.5,1193.5"/>
+                  <path fill="none" d="M2559.5,1174.5 L3049.5,1174.5"/>
+                  <path fill="none" d="M2559.5,1136.5 L3049.5,1136.5"/>
+                  <path fill="none" d="M2559.5,1117.5 L3049.5,1117.5"/>
+                  <path fill="none" d="M2559.5,1098.5 L3049.5,1098.5"/>
+                  <path fill="none" d="M2559.5,1079.5 L3049.5,1079.5"/>
+                  <path fill="none" d="M2559.5,1059.5 L3049.5,1059.5"/>
+                  <path fill="none" d="M2559.5,1021.5 L3049.5,1021.5"/>
+                  <path fill="none" d="M2559.5,1002.5 L3049.5,1002.5"/>
+                  <path fill="none" d="M2559.5,983.5 L3049.5,983.5"/>
+                  <path fill="none" d="M2559.5,964.5 L3049.5,964.5"/>
+                  <path fill="none" d="M2559.5,945.5 L3049.5,945.5"/>
+                  <path fill="none" d="M2559.5,907.5 L3049.5,907.5"/>
+                  <path fill="none" d="M2559.5,887.5 L3049.5,887.5"/>
+                  <path fill="none" d="M2559.5,868.5 L3049.5,868.5"/>
+                  <path fill="none" d="M2559.5,849.5 L3049.5,849.5"/>
+                  <path fill="none" d="M2559.5,830.5 L3049.5,830.5"/>
+                  <path fill="none" d="M2559.5,792.5 L3049.5,792.5"/>
+                  <path fill="none" d="M2559.5,773.5 L3049.5,773.5"/>
+                  <path fill="none" d="M2559.5,754.5 L3049.5,754.5"/>
+                  <path fill="none" d="M2559.5,735.5 L3049.5,735.5"/>
+                  <path fill="none" d="M2559.5,715.5 L3049.5,715.5"/>
+                  <path fill="none" d="M2559.5,677.5 L3049.5,677.5"/>
+                  <path fill="none" d="M2559.5,658.5 L3049.5,658.5"/>
+                  <path fill="none" d="M2559.5,639.5 L3049.5,639.5"/>
+                  <path fill="none" d="M2559.5,620.5 L3049.5,620.5"/>
+                  <path fill="none" d="M2559.5,601.5 L3049.5,601.5"/>
+                  <path fill="none" d="M2559.5,563.5 L3049.5,563.5"/>
+                  <path fill="none" d="M2559.5,543.5 L3049.5,543.5"/>
+                  <path fill="none" d="M2559.5,524.5 L3049.5,524.5"/>
+                  <path fill="none" d="M2559.5,505.5 L3049.5,505.5"/>
+                  <path fill="none" d="M2559.5,486.5 L3049.5,486.5"/>
+                  <path fill="none" d="M2559.5,448.5 L3049.5,448.5"/>
+                  <path fill="none" d="M2559.5,429.5 L3049.5,429.5"/>
+                  <path fill="none" d="M2559.5,410.5 L3049.5,410.5"/>
+                  <path fill="none" d="M2559.5,391.5 L3049.5,391.5"/>
+                  <path fill="none" d="M2559.5,371.5 L3049.5,371.5"/>
+                  <path fill="none" d="M2559.5,333.5 L3049.5,333.5"/>
+                  <path fill="none" d="M2559.5,314.5 L3049.5,314.5"/>
+                  <path fill="none" d="M2559.5,295.5 L3049.5,295.5"/>
+                  <path fill="none" d="M2559.5,276.5 L3049.5,276.5"/>
+                  <path fill="none" d="M2559.5,257.5 L3049.5,257.5"/>
+                  <path fill="none" d="M2559.5,219.5 L3049.5,219.5"/>
+                  <path fill="none" d="M2559.5,199.5 L3049.5,199.5"/>
+                  <path fill="none" d="M2559.5,180.5 L3049.5,180.5"/>
+                  <path fill="none" d="M2559.5,161.5 L3049.5,161.5"/>
+                  <path fill="none" d="M2559.5,142.5 L3049.5,142.5"/>
+                  <path fill="none" d="M2559.5,104.5 L3049.5,104.5"/>
+                  <path fill="none" d="M2559.5,85.5 L3049.5,85.5"/>
+                  <path fill="none" d="M2559.5,66.5 L3049.5,66.5"/>
+                  <path fill="none" d="M2559.5,47.5 L3049.5,47.5"/>
+                  <path fill="none" d="M2559.5,27.5 L3049.5,27.5"/>
+                </g>
+                <g stroke="#D7D7D7">
+                  <path fill="none" d="M2559.5,1614.5 L3049.5,1614.5"/>
+                  <path fill="none" d="M2559.5,1499.5 L3049.5,1499.5"/>
+                  <path fill="none" d="M2559.5,1384.5 L3049.5,1384.5"/>
+                  <path fill="none" d="M2559.5,1270.5 L3049.5,1270.5"/>
+                  <path fill="none" d="M2559.5,1155.5 L3049.5,1155.5"/>
+                  <path fill="none" d="M2559.5,1040.5 L3049.5,1040.5"/>
+                  <path fill="none" d="M2559.5,926.5 L3049.5,926.5"/>
+                  <path fill="none" d="M2559.5,811.5 L3049.5,811.5"/>
+                  <path fill="none" d="M2559.5,696.5 L3049.5,696.5"/>
+                  <path fill="none" d="M2559.5,582.5 L3049.5,582.5"/>
+                  <path fill="none" d="M2559.5,467.5 L3049.5,467.5"/>
+                  <path fill="none" d="M2559.5,352.5 L3049.5,352.5"/>
+                  <path fill="none" d="M2559.5,238.5 L3049.5,238.5"/>
+                  <path fill="none" d="M2559.5,123.5 L3049.5,123.5"/>
+                </g>
+                <g>
+                  <g stroke="none" fill="#406FDF">
+                    <g>
+                      <defs>
+                        <pattern id="pattern21" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY3DIv98AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkrzfAADdQkPzGK2exAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern21)" d="M2571.75,1499.5 L2571.75,994.97 L2582.64,994.97 L2582.64,1499.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#406FDF" fill="#406FDF">
+                    <path fill="none" d="M2571.75,1499.5 L2571.75,994.97 L2582.64,994.97 L2582.64,1499.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#D54857">
+                    <path stroke="none" d="M2582.64,1499.5 L2582.64,1416.94 L2593.53,1416.94 L2593.53,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#39B143">
+                    <path stroke="none" d="M2593.53,1499.5 L2593.53,1233.55 L2604.42,1233.55 L2604.42,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#A12CDC">
+                    <path stroke="none" d="M2604.42,1499.5 L2604.42,1352.72 L2615.31,1352.72 L2615.31,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#CF7926">
+                    <path stroke="none" d="M2615.31,1499.5 L2615.31,453.74 L2626.19,453.74 L2626.19,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#21BD91">
+                    <path stroke="none" d="M2626.19,1499.5 L2626.19,1218.57 L2637.08,1218.57 L2637.08,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C925CD">
+                    <path stroke="none" d="M2637.08,1499.5 L2637.08,809.28 L2647.97,809.28 L2647.97,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C8C127">
+                    <path stroke="none" d="M2647.97,1499.5 L2647.97,1226.88 L2658.86,1226.88 L2658.86,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#1FB6B6">
+                    <path stroke="none" d="M2658.86,1499.5 L2658.86,1416.72 L2669.75,1416.72 L2669.75,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#406FDF">
+                    <g>
+                      <defs>
+                        <pattern id="pattern22" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY3DIv98AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkrzfAADdQkPzGK2exAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern22)" d="M2694.25,1499.5 L2694.25,974.33 L2705.14,974.33 L2705.14,1499.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#406FDF" fill="#406FDF">
+                    <path fill="none" d="M2694.25,1499.5 L2694.25,974.33 L2705.14,974.33 L2705.14,1499.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#D54857">
+                    <path stroke="none" d="M2705.14,1499.5 L2705.14,1416.94 L2716.03,1416.94 L2716.03,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#39B143">
+                    <path stroke="none" d="M2716.03,1499.5 L2716.03,1230.87 L2726.92,1230.87 L2726.92,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#A12CDC">
+                    <path stroke="none" d="M2726.92,1499.5 L2726.92,1345.64 L2737.81,1345.64 L2737.81,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#CF7926">
+                    <path stroke="none" d="M2737.81,1499.5 L2737.81,473.23 L2748.69,473.23 L2748.69,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#21BD91">
+                    <path stroke="none" d="M2748.69,1499.5 L2748.69,1218.57 L2759.58,1218.57 L2759.58,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C925CD">
+                    <path stroke="none" d="M2759.58,1499.5 L2759.58,811.96 L2770.47,811.96 L2770.47,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C8C127">
+                    <path stroke="none" d="M2770.47,1499.5 L2770.47,1232.7 L2781.36,1232.7 L2781.36,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#1FB6B6">
+                    <path stroke="none" d="M2781.36,1499.5 L2781.36,1417.04 L2792.25,1417.04 L2792.25,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#406FDF">
+                    <g>
+                      <defs>
+                        <pattern id="pattern23" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY3DIv98AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkrzfAADdQkPzGK2exAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern23)" d="M2816.75,1499.5 L2816.75,1036.25 L2827.64,1036.25 L2827.64,1499.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#406FDF" fill="#406FDF">
+                    <path fill="none" d="M2816.75,1499.5 L2816.75,1036.25 L2827.64,1036.25 L2827.64,1499.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#D54857">
+                    <path stroke="none" d="M2827.64,1499.5 L2827.64,1411.21 L2838.53,1411.21 L2838.53,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#39B143">
+                    <path stroke="none" d="M2838.53,1499.5 L2838.53,1236.99 L2849.42,1236.99 L2849.42,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#A12CDC">
+                    <path stroke="none" d="M2849.42,1499.5 L2849.42,1369.48 L2860.31,1369.48 L2860.31,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#CF7926">
+                    <path stroke="none" d="M2860.31,1499.5 L2860.31,412.46 L2871.19,412.46 L2871.19,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#21BD91">
+                    <path stroke="none" d="M2871.19,1499.5 L2871.19,1224.3 L2882.08,1224.3 L2882.08,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C925CD">
+                    <path stroke="none" d="M2882.08,1499.5 L2882.08,805.84 L2892.97,805.84 L2892.97,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C8C127">
+                    <path stroke="none" d="M2892.97,1499.5 L2892.97,1211.97 L2903.86,1211.97 L2903.86,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#1FB6B6">
+                    <path stroke="none" d="M2903.86,1499.5 L2903.86,1416.31 L2914.75,1416.31 L2914.75,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#406FDF">
+                    <g>
+                      <defs>
+                        <pattern id="pattern24" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY3DIv98AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkrzfAADdQkPzGK2exAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern24)" d="M2939.25,1499.5 L2939.25,1059.18 L2950.14,1059.18 L2950.14,1499.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#406FDF" fill="#406FDF">
+                    <path fill="none" d="M2939.25,1499.5 L2939.25,1059.18 L2950.14,1059.18 L2950.14,1499.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#D54857">
+                    <path stroke="none" d="M2950.14,1499.5 L2950.14,1439.87 L2961.03,1439.87 L2961.03,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#39B143">
+                    <path stroke="none" d="M2961.03,1499.5 L2961.03,1293.71 L2971.92,1293.71 L2971.92,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#A12CDC">
+                    <path stroke="none" d="M2971.92,1499.5 L2971.92,1370.43 L2982.81,1370.43 L2982.81,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#CF7926">
+                    <path stroke="none" d="M2982.81,1499.5 L2982.81,387.23 L2993.69,387.23 L2993.69,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#21BD91">
+                    <path stroke="none" d="M2993.69,1499.5 L2993.69,1195.63 L3004.58,1195.63 L3004.58,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C925CD">
+                    <path stroke="none" d="M3004.58,1499.5 L3004.58,749.12 L3015.47,749.12 L3015.47,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#C8C127">
+                    <path stroke="none" d="M3015.47,1499.5 L3015.47,1205.5 L3026.36,1205.5 L3026.36,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g stroke="none" fill="#1FB6B6">
+                    <path stroke="none" d="M3026.36,1499.5 L3026.36,1409.51 L3037.25,1409.51 L3037.25,1499.5 z" fill-rule="evenodd"/>
+                  </g>
+                  <g>
+                    <text stroke="none" x="2577.5" y="996.5" dy="-1.8" text-anchor="middle">440</text>
+                    <text stroke="none" x="2588.5" y="1418.5" dy="-1.8" text-anchor="middle">72</text>
+                    <text stroke="none" x="2598.5" y="1235.5" dy="-1.8" text-anchor="middle">232</text>
+                    <text stroke="none" x="2609.5" y="1354.5" dy="-1.8" text-anchor="middle">128</text>
+                    <text stroke="none" x="2620.5" y="455.5" dy="-1.8" text-anchor="middle">912</text>
+                    <text stroke="none" x="2631.5" y="1220.5" dy="-1.8" text-anchor="middle">245</text>
+                    <text stroke="none" x="2642.5" y="811.5" dy="-1.8" text-anchor="middle">602</text>
+                    <text stroke="none" x="2653.5" y="1228.5" dy="-1.8" text-anchor="middle">238</text>
+                    <text stroke="none" x="2664.5" y="1418.5" dy="-1.8" text-anchor="middle">72,2</text>
+                    <text stroke="none" x="2699.5" y="976.5" dy="-1.8" text-anchor="middle">458</text>
+                    <text stroke="none" x="2710.5" y="1418.5" dy="-1.8" text-anchor="middle">72</text>
+                    <text stroke="none" x="2721.5" y="1232.5" dy="-1.8" text-anchor="middle">234</text>
+                    <text stroke="none" x="2732.5" y="1347.5" dy="-1.8" text-anchor="middle">134</text>
+                    <text stroke="none" x="2743.5" y="475.5" dy="-1.8" text-anchor="middle">895</text>
+                    <text stroke="none" x="2754.5" y="1220.5" dy="-1.8" text-anchor="middle">245</text>
+                    <text stroke="none" x="2765.5" y="813.5" dy="-1.8" text-anchor="middle">600</text>
+                    <text stroke="none" x="2775.5" y="1234.5" dy="-1.8" text-anchor="middle">233</text>
+                    <text stroke="none" x="2786.5" y="1419.5" dy="-1.8" text-anchor="middle">71,9</text>
+                    <text stroke="none" x="2822.5" y="1038.5" dy="-1.8" text-anchor="middle">404</text>
+                    <text stroke="none" x="2833.5" y="1413.5" dy="-1.8" text-anchor="middle">77</text>
+                    <text stroke="none" x="2843.5" y="1238.5" dy="-1.8" text-anchor="middle">229</text>
+                    <text stroke="none" x="2854.5" y="1371.5" dy="-1.8" text-anchor="middle">113</text>
+                    <text stroke="none" x="2865.5" y="414.5" dy="-1.8" text-anchor="middle">948</text>
+                    <text stroke="none" x="2876.5" y="1226.5" dy="-1.8" text-anchor="middle">240</text>
+                    <text stroke="none" x="2887.5" y="807.5" dy="-1.8" text-anchor="middle">605</text>
+                    <text stroke="none" x="2898.5" y="1213.5" dy="-1.8" text-anchor="middle">251</text>
+                    <text stroke="none" x="2909.5" y="1418.5" dy="-1.8" text-anchor="middle">72,6</text>
+                    <text stroke="none" x="2944.5" y="1061.5" dy="-1.8" text-anchor="middle">384</text>
+                    <text stroke="none" x="2955.5" y="1441.5" dy="-1.8" text-anchor="middle">52</text>
+                    <text stroke="none" x="2966.5" y="1295.5" dy="-1.8" text-anchor="middle">179</text>
+                    <text stroke="none" x="2977.5" y="1372.5" dy="-1.8" text-anchor="middle">113</text>
+                    <text stroke="none" x="2988.5" y="389.5" dy="-1.8" text-anchor="middle">970</text>
+                    <text stroke="none" x="2999.5" y="1197.5" dy="-1.8" text-anchor="middle">265</text>
+                    <text stroke="none" x="3010.5" y="751.5" dy="-1.8" text-anchor="middle">654</text>
+                    <text stroke="none" x="3020.5" y="1207.5" dy="-1.8" text-anchor="middle">256</text>
+                    <text stroke="none" x="3031.5" y="1411.5" dy="-1.8" text-anchor="middle">78,5</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g stroke="#A5A5A5">
+            <path fill="none" d="M3049.5,123.5 L3049.5,1499.5 L2559.5,1499.5"/>
+          </g>
+          <g>
+            <g>
+              <clipPath id="clip27" clip-path="url(#clip1)">
+                <path d="M110.5,127.5 L110.5,162.5 L1875.5,162.5 L1875.5,127.5 z"/>
+              </clipPath>
+              <g clip-path="url(#clip27)">
+                <g fill="#406FDF">
+                  <g>
+                    <defs>
+                      <pattern id="pattern25" patternUnits="userSpaceOnUse" width="6" height="6">
+                        <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY3DIv98AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkrzfAADdQkPzGK2exAAAAABJRU5ErkJggg=="/>
+                      </pattern>
+                    </defs>
+                    <path stroke="none" fill="url(#pattern25)" d="M112.5,134.5 L112.5,155.5 L133.5,155.5 L133.5,134.5 z" fill-rule="evenodd"/>
+                  </g>
+                </g>
+                <text stroke="none" x="135.5" y="144.5" dy="9">Not Found (max)</text>
+                <g fill="#D54857">
+                  <path stroke="none" d="M300.5,134.5 L300.5,155.5 L321.5,155.5 L321.5,134.5 z" fill-rule="evenodd"/>
+                </g>
+                <text stroke="none" x="323.5" y="144.5" dy="9">Not Found (min)</text>
+                <g fill="#39B143">
+                  <path stroke="none" d="M488.5,134.5 L488.5,155.5 L509.5,155.5 L509.5,134.5 z" fill-rule="evenodd"/>
+                </g>
+                <text stroke="none" x="511.5" y="144.5" dy="9">Not Found (mean)</text>
+                <g fill="#A12CDC">
+                  <path stroke="none" d="M686.5,134.5 L686.5,155.5 L707.5,155.5 L707.5,134.5 z" fill-rule="evenodd"/>
+                </g>
+                <text stroke="none" x="709.5" y="144.5" dy="9">Not Found (SD)</text>
+                <g fill="#CF7926">
+                  <path stroke="none" d="M864.5,134.5 L864.5,155.5 L885.5,155.5 L885.5,134.5 z" fill-rule="evenodd"/>
+                </g>
+                <text stroke="none" x="887.5" y="144.5" dy="9">Found (max)</text>
+                <g fill="#21BD91">
+                  <path stroke="none" d="M1012.5,134.5 L1012.5,155.5 L1033.5,155.5 L1033.5,134.5 z" fill-rule="evenodd"/>
+                </g>
+                <text stroke="none" x="1035.5" y="144.5" dy="9">Found (min)</text>
+                <g fill="#C925CD">
+                  <path stroke="none" d="M1160.5,134.5 L1160.5,155.5 L1181.5,155.5 L1181.5,134.5 z" fill-rule="evenodd"/>
+                </g>
+                <text stroke="none" x="1183.5" y="144.5" dy="9">Found (mean)</text>
+                <g fill="#C8C127">
+                  <path stroke="none" d="M1318.5,134.5 L1318.5,155.5 L1339.5,155.5 L1339.5,134.5 z" fill-rule="evenodd"/>
+                </g>
+                <text stroke="none" x="1341.5" y="144.5" dy="9">Found (SD)</text>
+                <g fill="#1FB6B6">
+                  <path stroke="none" d="M1456.5,134.5 L1456.5,155.5 L1477.5,155.5 L1477.5,134.5 z" fill-rule="evenodd"/>
+                </g>
+                <text stroke="none" x="1479.5" y="144.5" dy="9">Found (%)</text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

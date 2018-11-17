@@ -1,0 +1,1176 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="3072" height="1639" viewBox="0 6 3072 1639">
+  <g stroke="#000000" fill="#000000" font-family="Segoe UI" font-size="18">
+    <g>
+      <image x="0" y="16" width="13" height="12" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAMCAYAAAC5tzfZAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAABcSURBVChTnZHRCcAwCESzphs5k8tZrnBig9q0PCTG8325/AepPSe1M2bmquroYzgBQUTuwj+CDgp8MYuwIgtH0i68SpUwSp3AOXZiGTDYl1mlhDsg6OrTnZ74ugDwWlvyfitO0wAAAABJRU5ErkJggg=="/>
+      <g fill="#ECECEC">
+        <path stroke="none" d="M13.5,8.5 L13.5,47.5 L3072.5,47.5 L3072.5,8.5 z" fill-rule="evenodd"/>
+      </g>
+      <g stroke="#C0C0C0">
+        <path fill="none" d="M13.5,8.5 L13.5,47.5 L3072.5,47.5 L3072.5,8.5 z"/>
+      </g>
+      <g stroke="#AAAAAA">
+        <path fill="none" d="M20,22 L29,22 C29.71,22 30.38,22.38 30.73,23 C30.91,23.3 31,23.65 31,24 L31,31 C31,31.71 30.62,32.38 30,32.73 C29.7,32.91 29.35,33 29,33 L20,33 C19.29,33 18.62,32.62 18.27,32 C18.09,31.7 18,31.35 18,31 L18,24 C18,23.29 18.38,22.62 19,22.27 C19.3,22.09 19.65,22 20,22 z"/>
+        <image x="19" y="23" width="9" height="7" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAHCAYAAADam2dgAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADkSURBVChTY/j58yfbt2/fOEH469evXMj4+/fvHD9+/GBnAHGe5OVx3c3O5rqRlcV1FYgvAvE5IP8cUPxCSQkXw93Cwr7HDAz/bwPxZSA+C8THgXgfEG8D4oNAeYbjx49b7ElImH8FKHAGiI8C8X4g3g7EK4HiJ06cMGe4dOmS7vr16wMWh4auOsrI+A+kYAeQnhkWtnLdunWBly9f1mF4/vy5xJkzZ4xXrFgRPic6esk2Fpbf06Oilq5cuTLs9OnTJiB5BpDrX758KXbx4kW9nTt3um9YsiQBSLuB+CDxHz9+sAMAqO2OO8W2EgkAAAAASUVORK5CYII="/>
+      </g>
+      <g font-size="22" font-weight="bold">
+        <text stroke="none" x="33.5" y="27.5" dy="11">Graph Builder</text>
+      </g>
+      <g>
+        <clipPath id="clip1">
+          <path d="M-99999.5,47.5 L-99999.5,100000.5 L100000.5,100000.5 L100000.5,47.5 z"/>
+        </clipPath>
+        <g clip-path="url(#clip1)">
+          <g fill="#DDDDDD">
+            <path stroke="none" d="M102.5,123.5 L102.5,1635.5 L3049.5,1635.5 L3049.5,123.5 z" fill-rule="evenodd"/>
+          </g>
+          <g>
+            <clipPath id="clip2" clip-path="url(#clip1)">
+              <path d="M12.5,48.5 L12.5,86.5 L3049.5,86.5 L3049.5,48.5 z"/>
+            </clipPath>
+            <g clip-path="url(#clip2)">
+              <g>
+                <clipPath id="clip3" clip-path="url(#clip2)">
+                  <path d="M1342.5,48.5 L1342.5,87.5 L1719.5,87.5 L1719.5,48.5 z"/>
+                </clipPath>
+                <g clip-path="url(#clip3)">
+                  <g fill="#000000" font-size="22" font-weight="bold">
+                    <text stroke="none" x="1358.5" y="74.5">Seach strategies evaluation</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g fill="#E9E8DF">
+            <path stroke="none" d="M102.5,88.5 L102.5,123.5 L838.5,123.5 L838.5,88.5 z" fill-rule="evenodd"/>
+          </g>
+          <text stroke="none" x="470.5" y="106" dy="9" text-anchor="middle">~1</text>
+          <g stroke="#DBD9CA">
+            <path fill="none" d="M102.5,88.5 L102.5,123.5 L838.5,123.5 L838.5,88.5 z"/>
+          </g>
+          <g fill="#E9E8DF">
+            <path stroke="none" d="M839.5,88.5 L839.5,123.5 L1575.5,123.5 L1575.5,88.5 z" fill-rule="evenodd"/>
+          </g>
+          <text stroke="none" x="1207.5" y="106" dy="9" text-anchor="middle">~2</text>
+          <g stroke="#DBD9CA">
+            <path fill="none" d="M839.5,88.5 L839.5,123.5 L1575.5,123.5 L1575.5,88.5 z"/>
+          </g>
+          <g fill="#DDDDDD">
+            <path stroke="none" d="M838.5,88.5 L838.5,123.5 L839.5,123.5 L839.5,88.5 z" fill-rule="evenodd"/>
+          </g>
+          <g fill="#E9E8DF">
+            <path stroke="none" d="M1576.5,88.5 L1576.5,123.5 L2312.5,123.5 L2312.5,88.5 z" fill-rule="evenodd"/>
+          </g>
+          <text stroke="none" x="1944.5" y="106" dy="9" text-anchor="middle">Exact match</text>
+          <g stroke="#DBD9CA">
+            <path fill="none" d="M1576.5,88.5 L1576.5,123.5 L2312.5,123.5 L2312.5,88.5 z"/>
+          </g>
+          <g fill="#DDDDDD">
+            <path stroke="none" d="M1575.5,88.5 L1575.5,123.5 L1576.5,123.5 L1576.5,88.5 z" fill-rule="evenodd"/>
+          </g>
+          <g fill="#E9E8DF">
+            <path stroke="none" d="M2313.5,88.5 L2313.5,123.5 L3049.5,123.5 L3049.5,88.5 z" fill-rule="evenodd"/>
+          </g>
+          <text stroke="none" x="2681.5" y="106" dy="9" text-anchor="middle">expand</text>
+          <g stroke="#DBD9CA">
+            <path fill="none" d="M2313.5,88.5 L2313.5,123.5 L3049.5,123.5 L3049.5,88.5 z"/>
+          </g>
+          <g fill="#DDDDDD">
+            <path stroke="none" d="M2312.5,88.5 L2312.5,123.5 L2313.5,123.5 L2313.5,88.5 z" fill-rule="evenodd"/>
+          </g>
+          <g>
+            <clipPath id="clip4" clip-path="url(#clip1)">
+              <path d="M12.5,123.5 L12.5,1635.5 L48.5,1635.5 L48.5,123.5 z"/>
+            </clipPath>
+            <g clip-path="url(#clip4)">
+              <g fill="#000000" font-size="20">
+                <g transform="translate(12.5,878.5)">
+                  <g transform="rotate(-90)">
+                    <text stroke="none" dy="22" text-anchor="middle">Number of documents</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g>
+            <clipPath id="clip5" clip-path="url(#clip1)">
+              <path d="M48.5,113.5 L48.5,1645.5 L102.5,1645.5 L102.5,113.5 z"/>
+            </clipPath>
+            <g clip-path="url(#clip5)">
+              <g stroke="#A5A5A5">
+                <path fill="none" d="M99.5,1614.5 L102.5,1614.5"/>
+                <path fill="none" d="M99.5,1593.5 L102.5,1593.5"/>
+                <path fill="none" d="M99.5,1572.5 L102.5,1572.5"/>
+                <path fill="none" d="M99.5,1551.5 L102.5,1551.5"/>
+                <path fill="none" d="M99.5,1530.5 L102.5,1530.5"/>
+                <path fill="none" d="M99.5,1488.5 L102.5,1488.5"/>
+                <path fill="none" d="M99.5,1467.5 L102.5,1467.5"/>
+                <path fill="none" d="M99.5,1446.5 L102.5,1446.5"/>
+                <path fill="none" d="M99.5,1425.5 L102.5,1425.5"/>
+                <path fill="none" d="M99.5,1404.5 L102.5,1404.5"/>
+                <path fill="none" d="M99.5,1362.5 L102.5,1362.5"/>
+                <path fill="none" d="M99.5,1341.5 L102.5,1341.5"/>
+                <path fill="none" d="M99.5,1320.5 L102.5,1320.5"/>
+                <path fill="none" d="M99.5,1299.5 L102.5,1299.5"/>
+                <path fill="none" d="M99.5,1278.5 L102.5,1278.5"/>
+                <path fill="none" d="M99.5,1236.5 L102.5,1236.5"/>
+                <path fill="none" d="M99.5,1215.5 L102.5,1215.5"/>
+                <path fill="none" d="M99.5,1194.5 L102.5,1194.5"/>
+                <path fill="none" d="M99.5,1173.5 L102.5,1173.5"/>
+                <path fill="none" d="M99.5,1152.5 L102.5,1152.5"/>
+                <path fill="none" d="M99.5,1110.5 L102.5,1110.5"/>
+                <path fill="none" d="M99.5,1089.5 L102.5,1089.5"/>
+                <path fill="none" d="M99.5,1068.5 L102.5,1068.5"/>
+                <path fill="none" d="M99.5,1047.5 L102.5,1047.5"/>
+                <path fill="none" d="M99.5,1026.5 L102.5,1026.5"/>
+                <path fill="none" d="M99.5,984.5 L102.5,984.5"/>
+                <path fill="none" d="M99.5,963.5 L102.5,963.5"/>
+                <path fill="none" d="M99.5,942.5 L102.5,942.5"/>
+                <path fill="none" d="M99.5,921.5 L102.5,921.5"/>
+                <path fill="none" d="M99.5,900.5 L102.5,900.5"/>
+                <path fill="none" d="M99.5,858.5 L102.5,858.5"/>
+                <path fill="none" d="M99.5,837.5 L102.5,837.5"/>
+                <path fill="none" d="M99.5,816.5 L102.5,816.5"/>
+                <path fill="none" d="M99.5,795.5 L102.5,795.5"/>
+                <path fill="none" d="M99.5,774.5 L102.5,774.5"/>
+                <path fill="none" d="M99.5,732.5 L102.5,732.5"/>
+                <path fill="none" d="M99.5,711.5 L102.5,711.5"/>
+                <path fill="none" d="M99.5,690.5 L102.5,690.5"/>
+                <path fill="none" d="M99.5,669.5 L102.5,669.5"/>
+                <path fill="none" d="M99.5,648.5 L102.5,648.5"/>
+                <path fill="none" d="M99.5,606.5 L102.5,606.5"/>
+                <path fill="none" d="M99.5,585.5 L102.5,585.5"/>
+                <path fill="none" d="M99.5,564.5 L102.5,564.5"/>
+                <path fill="none" d="M99.5,543.5 L102.5,543.5"/>
+                <path fill="none" d="M99.5,522.5 L102.5,522.5"/>
+                <path fill="none" d="M99.5,480.5 L102.5,480.5"/>
+                <path fill="none" d="M99.5,459.5 L102.5,459.5"/>
+                <path fill="none" d="M99.5,438.5 L102.5,438.5"/>
+                <path fill="none" d="M99.5,417.5 L102.5,417.5"/>
+                <path fill="none" d="M99.5,396.5 L102.5,396.5"/>
+                <path fill="none" d="M99.5,354.5 L102.5,354.5"/>
+                <path fill="none" d="M99.5,333.5 L102.5,333.5"/>
+                <path fill="none" d="M99.5,312.5 L102.5,312.5"/>
+                <path fill="none" d="M99.5,291.5 L102.5,291.5"/>
+                <path fill="none" d="M99.5,270.5 L102.5,270.5"/>
+                <path fill="none" d="M99.5,228.5 L102.5,228.5"/>
+                <path fill="none" d="M99.5,207.5 L102.5,207.5"/>
+                <path fill="none" d="M99.5,186.5 L102.5,186.5"/>
+                <path fill="none" d="M99.5,165.5 L102.5,165.5"/>
+                <path fill="none" d="M99.5,144.5 L102.5,144.5"/>
+                <path fill="none" d="M96.5,1635.5 L102.5,1635.5"/>
+                <path fill="none" d="M96.5,1509.5 L102.5,1509.5"/>
+                <path fill="none" d="M96.5,1383.5 L102.5,1383.5"/>
+                <path fill="none" d="M96.5,1257.5 L102.5,1257.5"/>
+                <path fill="none" d="M96.5,1131.5 L102.5,1131.5"/>
+                <path fill="none" d="M96.5,1005.5 L102.5,1005.5"/>
+                <path fill="none" d="M96.5,879.5 L102.5,879.5"/>
+                <path fill="none" d="M96.5,753.5 L102.5,753.5"/>
+                <path fill="none" d="M96.5,627.5 L102.5,627.5"/>
+                <path fill="none" d="M96.5,501.5 L102.5,501.5"/>
+                <path fill="none" d="M96.5,375.5 L102.5,375.5"/>
+                <path fill="none" d="M96.5,249.5 L102.5,249.5"/>
+                <path fill="none" d="M96.5,123.5 L102.5,123.5"/>
+              </g>
+              <g stroke="#A5A5A5" font-size="14">
+                <text stroke="none" x="94.5" y="1635.5" dy="7" text-anchor="end">0</text>
+                <text stroke="none" x="94.5" y="1509.5" dy="7" text-anchor="end">100</text>
+                <text stroke="none" x="94.5" y="1383.5" dy="7" text-anchor="end">200</text>
+                <text stroke="none" x="94.5" y="1257.5" dy="7" text-anchor="end">300</text>
+                <text stroke="none" x="94.5" y="1131.5" dy="7" text-anchor="end">400</text>
+                <text stroke="none" x="94.5" y="1005.5" dy="7" text-anchor="end">500</text>
+                <text stroke="none" x="94.5" y="879.5" dy="7" text-anchor="end">600</text>
+                <text stroke="none" x="94.5" y="753.5" dy="7" text-anchor="end">700</text>
+                <text stroke="none" x="94.5" y="627.5" dy="7" text-anchor="end">800</text>
+                <text stroke="none" x="94.5" y="501.5" dy="7" text-anchor="end">900</text>
+                <text stroke="none" x="94.5" y="375.5" dy="7" text-anchor="end">1000</text>
+                <text stroke="none" x="94.5" y="249.5" dy="7" text-anchor="end">1100</text>
+                <text stroke="none" x="94.5" y="123.5" dy="7" text-anchor="end">1200</text>
+              </g>
+            </g>
+          </g>
+          <g>
+            <clipPath id="clip6" clip-path="url(#clip1)">
+              <path d="M48.5,123.5 L48.5,1635.5 L102.5,1635.5 L102.5,123.5 z"/>
+            </clipPath>
+            <g clip-path="url(#clip6)"/>
+          </g>
+          <g fill="#FFFFFF">
+            <path stroke="none" d="M102.5,123.5 L102.5,1635.5 L838.5,1635.5 L838.5,123.5 z" fill-rule="evenodd"/>
+          </g>
+          <g>
+            <g>
+              <clipPath id="clip7" clip-path="url(#clip1)">
+                <path d="M102.5,122.5 L102.5,1635.5 L839.5,1635.5 L839.5,122.5 z"/>
+              </clipPath>
+              <g clip-path="url(#clip7)">
+                <g stroke="#F0F0F0">
+                  <path fill="none" d="M102.5,1740.5 L838.5,1740.5"/>
+                  <path fill="none" d="M102.5,1719.5 L838.5,1719.5"/>
+                  <path fill="none" d="M102.5,1698.5 L838.5,1698.5"/>
+                  <path fill="none" d="M102.5,1677.5 L838.5,1677.5"/>
+                  <path fill="none" d="M102.5,1656.5 L838.5,1656.5"/>
+                  <path fill="none" d="M102.5,1614.5 L838.5,1614.5"/>
+                  <path fill="none" d="M102.5,1593.5 L838.5,1593.5"/>
+                  <path fill="none" d="M102.5,1572.5 L838.5,1572.5"/>
+                  <path fill="none" d="M102.5,1551.5 L838.5,1551.5"/>
+                  <path fill="none" d="M102.5,1530.5 L838.5,1530.5"/>
+                  <path fill="none" d="M102.5,1488.5 L838.5,1488.5"/>
+                  <path fill="none" d="M102.5,1467.5 L838.5,1467.5"/>
+                  <path fill="none" d="M102.5,1446.5 L838.5,1446.5"/>
+                  <path fill="none" d="M102.5,1425.5 L838.5,1425.5"/>
+                  <path fill="none" d="M102.5,1404.5 L838.5,1404.5"/>
+                  <path fill="none" d="M102.5,1362.5 L838.5,1362.5"/>
+                  <path fill="none" d="M102.5,1341.5 L838.5,1341.5"/>
+                  <path fill="none" d="M102.5,1320.5 L838.5,1320.5"/>
+                  <path fill="none" d="M102.5,1299.5 L838.5,1299.5"/>
+                  <path fill="none" d="M102.5,1278.5 L838.5,1278.5"/>
+                  <path fill="none" d="M102.5,1236.5 L838.5,1236.5"/>
+                  <path fill="none" d="M102.5,1215.5 L838.5,1215.5"/>
+                  <path fill="none" d="M102.5,1194.5 L838.5,1194.5"/>
+                  <path fill="none" d="M102.5,1173.5 L838.5,1173.5"/>
+                  <path fill="none" d="M102.5,1152.5 L838.5,1152.5"/>
+                  <path fill="none" d="M102.5,1110.5 L838.5,1110.5"/>
+                  <path fill="none" d="M102.5,1089.5 L838.5,1089.5"/>
+                  <path fill="none" d="M102.5,1068.5 L838.5,1068.5"/>
+                  <path fill="none" d="M102.5,1047.5 L838.5,1047.5"/>
+                  <path fill="none" d="M102.5,1026.5 L838.5,1026.5"/>
+                  <path fill="none" d="M102.5,984.5 L838.5,984.5"/>
+                  <path fill="none" d="M102.5,963.5 L838.5,963.5"/>
+                  <path fill="none" d="M102.5,942.5 L838.5,942.5"/>
+                  <path fill="none" d="M102.5,921.5 L838.5,921.5"/>
+                  <path fill="none" d="M102.5,900.5 L838.5,900.5"/>
+                  <path fill="none" d="M102.5,858.5 L838.5,858.5"/>
+                  <path fill="none" d="M102.5,837.5 L838.5,837.5"/>
+                  <path fill="none" d="M102.5,816.5 L838.5,816.5"/>
+                  <path fill="none" d="M102.5,795.5 L838.5,795.5"/>
+                  <path fill="none" d="M102.5,774.5 L838.5,774.5"/>
+                  <path fill="none" d="M102.5,732.5 L838.5,732.5"/>
+                  <path fill="none" d="M102.5,711.5 L838.5,711.5"/>
+                  <path fill="none" d="M102.5,690.5 L838.5,690.5"/>
+                  <path fill="none" d="M102.5,669.5 L838.5,669.5"/>
+                  <path fill="none" d="M102.5,648.5 L838.5,648.5"/>
+                  <path fill="none" d="M102.5,606.5 L838.5,606.5"/>
+                  <path fill="none" d="M102.5,585.5 L838.5,585.5"/>
+                  <path fill="none" d="M102.5,564.5 L838.5,564.5"/>
+                  <path fill="none" d="M102.5,543.5 L838.5,543.5"/>
+                  <path fill="none" d="M102.5,522.5 L838.5,522.5"/>
+                  <path fill="none" d="M102.5,480.5 L838.5,480.5"/>
+                  <path fill="none" d="M102.5,459.5 L838.5,459.5"/>
+                  <path fill="none" d="M102.5,438.5 L838.5,438.5"/>
+                  <path fill="none" d="M102.5,417.5 L838.5,417.5"/>
+                  <path fill="none" d="M102.5,396.5 L838.5,396.5"/>
+                  <path fill="none" d="M102.5,354.5 L838.5,354.5"/>
+                  <path fill="none" d="M102.5,333.5 L838.5,333.5"/>
+                  <path fill="none" d="M102.5,312.5 L838.5,312.5"/>
+                  <path fill="none" d="M102.5,291.5 L838.5,291.5"/>
+                  <path fill="none" d="M102.5,270.5 L838.5,270.5"/>
+                  <path fill="none" d="M102.5,228.5 L838.5,228.5"/>
+                  <path fill="none" d="M102.5,207.5 L838.5,207.5"/>
+                  <path fill="none" d="M102.5,186.5 L838.5,186.5"/>
+                  <path fill="none" d="M102.5,165.5 L838.5,165.5"/>
+                  <path fill="none" d="M102.5,144.5 L838.5,144.5"/>
+                  <path fill="none" d="M102.5,102.5 L838.5,102.5"/>
+                  <path fill="none" d="M102.5,81.5 L838.5,81.5"/>
+                  <path fill="none" d="M102.5,60.5 L838.5,60.5"/>
+                  <path fill="none" d="M102.5,39.5 L838.5,39.5"/>
+                  <path fill="none" d="M102.5,18.5 L838.5,18.5"/>
+                </g>
+                <g stroke="#D7D7D7">
+                  <path fill="none" d="M102.5,1761.5 L838.5,1761.5"/>
+                  <path fill="none" d="M102.5,1635.5 L838.5,1635.5"/>
+                  <path fill="none" d="M102.5,1509.5 L838.5,1509.5"/>
+                  <path fill="none" d="M102.5,1383.5 L838.5,1383.5"/>
+                  <path fill="none" d="M102.5,1257.5 L838.5,1257.5"/>
+                  <path fill="none" d="M102.5,1131.5 L838.5,1131.5"/>
+                  <path fill="none" d="M102.5,1005.5 L838.5,1005.5"/>
+                  <path fill="none" d="M102.5,879.5 L838.5,879.5"/>
+                  <path fill="none" d="M102.5,753.5 L838.5,753.5"/>
+                  <path fill="none" d="M102.5,627.5 L838.5,627.5"/>
+                  <path fill="none" d="M102.5,501.5 L838.5,501.5"/>
+                  <path fill="none" d="M102.5,375.5 L838.5,375.5"/>
+                  <path fill="none" d="M102.5,249.5 L838.5,249.5"/>
+                  <path fill="none" d="M102.5,123.5 L838.5,123.5"/>
+                </g>
+                <g>
+                  <g stroke="none" fill="#406FDF">
+                    <g>
+                      <defs>
+                        <pattern id="pattern1" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY3DIv98AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkrzfAADdQkPzGK2exAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern1)" d="M179.63,1635.5 L179.63,350.3 L252.35,350.3 L252.35,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#406FDF" fill="#406FDF">
+                    <path fill="none" d="M179.63,1635.5 L179.63,350.3 L252.35,350.3 L252.35,1635.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#D54857">
+                    <g>
+                      <defs>
+                        <pattern id="pattern2" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY7jqEd4AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkgxvAADxO0BLMxEuvQAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern2)" d="M252.35,1635.5 L252.35,1074.8 L325.06,1074.8 L325.06,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#D54857" fill="#D54857">
+                    <path fill="none" d="M252.35,1635.5 L252.35,1074.8 L325.06,1074.8 L325.06,1635.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#39B143">
+                    <g>
+                      <defs>
+                        <pattern id="pattern3" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAvSURBVBhXY7Dc6PwfiBuAGMSG4QYwgS4IxP+RBeCCIBqrIIiPVRCEsQpabnRmAADsHDZPAbvglQAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern3)" d="M325.06,1635.5 L325.06,1328.06 L397.78,1328.06 L397.78,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#39B143" fill="#39B143">
+                    <path fill="none" d="M325.06,1635.5 L325.06,1328.06 L397.78,1328.06 L397.78,1635.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#A12CDC">
+                    <g>
+                      <defs>
+                        <pattern id="pattern4" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAvSURBVBhXY1ioc+c/EDcAMYgNww1gAl0QiP8jC8AFQTRWQRAfqyAIYxVcqHOHAQAKGke/HVGt5QAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern4)" d="M397.78,1635.5 L397.78,1544.78 L470.5,1544.78 L470.5,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#A12CDC" fill="#A12CDC">
+                    <path fill="none" d="M397.78,1635.5 L397.78,1544.78 L470.5,1544.78 L470.5,1635.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#CF7926">
+                    <g>
+                      <defs>
+                        <pattern id="pattern5" patternUnits="userSpaceOnUse" width="4" height="1">
+                          <image x="0" y="0" width="4" height="1" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAYAAAD5PA/NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAUSURBVBhXYzhfqfYfiEE0EKsxAABDIAa4iz/IBAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern5)" d="M470.5,1635.5 L470.5,847.36 L543.22,847.36 L543.22,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#CF7926" fill="#CF7926">
+                    <path fill="none" d="M470.5,1635.5 L470.5,847.36 L543.22,847.36 L543.22,1635.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#21BD91">
+                    <g>
+                      <defs>
+                        <pattern id="pattern6" patternUnits="userSpaceOnUse" width="4" height="1">
+                          <image x="0" y="0" width="4" height="1" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAYAAAD5PA/NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAUSURBVBhXY1DcO/E/EINoIJ7IAAA+4Aa8Mnx5jgAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern6)" d="M543.22,1635.5 L543.22,1372.97 L615.94,1372.97 L615.94,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#21BD91" fill="#21BD91">
+                    <path fill="none" d="M543.22,1635.5 L543.22,1372.97 L615.94,1372.97 L615.94,1635.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#C925CD">
+                    <g>
+                      <defs>
+                        <pattern id="pattern7" patternUnits="userSpaceOnUse" width="1" height="4">
+                          <image x="0" y="0" width="1" height="4" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAECAYAAABP2FU6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAATSURBVBhXYzipevY/iGCAEWcZAFiiB+yBbxXhAAAAAElFTkSuQmCC"/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern7)" d="M615.94,1635.5 L615.94,1315.68 L688.65,1315.68 L688.65,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#C925CD" fill="#C925CD">
+                    <path fill="none" d="M615.94,1635.5 L615.94,1315.68 L688.65,1315.68 L688.65,1635.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#C8C127">
+                    <g>
+                      <defs>
+                        <pattern id="pattern8" patternUnits="userSpaceOnUse" width="1" height="4">
+                          <image x="0" y="0" width="1" height="4" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAECAYAAABP2FU6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAATSURBVBhXYzhxUP0/iGCAEeoMAFloB8Da5NAFAAAAAElFTkSuQmCC"/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern8)" d="M688.65,1635.5 L688.65,1503.95 L761.37,1503.95 L761.37,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#C8C127" fill="#C8C127">
+                    <path fill="none" d="M688.65,1635.5 L688.65,1503.95 L761.37,1503.95 L761.37,1635.5 z"/>
+                  </g>
+                  <g>
+                    <text stroke="none" x="215.5" y="352.5" dy="-1.8" text-anchor="middle">1020</text>
+                    <text stroke="none" x="288.5" y="1076.5" dy="-1.8" text-anchor="middle">445</text>
+                    <text stroke="none" x="361.5" y="1330.5" dy="-1.8" text-anchor="middle">244</text>
+                    <text stroke="none" x="434.5" y="1546.5" dy="-1.8" text-anchor="middle">72</text>
+                    <text stroke="none" x="506.5" y="849.5" dy="-1.8" text-anchor="middle">626</text>
+                    <text stroke="none" x="579.5" y="1374.5" dy="-1.8" text-anchor="middle">208</text>
+                    <text stroke="none" x="652.5" y="1317.5" dy="-1.8" text-anchor="middle">254</text>
+                    <text stroke="none" x="725.5" y="1505.5" dy="-1.8" text-anchor="middle">104</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g stroke="#A5A5A5">
+            <path fill="none" d="M102.5,1635.5 L102.5,123.5 M838.5,1635.5 L102.5,1635.5"/>
+          </g>
+          <g fill="#FFFFFF">
+            <path stroke="none" d="M839.5,123.5 L839.5,1635.5 L1575.5,1635.5 L1575.5,123.5 z" fill-rule="evenodd"/>
+          </g>
+          <g>
+            <g>
+              <clipPath id="clip8" clip-path="url(#clip1)">
+                <path d="M838.5,122.5 L838.5,1635.5 L1576.5,1635.5 L1576.5,122.5 z"/>
+              </clipPath>
+              <g clip-path="url(#clip8)">
+                <g stroke="#F0F0F0">
+                  <path fill="none" d="M839.5,1740.5 L1575.5,1740.5"/>
+                  <path fill="none" d="M839.5,1719.5 L1575.5,1719.5"/>
+                  <path fill="none" d="M839.5,1698.5 L1575.5,1698.5"/>
+                  <path fill="none" d="M839.5,1677.5 L1575.5,1677.5"/>
+                  <path fill="none" d="M839.5,1656.5 L1575.5,1656.5"/>
+                  <path fill="none" d="M839.5,1614.5 L1575.5,1614.5"/>
+                  <path fill="none" d="M839.5,1593.5 L1575.5,1593.5"/>
+                  <path fill="none" d="M839.5,1572.5 L1575.5,1572.5"/>
+                  <path fill="none" d="M839.5,1551.5 L1575.5,1551.5"/>
+                  <path fill="none" d="M839.5,1530.5 L1575.5,1530.5"/>
+                  <path fill="none" d="M839.5,1488.5 L1575.5,1488.5"/>
+                  <path fill="none" d="M839.5,1467.5 L1575.5,1467.5"/>
+                  <path fill="none" d="M839.5,1446.5 L1575.5,1446.5"/>
+                  <path fill="none" d="M839.5,1425.5 L1575.5,1425.5"/>
+                  <path fill="none" d="M839.5,1404.5 L1575.5,1404.5"/>
+                  <path fill="none" d="M839.5,1362.5 L1575.5,1362.5"/>
+                  <path fill="none" d="M839.5,1341.5 L1575.5,1341.5"/>
+                  <path fill="none" d="M839.5,1320.5 L1575.5,1320.5"/>
+                  <path fill="none" d="M839.5,1299.5 L1575.5,1299.5"/>
+                  <path fill="none" d="M839.5,1278.5 L1575.5,1278.5"/>
+                  <path fill="none" d="M839.5,1236.5 L1575.5,1236.5"/>
+                  <path fill="none" d="M839.5,1215.5 L1575.5,1215.5"/>
+                  <path fill="none" d="M839.5,1194.5 L1575.5,1194.5"/>
+                  <path fill="none" d="M839.5,1173.5 L1575.5,1173.5"/>
+                  <path fill="none" d="M839.5,1152.5 L1575.5,1152.5"/>
+                  <path fill="none" d="M839.5,1110.5 L1575.5,1110.5"/>
+                  <path fill="none" d="M839.5,1089.5 L1575.5,1089.5"/>
+                  <path fill="none" d="M839.5,1068.5 L1575.5,1068.5"/>
+                  <path fill="none" d="M839.5,1047.5 L1575.5,1047.5"/>
+                  <path fill="none" d="M839.5,1026.5 L1575.5,1026.5"/>
+                  <path fill="none" d="M839.5,984.5 L1575.5,984.5"/>
+                  <path fill="none" d="M839.5,963.5 L1575.5,963.5"/>
+                  <path fill="none" d="M839.5,942.5 L1575.5,942.5"/>
+                  <path fill="none" d="M839.5,921.5 L1575.5,921.5"/>
+                  <path fill="none" d="M839.5,900.5 L1575.5,900.5"/>
+                  <path fill="none" d="M839.5,858.5 L1575.5,858.5"/>
+                  <path fill="none" d="M839.5,837.5 L1575.5,837.5"/>
+                  <path fill="none" d="M839.5,816.5 L1575.5,816.5"/>
+                  <path fill="none" d="M839.5,795.5 L1575.5,795.5"/>
+                  <path fill="none" d="M839.5,774.5 L1575.5,774.5"/>
+                  <path fill="none" d="M839.5,732.5 L1575.5,732.5"/>
+                  <path fill="none" d="M839.5,711.5 L1575.5,711.5"/>
+                  <path fill="none" d="M839.5,690.5 L1575.5,690.5"/>
+                  <path fill="none" d="M839.5,669.5 L1575.5,669.5"/>
+                  <path fill="none" d="M839.5,648.5 L1575.5,648.5"/>
+                  <path fill="none" d="M839.5,606.5 L1575.5,606.5"/>
+                  <path fill="none" d="M839.5,585.5 L1575.5,585.5"/>
+                  <path fill="none" d="M839.5,564.5 L1575.5,564.5"/>
+                  <path fill="none" d="M839.5,543.5 L1575.5,543.5"/>
+                  <path fill="none" d="M839.5,522.5 L1575.5,522.5"/>
+                  <path fill="none" d="M839.5,480.5 L1575.5,480.5"/>
+                  <path fill="none" d="M839.5,459.5 L1575.5,459.5"/>
+                  <path fill="none" d="M839.5,438.5 L1575.5,438.5"/>
+                  <path fill="none" d="M839.5,417.5 L1575.5,417.5"/>
+                  <path fill="none" d="M839.5,396.5 L1575.5,396.5"/>
+                  <path fill="none" d="M839.5,354.5 L1575.5,354.5"/>
+                  <path fill="none" d="M839.5,333.5 L1575.5,333.5"/>
+                  <path fill="none" d="M839.5,312.5 L1575.5,312.5"/>
+                  <path fill="none" d="M839.5,291.5 L1575.5,291.5"/>
+                  <path fill="none" d="M839.5,270.5 L1575.5,270.5"/>
+                  <path fill="none" d="M839.5,228.5 L1575.5,228.5"/>
+                  <path fill="none" d="M839.5,207.5 L1575.5,207.5"/>
+                  <path fill="none" d="M839.5,186.5 L1575.5,186.5"/>
+                  <path fill="none" d="M839.5,165.5 L1575.5,165.5"/>
+                  <path fill="none" d="M839.5,144.5 L1575.5,144.5"/>
+                  <path fill="none" d="M839.5,102.5 L1575.5,102.5"/>
+                  <path fill="none" d="M839.5,81.5 L1575.5,81.5"/>
+                  <path fill="none" d="M839.5,60.5 L1575.5,60.5"/>
+                  <path fill="none" d="M839.5,39.5 L1575.5,39.5"/>
+                  <path fill="none" d="M839.5,18.5 L1575.5,18.5"/>
+                </g>
+                <g stroke="#D7D7D7">
+                  <path fill="none" d="M839.5,1761.5 L1575.5,1761.5"/>
+                  <path fill="none" d="M839.5,1635.5 L1575.5,1635.5"/>
+                  <path fill="none" d="M839.5,1509.5 L1575.5,1509.5"/>
+                  <path fill="none" d="M839.5,1383.5 L1575.5,1383.5"/>
+                  <path fill="none" d="M839.5,1257.5 L1575.5,1257.5"/>
+                  <path fill="none" d="M839.5,1131.5 L1575.5,1131.5"/>
+                  <path fill="none" d="M839.5,1005.5 L1575.5,1005.5"/>
+                  <path fill="none" d="M839.5,879.5 L1575.5,879.5"/>
+                  <path fill="none" d="M839.5,753.5 L1575.5,753.5"/>
+                  <path fill="none" d="M839.5,627.5 L1575.5,627.5"/>
+                  <path fill="none" d="M839.5,501.5 L1575.5,501.5"/>
+                  <path fill="none" d="M839.5,375.5 L1575.5,375.5"/>
+                  <path fill="none" d="M839.5,249.5 L1575.5,249.5"/>
+                  <path fill="none" d="M839.5,123.5 L1575.5,123.5"/>
+                </g>
+                <g>
+                  <g stroke="none" fill="#406FDF">
+                    <g>
+                      <defs>
+                        <pattern id="pattern9" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY3DIv98AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkrzfAADdQkPzGK2exAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern9)" d="M916.63,1635.5 L916.63,340.22 L989.35,340.22 L989.35,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#406FDF" fill="#406FDF">
+                    <path fill="none" d="M916.63,1635.5 L916.63,340.22 L989.35,340.22 L989.35,1635.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#D54857">
+                    <g>
+                      <defs>
+                        <pattern id="pattern10" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY7jqEd4AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkgxvAADxO0BLMxEuvQAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern10)" d="M989.35,1635.5 L989.35,1052.12 L1062.06,1052.12 L1062.06,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#D54857" fill="#D54857">
+                    <path fill="none" d="M989.35,1635.5 L989.35,1052.12 L1062.06,1052.12 L1062.06,1635.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#39B143">
+                    <g>
+                      <defs>
+                        <pattern id="pattern11" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAvSURBVBhXY7Dc6PwfiBuAGMSG4QYwgS4IxP+RBeCCIBqrIIiPVRCEsQpabnRmAADsHDZPAbvglQAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern11)" d="M1062.06,1635.5 L1062.06,1326.8 L1134.78,1326.8 L1134.78,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#39B143" fill="#39B143">
+                    <path fill="none" d="M1062.06,1635.5 L1062.06,1326.8 L1134.78,1326.8 L1134.78,1635.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#A12CDC">
+                    <g>
+                      <defs>
+                        <pattern id="pattern12" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAvSURBVBhXY1ioc+c/EDcAMYgNww1gAl0QiP8jC8AFQTRWQRAfqyAIYxVcqHOHAQAKGke/HVGt5QAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern12)" d="M1134.78,1635.5 L1134.78,1546.04 L1207.5,1546.04 L1207.5,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#A12CDC" fill="#A12CDC">
+                    <path fill="none" d="M1134.78,1635.5 L1134.78,1546.04 L1207.5,1546.04 L1207.5,1635.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#CF7926">
+                    <g>
+                      <defs>
+                        <pattern id="pattern13" patternUnits="userSpaceOnUse" width="4" height="1">
+                          <image x="0" y="0" width="4" height="1" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAYAAAD5PA/NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAUSURBVBhXYzhfqfYfiEE0EKsxAABDIAa4iz/IBAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern13)" d="M1207.5,1635.5 L1207.5,844.37 L1280.22,844.37 L1280.22,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#CF7926" fill="#CF7926">
+                    <path fill="none" d="M1207.5,1635.5 L1207.5,844.37 L1280.22,844.37 L1280.22,1635.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#21BD91">
+                    <g>
+                      <defs>
+                        <pattern id="pattern14" patternUnits="userSpaceOnUse" width="4" height="1">
+                          <image x="0" y="0" width="4" height="1" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAYAAAD5PA/NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAUSURBVBhXY1DcO/E/EINoIJ7IAAA+4Aa8Mnx5jgAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern14)" d="M1280.22,1635.5 L1280.22,1375.95 L1352.94,1375.95 L1352.94,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#21BD91" fill="#21BD91">
+                    <path fill="none" d="M1280.22,1635.5 L1280.22,1375.95 L1352.94,1375.95 L1352.94,1635.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#C925CD">
+                    <g>
+                      <defs>
+                        <pattern id="pattern15" patternUnits="userSpaceOnUse" width="1" height="4">
+                          <image x="0" y="0" width="1" height="4" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAECAYAAABP2FU6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAATSURBVBhXYzipevY/iGCAEWcZAFiiB+yBbxXhAAAAAElFTkSuQmCC"/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern15)" d="M1352.94,1635.5 L1352.94,1314.41 L1425.65,1314.41 L1425.65,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#C925CD" fill="#C925CD">
+                    <path fill="none" d="M1352.94,1635.5 L1352.94,1314.41 L1425.65,1314.41 L1425.65,1635.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#C8C127">
+                    <g>
+                      <defs>
+                        <pattern id="pattern16" patternUnits="userSpaceOnUse" width="1" height="4">
+                          <image x="0" y="0" width="1" height="4" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAECAYAAABP2FU6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAATSURBVBhXYzhxUP0/iGCAEeoMAFloB8Da5NAFAAAAAElFTkSuQmCC"/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern16)" d="M1425.65,1635.5 L1425.65,1502.34 L1498.37,1502.34 L1498.37,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#C8C127" fill="#C8C127">
+                    <path fill="none" d="M1425.65,1635.5 L1425.65,1502.34 L1498.37,1502.34 L1498.37,1635.5 z"/>
+                  </g>
+                  <g>
+                    <text stroke="none" x="952.5" y="342.5" dy="-1.8" text-anchor="middle">1028</text>
+                    <text stroke="none" x="1025.5" y="1054.5" dy="-1.8" text-anchor="middle">463</text>
+                    <text stroke="none" x="1098.5" y="1328.5" dy="-1.8" text-anchor="middle">245</text>
+                    <text stroke="none" x="1171.5" y="1548.5" dy="-1.8" text-anchor="middle">71</text>
+                    <text stroke="none" x="1243.5" y="846.5" dy="-1.8" text-anchor="middle">628</text>
+                    <text stroke="none" x="1316.5" y="1377.5" dy="-1.8" text-anchor="middle">206</text>
+                    <text stroke="none" x="1389.5" y="1316.5" dy="-1.8" text-anchor="middle">255</text>
+                    <text stroke="none" x="1462.5" y="1504.5" dy="-1.8" text-anchor="middle">106</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g stroke="#A5A5A5">
+            <path fill="none" d="M1575.5,1635.5 L839.5,1635.5"/>
+          </g>
+          <g fill="#FFFFFF">
+            <path stroke="none" d="M1576.5,123.5 L1576.5,1635.5 L2312.5,1635.5 L2312.5,123.5 z" fill-rule="evenodd"/>
+          </g>
+          <g>
+            <g>
+              <clipPath id="clip9" clip-path="url(#clip1)">
+                <path d="M1575.5,122.5 L1575.5,1635.5 L2313.5,1635.5 L2313.5,122.5 z"/>
+              </clipPath>
+              <g clip-path="url(#clip9)">
+                <g stroke="#F0F0F0">
+                  <path fill="none" d="M1576.5,1740.5 L2312.5,1740.5"/>
+                  <path fill="none" d="M1576.5,1719.5 L2312.5,1719.5"/>
+                  <path fill="none" d="M1576.5,1698.5 L2312.5,1698.5"/>
+                  <path fill="none" d="M1576.5,1677.5 L2312.5,1677.5"/>
+                  <path fill="none" d="M1576.5,1656.5 L2312.5,1656.5"/>
+                  <path fill="none" d="M1576.5,1614.5 L2312.5,1614.5"/>
+                  <path fill="none" d="M1576.5,1593.5 L2312.5,1593.5"/>
+                  <path fill="none" d="M1576.5,1572.5 L2312.5,1572.5"/>
+                  <path fill="none" d="M1576.5,1551.5 L2312.5,1551.5"/>
+                  <path fill="none" d="M1576.5,1530.5 L2312.5,1530.5"/>
+                  <path fill="none" d="M1576.5,1488.5 L2312.5,1488.5"/>
+                  <path fill="none" d="M1576.5,1467.5 L2312.5,1467.5"/>
+                  <path fill="none" d="M1576.5,1446.5 L2312.5,1446.5"/>
+                  <path fill="none" d="M1576.5,1425.5 L2312.5,1425.5"/>
+                  <path fill="none" d="M1576.5,1404.5 L2312.5,1404.5"/>
+                  <path fill="none" d="M1576.5,1362.5 L2312.5,1362.5"/>
+                  <path fill="none" d="M1576.5,1341.5 L2312.5,1341.5"/>
+                  <path fill="none" d="M1576.5,1320.5 L2312.5,1320.5"/>
+                  <path fill="none" d="M1576.5,1299.5 L2312.5,1299.5"/>
+                  <path fill="none" d="M1576.5,1278.5 L2312.5,1278.5"/>
+                  <path fill="none" d="M1576.5,1236.5 L2312.5,1236.5"/>
+                  <path fill="none" d="M1576.5,1215.5 L2312.5,1215.5"/>
+                  <path fill="none" d="M1576.5,1194.5 L2312.5,1194.5"/>
+                  <path fill="none" d="M1576.5,1173.5 L2312.5,1173.5"/>
+                  <path fill="none" d="M1576.5,1152.5 L2312.5,1152.5"/>
+                  <path fill="none" d="M1576.5,1110.5 L2312.5,1110.5"/>
+                  <path fill="none" d="M1576.5,1089.5 L2312.5,1089.5"/>
+                  <path fill="none" d="M1576.5,1068.5 L2312.5,1068.5"/>
+                  <path fill="none" d="M1576.5,1047.5 L2312.5,1047.5"/>
+                  <path fill="none" d="M1576.5,1026.5 L2312.5,1026.5"/>
+                  <path fill="none" d="M1576.5,984.5 L2312.5,984.5"/>
+                  <path fill="none" d="M1576.5,963.5 L2312.5,963.5"/>
+                  <path fill="none" d="M1576.5,942.5 L2312.5,942.5"/>
+                  <path fill="none" d="M1576.5,921.5 L2312.5,921.5"/>
+                  <path fill="none" d="M1576.5,900.5 L2312.5,900.5"/>
+                  <path fill="none" d="M1576.5,858.5 L2312.5,858.5"/>
+                  <path fill="none" d="M1576.5,837.5 L2312.5,837.5"/>
+                  <path fill="none" d="M1576.5,816.5 L2312.5,816.5"/>
+                  <path fill="none" d="M1576.5,795.5 L2312.5,795.5"/>
+                  <path fill="none" d="M1576.5,774.5 L2312.5,774.5"/>
+                  <path fill="none" d="M1576.5,732.5 L2312.5,732.5"/>
+                  <path fill="none" d="M1576.5,711.5 L2312.5,711.5"/>
+                  <path fill="none" d="M1576.5,690.5 L2312.5,690.5"/>
+                  <path fill="none" d="M1576.5,669.5 L2312.5,669.5"/>
+                  <path fill="none" d="M1576.5,648.5 L2312.5,648.5"/>
+                  <path fill="none" d="M1576.5,606.5 L2312.5,606.5"/>
+                  <path fill="none" d="M1576.5,585.5 L2312.5,585.5"/>
+                  <path fill="none" d="M1576.5,564.5 L2312.5,564.5"/>
+                  <path fill="none" d="M1576.5,543.5 L2312.5,543.5"/>
+                  <path fill="none" d="M1576.5,522.5 L2312.5,522.5"/>
+                  <path fill="none" d="M1576.5,480.5 L2312.5,480.5"/>
+                  <path fill="none" d="M1576.5,459.5 L2312.5,459.5"/>
+                  <path fill="none" d="M1576.5,438.5 L2312.5,438.5"/>
+                  <path fill="none" d="M1576.5,417.5 L2312.5,417.5"/>
+                  <path fill="none" d="M1576.5,396.5 L2312.5,396.5"/>
+                  <path fill="none" d="M1576.5,354.5 L2312.5,354.5"/>
+                  <path fill="none" d="M1576.5,333.5 L2312.5,333.5"/>
+                  <path fill="none" d="M1576.5,312.5 L2312.5,312.5"/>
+                  <path fill="none" d="M1576.5,291.5 L2312.5,291.5"/>
+                  <path fill="none" d="M1576.5,270.5 L2312.5,270.5"/>
+                  <path fill="none" d="M1576.5,228.5 L2312.5,228.5"/>
+                  <path fill="none" d="M1576.5,207.5 L2312.5,207.5"/>
+                  <path fill="none" d="M1576.5,186.5 L2312.5,186.5"/>
+                  <path fill="none" d="M1576.5,165.5 L2312.5,165.5"/>
+                  <path fill="none" d="M1576.5,144.5 L2312.5,144.5"/>
+                  <path fill="none" d="M1576.5,102.5 L2312.5,102.5"/>
+                  <path fill="none" d="M1576.5,81.5 L2312.5,81.5"/>
+                  <path fill="none" d="M1576.5,60.5 L2312.5,60.5"/>
+                  <path fill="none" d="M1576.5,39.5 L2312.5,39.5"/>
+                  <path fill="none" d="M1576.5,18.5 L2312.5,18.5"/>
+                </g>
+                <g stroke="#D7D7D7">
+                  <path fill="none" d="M1576.5,1761.5 L2312.5,1761.5"/>
+                  <path fill="none" d="M1576.5,1635.5 L2312.5,1635.5"/>
+                  <path fill="none" d="M1576.5,1509.5 L2312.5,1509.5"/>
+                  <path fill="none" d="M1576.5,1383.5 L2312.5,1383.5"/>
+                  <path fill="none" d="M1576.5,1257.5 L2312.5,1257.5"/>
+                  <path fill="none" d="M1576.5,1131.5 L2312.5,1131.5"/>
+                  <path fill="none" d="M1576.5,1005.5 L2312.5,1005.5"/>
+                  <path fill="none" d="M1576.5,879.5 L2312.5,879.5"/>
+                  <path fill="none" d="M1576.5,753.5 L2312.5,753.5"/>
+                  <path fill="none" d="M1576.5,627.5 L2312.5,627.5"/>
+                  <path fill="none" d="M1576.5,501.5 L2312.5,501.5"/>
+                  <path fill="none" d="M1576.5,375.5 L2312.5,375.5"/>
+                  <path fill="none" d="M1576.5,249.5 L2312.5,249.5"/>
+                  <path fill="none" d="M1576.5,123.5 L2312.5,123.5"/>
+                </g>
+                <g>
+                  <g stroke="none" fill="#406FDF">
+                    <g>
+                      <defs>
+                        <pattern id="pattern17" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY3DIv98AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkrzfAADdQkPzGK2exAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern17)" d="M1653.63,1635.5 L1653.63,378.02 L1726.35,378.02 L1726.35,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#406FDF" fill="#406FDF">
+                    <path fill="none" d="M1653.63,1635.5 L1653.63,378.02 L1726.35,378.02 L1726.35,1635.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#D54857">
+                    <g>
+                      <defs>
+                        <pattern id="pattern18" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY7jqEd4AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkgxvAADxO0BLMxEuvQAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern18)" d="M1726.35,1635.5 L1726.35,1106.3 L1799.06,1106.3 L1799.06,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#D54857" fill="#D54857">
+                    <path fill="none" d="M1726.35,1635.5 L1726.35,1106.3 L1799.06,1106.3 L1799.06,1635.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#39B143">
+                    <g>
+                      <defs>
+                        <pattern id="pattern19" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAvSURBVBhXY7Dc6PwfiBuAGMSG4QYwgS4IxP+RBeCCIBqrIIiPVRCEsQpabnRmAADsHDZPAbvglQAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern19)" d="M1799.06,1635.5 L1799.06,1333.1 L1871.78,1333.1 L1871.78,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#39B143" fill="#39B143">
+                    <path fill="none" d="M1799.06,1635.5 L1799.06,1333.1 L1871.78,1333.1 L1871.78,1635.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#A12CDC">
+                    <g>
+                      <defs>
+                        <pattern id="pattern20" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAvSURBVBhXY1ioc+c/EDcAMYgNww1gAl0QiP8jC8AFQTRWQRAfqyAIYxVcqHOHAQAKGke/HVGt5QAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern20)" d="M1871.78,1635.5 L1871.78,1538.48 L1944.5,1538.48 L1944.5,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#A12CDC" fill="#A12CDC">
+                    <path fill="none" d="M1871.78,1635.5 L1871.78,1538.48 L1944.5,1538.48 L1944.5,1635.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#CF7926">
+                    <g>
+                      <defs>
+                        <pattern id="pattern21" patternUnits="userSpaceOnUse" width="4" height="1">
+                          <image x="0" y="0" width="4" height="1" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAYAAAD5PA/NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAUSURBVBhXYzhfqfYfiEE0EKsxAABDIAa4iz/IBAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern21)" d="M1944.5,1635.5 L1944.5,858.15 L2017.22,858.15 L2017.22,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#CF7926" fill="#CF7926">
+                    <path fill="none" d="M1944.5,1635.5 L1944.5,858.15 L2017.22,858.15 L2017.22,1635.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#21BD91">
+                    <g>
+                      <defs>
+                        <pattern id="pattern22" patternUnits="userSpaceOnUse" width="4" height="1">
+                          <image x="0" y="0" width="4" height="1" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAYAAAD5PA/NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAUSURBVBhXY1DcO/E/EINoIJ7IAAA+4Aa8Mnx5jgAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern22)" d="M2017.22,1635.5 L2017.22,1362.18 L2089.94,1362.18 L2089.94,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#21BD91" fill="#21BD91">
+                    <path fill="none" d="M2017.22,1635.5 L2017.22,1362.18 L2089.94,1362.18 L2089.94,1635.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#C925CD">
+                    <g>
+                      <defs>
+                        <pattern id="pattern23" patternUnits="userSpaceOnUse" width="1" height="4">
+                          <image x="0" y="0" width="1" height="4" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAECAYAAABP2FU6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAATSURBVBhXYzipevY/iGCAEWcZAFiiB+yBbxXhAAAAAElFTkSuQmCC"/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern23)" d="M2089.94,1635.5 L2089.94,1315.94 L2162.65,1315.94 L2162.65,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#C925CD" fill="#C925CD">
+                    <path fill="none" d="M2089.94,1635.5 L2089.94,1315.94 L2162.65,1315.94 L2162.65,1635.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#C8C127">
+                    <g>
+                      <defs>
+                        <pattern id="pattern24" patternUnits="userSpaceOnUse" width="1" height="4">
+                          <image x="0" y="0" width="1" height="4" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAECAYAAABP2FU6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAATSURBVBhXYzhxUP0/iGCAEeoMAFloB8Da5NAFAAAAAElFTkSuQmCC"/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern24)" d="M2162.65,1635.5 L2162.65,1507.87 L2235.37,1507.87 L2235.37,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#C8C127" fill="#C8C127">
+                    <path fill="none" d="M2162.65,1635.5 L2162.65,1507.87 L2235.37,1507.87 L2235.37,1635.5 z"/>
+                  </g>
+                  <g>
+                    <text stroke="none" x="1689.5" y="380.5" dy="-1.8" text-anchor="middle">998</text>
+                    <text stroke="none" x="1762.5" y="1108.5" dy="-1.8" text-anchor="middle">420</text>
+                    <text stroke="none" x="1835.5" y="1335.5" dy="-1.8" text-anchor="middle">240</text>
+                    <text stroke="none" x="1908.5" y="1540.5" dy="-1.8" text-anchor="middle">77</text>
+                    <text stroke="none" x="1980.5" y="860.5" dy="-1.8" text-anchor="middle">617</text>
+                    <text stroke="none" x="2053.5" y="1364.5" dy="-1.8" text-anchor="middle">217</text>
+                    <text stroke="none" x="2126.5" y="1317.5" dy="-1.8" text-anchor="middle">254</text>
+                    <text stroke="none" x="2199.5" y="1509.5" dy="-1.8" text-anchor="middle">101</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g stroke="#A5A5A5">
+            <path fill="none" d="M2312.5,1635.5 L1576.5,1635.5"/>
+          </g>
+          <g fill="#FFFFFF">
+            <path stroke="none" d="M2313.5,123.5 L2313.5,1635.5 L3049.5,1635.5 L3049.5,123.5 z" fill-rule="evenodd"/>
+          </g>
+          <g>
+            <g>
+              <clipPath id="clip10" clip-path="url(#clip1)">
+                <path d="M2312.5,122.5 L2312.5,1635.5 L3049.5,1635.5 L3049.5,122.5 z"/>
+              </clipPath>
+              <g clip-path="url(#clip10)">
+                <g stroke="#F0F0F0">
+                  <path fill="none" d="M2313.5,1740.5 L3049.5,1740.5"/>
+                  <path fill="none" d="M2313.5,1719.5 L3049.5,1719.5"/>
+                  <path fill="none" d="M2313.5,1698.5 L3049.5,1698.5"/>
+                  <path fill="none" d="M2313.5,1677.5 L3049.5,1677.5"/>
+                  <path fill="none" d="M2313.5,1656.5 L3049.5,1656.5"/>
+                  <path fill="none" d="M2313.5,1614.5 L3049.5,1614.5"/>
+                  <path fill="none" d="M2313.5,1593.5 L3049.5,1593.5"/>
+                  <path fill="none" d="M2313.5,1572.5 L3049.5,1572.5"/>
+                  <path fill="none" d="M2313.5,1551.5 L3049.5,1551.5"/>
+                  <path fill="none" d="M2313.5,1530.5 L3049.5,1530.5"/>
+                  <path fill="none" d="M2313.5,1488.5 L3049.5,1488.5"/>
+                  <path fill="none" d="M2313.5,1467.5 L3049.5,1467.5"/>
+                  <path fill="none" d="M2313.5,1446.5 L3049.5,1446.5"/>
+                  <path fill="none" d="M2313.5,1425.5 L3049.5,1425.5"/>
+                  <path fill="none" d="M2313.5,1404.5 L3049.5,1404.5"/>
+                  <path fill="none" d="M2313.5,1362.5 L3049.5,1362.5"/>
+                  <path fill="none" d="M2313.5,1341.5 L3049.5,1341.5"/>
+                  <path fill="none" d="M2313.5,1320.5 L3049.5,1320.5"/>
+                  <path fill="none" d="M2313.5,1299.5 L3049.5,1299.5"/>
+                  <path fill="none" d="M2313.5,1278.5 L3049.5,1278.5"/>
+                  <path fill="none" d="M2313.5,1236.5 L3049.5,1236.5"/>
+                  <path fill="none" d="M2313.5,1215.5 L3049.5,1215.5"/>
+                  <path fill="none" d="M2313.5,1194.5 L3049.5,1194.5"/>
+                  <path fill="none" d="M2313.5,1173.5 L3049.5,1173.5"/>
+                  <path fill="none" d="M2313.5,1152.5 L3049.5,1152.5"/>
+                  <path fill="none" d="M2313.5,1110.5 L3049.5,1110.5"/>
+                  <path fill="none" d="M2313.5,1089.5 L3049.5,1089.5"/>
+                  <path fill="none" d="M2313.5,1068.5 L3049.5,1068.5"/>
+                  <path fill="none" d="M2313.5,1047.5 L3049.5,1047.5"/>
+                  <path fill="none" d="M2313.5,1026.5 L3049.5,1026.5"/>
+                  <path fill="none" d="M2313.5,984.5 L3049.5,984.5"/>
+                  <path fill="none" d="M2313.5,963.5 L3049.5,963.5"/>
+                  <path fill="none" d="M2313.5,942.5 L3049.5,942.5"/>
+                  <path fill="none" d="M2313.5,921.5 L3049.5,921.5"/>
+                  <path fill="none" d="M2313.5,900.5 L3049.5,900.5"/>
+                  <path fill="none" d="M2313.5,858.5 L3049.5,858.5"/>
+                  <path fill="none" d="M2313.5,837.5 L3049.5,837.5"/>
+                  <path fill="none" d="M2313.5,816.5 L3049.5,816.5"/>
+                  <path fill="none" d="M2313.5,795.5 L3049.5,795.5"/>
+                  <path fill="none" d="M2313.5,774.5 L3049.5,774.5"/>
+                  <path fill="none" d="M2313.5,732.5 L3049.5,732.5"/>
+                  <path fill="none" d="M2313.5,711.5 L3049.5,711.5"/>
+                  <path fill="none" d="M2313.5,690.5 L3049.5,690.5"/>
+                  <path fill="none" d="M2313.5,669.5 L3049.5,669.5"/>
+                  <path fill="none" d="M2313.5,648.5 L3049.5,648.5"/>
+                  <path fill="none" d="M2313.5,606.5 L3049.5,606.5"/>
+                  <path fill="none" d="M2313.5,585.5 L3049.5,585.5"/>
+                  <path fill="none" d="M2313.5,564.5 L3049.5,564.5"/>
+                  <path fill="none" d="M2313.5,543.5 L3049.5,543.5"/>
+                  <path fill="none" d="M2313.5,522.5 L3049.5,522.5"/>
+                  <path fill="none" d="M2313.5,480.5 L3049.5,480.5"/>
+                  <path fill="none" d="M2313.5,459.5 L3049.5,459.5"/>
+                  <path fill="none" d="M2313.5,438.5 L3049.5,438.5"/>
+                  <path fill="none" d="M2313.5,417.5 L3049.5,417.5"/>
+                  <path fill="none" d="M2313.5,396.5 L3049.5,396.5"/>
+                  <path fill="none" d="M2313.5,354.5 L3049.5,354.5"/>
+                  <path fill="none" d="M2313.5,333.5 L3049.5,333.5"/>
+                  <path fill="none" d="M2313.5,312.5 L3049.5,312.5"/>
+                  <path fill="none" d="M2313.5,291.5 L3049.5,291.5"/>
+                  <path fill="none" d="M2313.5,270.5 L3049.5,270.5"/>
+                  <path fill="none" d="M2313.5,228.5 L3049.5,228.5"/>
+                  <path fill="none" d="M2313.5,207.5 L3049.5,207.5"/>
+                  <path fill="none" d="M2313.5,186.5 L3049.5,186.5"/>
+                  <path fill="none" d="M2313.5,165.5 L3049.5,165.5"/>
+                  <path fill="none" d="M2313.5,144.5 L3049.5,144.5"/>
+                  <path fill="none" d="M2313.5,102.5 L3049.5,102.5"/>
+                  <path fill="none" d="M2313.5,81.5 L3049.5,81.5"/>
+                  <path fill="none" d="M2313.5,60.5 L3049.5,60.5"/>
+                  <path fill="none" d="M2313.5,39.5 L3049.5,39.5"/>
+                  <path fill="none" d="M2313.5,18.5 L3049.5,18.5"/>
+                </g>
+                <g stroke="#D7D7D7">
+                  <path fill="none" d="M2313.5,1761.5 L3049.5,1761.5"/>
+                  <path fill="none" d="M2313.5,1635.5 L3049.5,1635.5"/>
+                  <path fill="none" d="M2313.5,1509.5 L3049.5,1509.5"/>
+                  <path fill="none" d="M2313.5,1383.5 L3049.5,1383.5"/>
+                  <path fill="none" d="M2313.5,1257.5 L3049.5,1257.5"/>
+                  <path fill="none" d="M2313.5,1131.5 L3049.5,1131.5"/>
+                  <path fill="none" d="M2313.5,1005.5 L3049.5,1005.5"/>
+                  <path fill="none" d="M2313.5,879.5 L3049.5,879.5"/>
+                  <path fill="none" d="M2313.5,753.5 L3049.5,753.5"/>
+                  <path fill="none" d="M2313.5,627.5 L3049.5,627.5"/>
+                  <path fill="none" d="M2313.5,501.5 L3049.5,501.5"/>
+                  <path fill="none" d="M2313.5,375.5 L3049.5,375.5"/>
+                  <path fill="none" d="M2313.5,249.5 L3049.5,249.5"/>
+                  <path fill="none" d="M2313.5,123.5 L3049.5,123.5"/>
+                </g>
+                <g>
+                  <g stroke="none" fill="#406FDF">
+                    <g>
+                      <defs>
+                        <pattern id="pattern25" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY3DIv98AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkrzfAADdQkPzGK2exAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern25)" d="M2390.63,1635.5 L2390.63,212.96 L2463.35,212.96 L2463.35,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#406FDF" fill="#406FDF">
+                    <path fill="none" d="M2390.63,1635.5 L2390.63,212.96 L2463.35,212.96 L2463.35,1635.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#D54857">
+                    <g>
+                      <defs>
+                        <pattern id="pattern26" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY7jqEd4AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkgxvAADxO0BLMxEuvQAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern26)" d="M2463.35,1635.5 L2463.35,1141.58 L2536.06,1141.58 L2536.06,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#D54857" fill="#D54857">
+                    <path fill="none" d="M2463.35,1635.5 L2463.35,1141.58 L2536.06,1141.58 L2536.06,1635.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#39B143">
+                    <g>
+                      <defs>
+                        <pattern id="pattern27" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAvSURBVBhXY7Dc6PwfiBuAGMSG4QYwgS4IxP+RBeCCIBqrIIiPVRCEsQpabnRmAADsHDZPAbvglQAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern27)" d="M2536.06,1635.5 L2536.06,1301.6 L2608.78,1301.6 L2608.78,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#39B143" fill="#39B143">
+                    <path fill="none" d="M2536.06,1635.5 L2536.06,1301.6 L2608.78,1301.6 L2608.78,1635.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#A12CDC">
+                    <g>
+                      <defs>
+                        <pattern id="pattern28" patternUnits="userSpaceOnUse" width="6" height="6">
+                          <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAvSURBVBhXY1ioc+c/EDcAMYgNww1gAl0QiP8jC8AFQTRWQRAfqyAIYxVcqHOHAQAKGke/HVGt5QAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern28)" d="M2608.78,1635.5 L2608.78,1569.98 L2681.5,1569.98 L2681.5,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#A12CDC" fill="#A12CDC">
+                    <path fill="none" d="M2608.78,1635.5 L2608.78,1569.98 L2681.5,1569.98 L2681.5,1635.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#CF7926">
+                    <g>
+                      <defs>
+                        <pattern id="pattern29" patternUnits="userSpaceOnUse" width="4" height="1">
+                          <image x="0" y="0" width="4" height="1" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAYAAAD5PA/NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAUSURBVBhXYzhfqfYfiEE0EKsxAABDIAa4iz/IBAAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern29)" d="M2681.5,1635.5 L2681.5,767.26 L2754.22,767.26 L2754.22,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#CF7926" fill="#CF7926">
+                    <path fill="none" d="M2681.5,1635.5 L2681.5,767.26 L2754.22,767.26 L2754.22,1635.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#21BD91">
+                    <g>
+                      <defs>
+                        <pattern id="pattern30" patternUnits="userSpaceOnUse" width="4" height="1">
+                          <image x="0" y="0" width="4" height="1" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAYAAAD5PA/NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAUSURBVBhXY1DcO/E/EINoIJ7IAAA+4Aa8Mnx5jgAAAABJRU5ErkJggg=="/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern30)" d="M2754.22,1635.5 L2754.22,1453.07 L2826.94,1453.07 L2826.94,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#21BD91" fill="#21BD91">
+                    <path fill="none" d="M2754.22,1635.5 L2754.22,1453.07 L2826.94,1453.07 L2826.94,1635.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#C925CD">
+                    <g>
+                      <defs>
+                        <pattern id="pattern31" patternUnits="userSpaceOnUse" width="1" height="4">
+                          <image x="0" y="0" width="1" height="4" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAECAYAAABP2FU6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAATSURBVBhXYzipevY/iGCAEWcZAFiiB+yBbxXhAAAAAElFTkSuQmCC"/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern31)" d="M2826.94,1635.5 L2826.94,1281.72 L2899.65,1281.72 L2899.65,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#C925CD" fill="#C925CD">
+                    <path fill="none" d="M2826.94,1635.5 L2826.94,1281.72 L2899.65,1281.72 L2899.65,1635.5 z"/>
+                  </g>
+                  <g stroke="none" fill="#C8C127">
+                    <g>
+                      <defs>
+                        <pattern id="pattern32" patternUnits="userSpaceOnUse" width="1" height="4">
+                          <image x="0" y="0" width="1" height="4" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAECAYAAABP2FU6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAATSURBVBhXYzhxUP0/iGCAEeoMAFloB8Da5NAFAAAAAElFTkSuQmCC"/>
+                        </pattern>
+                      </defs>
+                      <path stroke="none" fill="url(#pattern32)" d="M2899.65,1635.5 L2899.65,1528.75 L2972.37,1528.75 L2972.37,1635.5 z" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                  <g stroke="#C8C127" fill="#C8C127">
+                    <path fill="none" d="M2899.65,1635.5 L2899.65,1528.75 L2972.37,1528.75 L2972.37,1635.5 z"/>
+                  </g>
+                  <g>
+                    <text stroke="none" x="2426.5" y="214.5" dy="-1.8" text-anchor="middle">1129</text>
+                    <text stroke="none" x="2499.5" y="1143.5" dy="-1.8" text-anchor="middle">392</text>
+                    <text stroke="none" x="2572.5" y="1303.5" dy="-1.8" text-anchor="middle">265</text>
+                    <text stroke="none" x="2645.5" y="1571.5" dy="-1.8" text-anchor="middle">52</text>
+                    <text stroke="none" x="2717.5" y="769.5" dy="-1.8" text-anchor="middle">689</text>
+                    <text stroke="none" x="2790.5" y="1455.5" dy="-1.8" text-anchor="middle">145</text>
+                    <text stroke="none" x="2863.5" y="1283.5" dy="-1.8" text-anchor="middle">281</text>
+                    <text stroke="none" x="2936.5" y="1530.5" dy="-1.8" text-anchor="middle">84,7</text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g stroke="#A5A5A5">
+            <path fill="none" d="M3049.5,123.5 L3049.5,1635.5 L2313.5,1635.5"/>
+          </g>
+          <g>
+            <g>
+              <clipPath id="clip11" clip-path="url(#clip1)">
+                <path d="M110.5,127.5 L110.5,162.5 L1724.5,162.5 L1724.5,127.5 z"/>
+              </clipPath>
+              <g clip-path="url(#clip11)">
+                <g fill="#406FDF">
+                  <g>
+                    <defs>
+                      <pattern id="pattern33" patternUnits="userSpaceOnUse" width="6" height="6">
+                        <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY3DIv98AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkrzfAADdQkPzGK2exAAAAABJRU5ErkJggg=="/>
+                      </pattern>
+                    </defs>
+                    <path stroke="none" fill="url(#pattern33)" d="M112.5,134.5 L112.5,155.5 L133.5,155.5 L133.5,134.5 z" fill-rule="evenodd"/>
+                  </g>
+                </g>
+                <text stroke="none" x="135.5" y="144.5" dy="9">Found (max)</text>
+                <g fill="#D54857">
+                  <g>
+                    <defs>
+                      <pattern id="pattern34" patternUnits="userSpaceOnUse" width="6" height="6">
+                        <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAySURBVBhXY7jqEd4AxCAahkH8/yDGfygHRRKuAkrDJeEqgBhFEq4CKgiXRJZAkgxvAADxO0BLMxEuvQAAAABJRU5ErkJggg=="/>
+                      </pattern>
+                    </defs>
+                    <path stroke="none" fill="url(#pattern34)" d="M260.5,134.5 L260.5,155.5 L281.5,155.5 L281.5,134.5 z" fill-rule="evenodd"/>
+                  </g>
+                </g>
+                <text stroke="none" x="283.5" y="144.5" dy="9">Not Found (max)</text>
+                <g fill="#39B143">
+                  <g>
+                    <defs>
+                      <pattern id="pattern35" patternUnits="userSpaceOnUse" width="6" height="6">
+                        <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAvSURBVBhXY7Dc6PwfiBuAGMSG4QYwgS4IxP+RBeCCIBqrIIiPVRCEsQpabnRmAADsHDZPAbvglQAAAABJRU5ErkJggg=="/>
+                      </pattern>
+                    </defs>
+                    <path stroke="none" fill="url(#pattern35)" d="M448.5,134.5 L448.5,155.5 L469.5,155.5 L469.5,134.5 z" fill-rule="evenodd"/>
+                  </g>
+                </g>
+                <text stroke="none" x="471.5" y="144.5" dy="9">Found (min)</text>
+                <g fill="#A12CDC">
+                  <g>
+                    <defs>
+                      <pattern id="pattern36" patternUnits="userSpaceOnUse" width="6" height="6">
+                        <image x="0" y="0" width="6" height="6" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAvSURBVBhXY1ioc+c/EDcAMYgNww1gAl0QiP8jC8AFQTRWQRAfqyAIYxVcqHOHAQAKGke/HVGt5QAAAABJRU5ErkJggg=="/>
+                      </pattern>
+                    </defs>
+                    <path stroke="none" fill="url(#pattern36)" d="M596.5,134.5 L596.5,155.5 L617.5,155.5 L617.5,134.5 z" fill-rule="evenodd"/>
+                  </g>
+                </g>
+                <text stroke="none" x="619.5" y="144.5" dy="9">Not Found (min)</text>
+                <g fill="#CF7926">
+                  <g>
+                    <defs>
+                      <pattern id="pattern37" patternUnits="userSpaceOnUse" width="4" height="1">
+                        <image x="0" y="0" width="4" height="1" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAYAAAD5PA/NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAUSURBVBhXYzhfqfYfiEE0EKsxAABDIAa4iz/IBAAAAABJRU5ErkJggg=="/>
+                      </pattern>
+                    </defs>
+                    <path stroke="none" fill="url(#pattern37)" d="M784.5,134.5 L784.5,155.5 L805.5,155.5 L805.5,134.5 z" fill-rule="evenodd"/>
+                  </g>
+                </g>
+                <text stroke="none" x="807.5" y="144.5" dy="9">Found (mean)</text>
+                <g fill="#21BD91">
+                  <g>
+                    <defs>
+                      <pattern id="pattern38" patternUnits="userSpaceOnUse" width="4" height="1">
+                        <image x="0" y="0" width="4" height="1" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAYAAAD5PA/NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAUSURBVBhXY1DcO/E/EINoIJ7IAAA+4Aa8Mnx5jgAAAABJRU5ErkJggg=="/>
+                      </pattern>
+                    </defs>
+                    <path stroke="none" fill="url(#pattern38)" d="M942.5,134.5 L942.5,155.5 L963.5,155.5 L963.5,134.5 z" fill-rule="evenodd"/>
+                  </g>
+                </g>
+                <text stroke="none" x="965.5" y="144.5" dy="9">Not Found (mean)</text>
+                <g fill="#C925CD">
+                  <g>
+                    <defs>
+                      <pattern id="pattern39" patternUnits="userSpaceOnUse" width="1" height="4">
+                        <image x="0" y="0" width="1" height="4" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAECAYAAABP2FU6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAATSURBVBhXYzipevY/iGCAEWcZAFiiB+yBbxXhAAAAAElFTkSuQmCC"/>
+                      </pattern>
+                    </defs>
+                    <path stroke="none" fill="url(#pattern39)" d="M1140.5,134.5 L1140.5,155.5 L1161.5,155.5 L1161.5,134.5 z" fill-rule="evenodd"/>
+                  </g>
+                </g>
+                <text stroke="none" x="1163.5" y="144.5" dy="9">Found (SD)</text>
+                <g fill="#C8C127">
+                  <g>
+                    <defs>
+                      <pattern id="pattern40" patternUnits="userSpaceOnUse" width="1" height="4">
+                        <image x="0" y="0" width="1" height="4" preserveAspectRatio="none" opacity="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAECAYAAABP2FU6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAATSURBVBhXYzhxUP0/iGCAEeoMAFloB8Da5NAFAAAAAElFTkSuQmCC"/>
+                      </pattern>
+                    </defs>
+                    <path stroke="none" fill="url(#pattern40)" d="M1278.5,134.5 L1278.5,155.5 L1299.5,155.5 L1299.5,134.5 z" fill-rule="evenodd"/>
+                  </g>
+                </g>
+                <text stroke="none" x="1301.5" y="144.5" dy="9">Not Found (SD)</text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
